@@ -1,0 +1,71 @@
+---
+---
+
+{% if entry.abbr %}
+  {% if site.data.venues[entry.abbr] %}
+    <abbr>[<a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a>]</abbr>
+  {% else %}
+    <abbr>[{{entry.abbr}}]</abbr>
+  {% endif %}
+{% endif %}
+
+<div id="{{entry.key}}">
+  {% if entry.type == "thesis" %}
+    {{reference}}
+  {% else %}
+    <span class="title">{{entry.title}}</span>
+    <span class="author">
+      {% for author in entry.author_array %}
+        {% if forloop.length == 1 %}
+          {% if author.last == site.scholar.last_name %}
+            <em>{{author.last}}, {{author.first}}</em>
+          {% else %}
+            {{author.last}}, {{author.first}}
+          {% endif %}
+        {% else %}
+          {% unless forloop.last %}
+            {% if author.last == site.scholar.last_name %}
+              <em>{{author.last}}, {{author.first}}</em>,
+            {% else %}
+              {% if site.data.coauthors[author.last] %}
+                <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</a>,
+              {% else %}
+                {{author.last}}, {{author.first}},
+              {% endif %}
+            {% endif %}
+          {% else %}
+            {% if author.last == site.scholar.last_name %}
+              and <em>{{author.last}}, {{author.first}}</em>
+            {% else %}
+              {% if site.data.coauthors[author.last] %}
+                and <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</a>
+              {% else %}
+                and {{author.last}}, {{author.first}}
+              {% endif %}
+            {% endif %}
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
+    </span>
+
+
+  <span class="periodical">
+  {% if entry.type == "article" %}
+    {% if entry.doi %}
+      <a href="http://dx.doi.org/{{ entry.doi }}" target="_blank">{{ entry.journal }} <b>{{ entry.volume }}</b>, {{ entry.pages}} ({{ entry.year }})</a>
+
+    {% else if entry.arxiv %}
+      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv:{{entry.arxiv}}</a><i> (preprint) </i>
+    {% endif %}
+
+  {% endif %}
+  </span>
+{% endif %}
+
+  <!-- Hidden abstract block -->
+  {% if entry.abstract %}
+  <span class="abstract hidden">
+    <p>{{ entry.abstract }}</p>
+  </span>
+  {% endif %}
+</div>
