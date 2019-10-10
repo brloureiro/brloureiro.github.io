@@ -5,8 +5,8 @@ title: <strong>Bruno</strong> Loureiro
 description: <a href="https://www.ipht.fr/">Institut de Physique Théorique (IPhT)</a>, Saclay
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: up
+  image: linocut.png
   address: >
 
 news: true
