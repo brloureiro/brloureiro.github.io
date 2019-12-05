@@ -1,7 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
-.DS_store
+.DS_Store
 .ruby-version
 /assets/cv/cv_BL.tex
 Gemfile.lock
