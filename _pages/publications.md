@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Publications by categories in reversed chronological order. Authors are listed in alphabetical order.
-years: [2019, 2018, 2016]
+years: [2020, 2019, 2018, 2016]
 ---
 
 {% for y in page.years %}
