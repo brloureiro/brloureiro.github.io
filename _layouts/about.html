@@ -6,7 +6,10 @@ layout: default
       <div class="post">
         <header class="post-header">
           <h1 class="post-title">
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+          <span class="font-weight-bold">Bruno</span> Loureiro
+           <!-- Not working the bold...
+           {% if site.title == "blank" -%}<span class="font-weight-bold">Bruno</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+           -->
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
@@ -16,8 +19,8 @@ layout: default
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-              {% include figure.html 
-              path=profile_image_path 
+              {% include figure.html
+              path=profile_image_path
               class="img-fluid z-dept-1 rounded"
               alt=page.profile.image -%}
             {% endif -%}
@@ -51,7 +54,7 @@ layout: default
             <div class="contact-note">
               {{ site.contact_note }}
             </div>
-            
+
           </div>
           {%- endif %}
         </article>
