@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href="https://www.epfl.ch/en/">École Polytechnique Fédérale de Lausanne (EPFL)</a>, Institute of Physics and Institute of Electrical Engineering
 
 profile:
-  align: right
+  align: up
   image: linocut.png
   address: >
 
