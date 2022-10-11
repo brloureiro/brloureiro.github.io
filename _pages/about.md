@@ -2,7 +2,7 @@
 layout: about
 title: >
 permalink: /
-subtitle: <a href="https://www.epfl.ch/en/">École Polytechnique Fédérale de Lausanne (EPFL)</a>, Institute of Physics and Institute of Electrical Engineering
+subtitle: <a href="https://www.ens.psl.eu/">École Normale Supérieure (ENS)</a>, Departement d'Informatique.
 
 profile:
   align: up
