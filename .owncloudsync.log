@@ -1,0 +1,1744 @@
+Log for:/Users/brloureiro/dev-projects/webpage_new/
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | X-Request-ID
+#=#=#=# Syncrun started 2022-12-21T06:23:14Z
+#=#=#=# Syncrun finished 2022-12-21T06:23:14Z (last step: 16 msec , total: 16 msec) 
+#=#=#=# Syncrun started 2022-12-21T08:57:33Z
+#=#=#=# Syncrun finished 2022-12-21T08:57:33Z (last step: 12 msec , total: 12 msec) 
+#=#=#=# Syncrun started 2022-12-22T00:40:42Z
+#=#=#=# Syncrun finished 2022-12-22T00:40:42Z (last step: 5 msec , total: 5 msec) 
+#=#=#=# Syncrun started 2022-12-22T20:48:43Z
+#=#=#=#=# Propagation starts 2022-12-22T20:48:45Z (last step: 1975 msec , total: 1975 msec) 
+2022-12-22T20:48:48Z | _includes/footer.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 109b3cdd5589608432f560a71975582f | 1075 | 2866001734ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 6bc8647e-ec51-4bf6-864b-620f5f2f266d | 
+2022-12-22T20:48:47Z | _data/coauthors.yml | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | f4add324f040908658e5fe5b984d812c | 583 | 2866001750ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 78346e7f-4c79-45d0-ae84-5114b4d5ccfd | 
+2022-12-22T20:48:45Z | _data | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 |  | 96 | 2866001658ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ff1b61e9-1ec9-486e-b46d-337785ffabaf | 
+2022-12-22T20:48:48Z | _bibliography/papers.bib | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580440 | 9e71ab1cd79864a80248661d05664a5f | 8167 | 2866001766ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c8334dad-2421-474a-9ec9-87028b2b192f | 
+2022-12-22T20:48:45Z | _bibliography | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 |  | 96 | 2866001662ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 65b13a90-3369-4130-90e0-7205e9baf658 | 
+2022-12-22T20:48:47Z | _includes/figure.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | f1882f7766800728bc1a95b118d38983 | 738 | 2866001774ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 8630dcc6-1639-4677-814b-70f31bf5d8dd | 
+2022-12-22T20:48:50Z | _includes/head.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 6ae69c7ca5ef90c560d381d1d7c50872 | 1919 | 2866001798ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ac235877-69d3-4a8c-b0f4-0d4015c2ee48 | 
+2022-12-22T20:48:51Z | _includes/pagination.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 4bde8608a9e9411e611853afbc1014ae | 911 | 2866001826ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 26f7d8c5-dfce-4b49-b1a7-d6fe6e364882 | 
+2022-12-22T20:48:51Z | _includes/scripts/analytics.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 8858e717bc627cf33c1389a432edc909 | 851 | 2866001842ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 40a2412b-5f3d-41e0-aa08-bc4e4c00f12b | 
+2022-12-22T20:48:50Z | _includes/news.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | e807c8a6eb52763fac8b4431fcd462d3 | 959 | 2866001850ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 74f23f0d-14e5-4540-94da-2343345d3acd | 
+2022-12-22T20:48:50Z | _includes/metadata.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 0813f3f0c100432ad49054cb302d8b40 | 7683 | 2866001866ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c5d6efd4-a3cc-40be-9ed4-63a13323fe58 | 
+2022-12-22T20:48:50Z | _includes/header.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | e8ed4b595a65dc0b855b195b000e84c0 | 3827 | 2866001890ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 9229428e-edfe-4137-96dc-bd9fd2440823 | 
+2022-12-22T20:48:52Z | _includes/scripts/jquery.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | a815ac34bd62e60ea628cf52fda5f7ee | 187 | 2866001898ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f6cc495a-ad7e-47f3-aec5-8a670893f178 | 
+2022-12-22T20:48:53Z | _includes/scripts/mathjax.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 495320f926f87332bf8e47dd634ffedf | 425 | 2866001934ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 818c65da-3533-414a-a838-25e5d1552226 | 
+2022-12-22T20:48:54Z | _includes/scripts/misc.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 6caaf8a505705a1710ddc544c6ce15c7 | 604 | 2866001938ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b331b177-3ff8-4e2c-a72e-81981b1f218c | 
+2022-12-22T20:48:54Z | _includes/scripts/masonry.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 90e873af3a471a528294382f7be1913b | 477 | 2866001958ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a4bc79a2-2cba-4987-9ef9-5c0366632f7d | 
+2022-12-22T20:48:52Z | _includes/scripts/bootstrap.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | f77fe8e94e688768f6faa98888e40cbd | 572 | 2866001858ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | bae15af7-1a5f-4f4b-b4d1-d8348b8bdfca | 
+2022-12-22T20:48:47Z | _includes/scripts | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 |  | 256 | 2866001742ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 747dcaac-3e47-443d-851c-b6d54ff19b0d | 
+2022-12-22T20:48:55Z | _includes/projects_horizontal.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 1d14cbb6147963864883760d5ab1ae59 | 1505 | 2866001978ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c8a5d03b-6d5c-40e2-992f-f73df9e77b44 | 
+2022-12-22T20:48:54Z | _includes/projects.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 6bc0d3ec8aee6707391d0c4a0eda8fcc | 1338 | 2866001950ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 39baa1bf-1c2e-4408-b520-d33f70961875 | 
+2022-12-22T20:48:57Z | _includes/social.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 04918cc5d0f961961a185edc046af62f | 3538 | 2866002018ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 377e535b-c00b-4572-bc3a-db42e2ab74b8 | 
+2022-12-22T20:48:58Z | _layouts/archive-year.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 4ae4d9513ee53777e468244066030a3d | 686 | 2866002038ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 0bf35210-1a1b-4fa8-86b0-0c735b0870b7 | 
+2022-12-22T20:48:56Z | _includes/selected_papers.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | ed651691766b41a020e61120ded70242 | 161 | 2866002010ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f7cb025a-133e-4af6-a06d-9f4c97599921 | 
+2022-12-22T20:48:45Z | _includes | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 |  | 448 | 2866001666ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 1c4d9ae4-c514-4090-8b9a-802007f98924 | 
+2022-12-22T20:48:56Z | _layouts/archive-category.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 6465b19cfcae94e27f7d923975cf02c5 | 671 | 2866002026ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | bf39929d-f5f9-470f-8746-78ddc235eab1 | 
+2022-12-22T20:48:57Z | _layouts/archive-tag.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | d86ef6f8f95ae89ac0cf222952569bd8 | 672 | 2866002054ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 89382c29-4fe7-438b-91ca-21b431f22145 | 
+2022-12-22T20:48:57Z | _layouts/about.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 059a26ab3eda0fbb593f7c11da8288f5 | 1894 | 2866002070ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c0aee523-d842-47e5-9fb6-a9bccdd15e9d | 
+2022-12-22T20:48:59Z | _layouts/default.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 56f141ca4b523c9d1eacefc20ea283e8 | 887 | 2866002098ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | e94b029e-54d0-4c3d-9757-acbdd6bdf946 | 
+2022-12-22T20:48:59Z | _layouts/bib.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 804fe88fcd3cac87064d88224091fee5 | 6686 | 2866002110ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 9f380008-1380-46c6-9861-82f20032bfdb | 
+2022-12-22T20:49:01Z | _layouts/none.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 86b047dddb6e7b80e18193e39b44d010 | 12 | 2866002146ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 190807b7-ecbe-4cf9-89fa-d483f900782d | 
+2022-12-22T20:49:00Z | _layouts/page.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | db3b38cca371f27fc6b2f65b8a90c302 | 338 | 2866002154ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 71ceb019-30be-4973-8eb6-ad4db02e718a | 
+2022-12-22T20:49:00Z | _layouts/distill.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 73f36af0e6ce7ccde3efe89d9722749d | 2948 | 2866002162ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f4fa914a-e1c4-48ee-9b5b-3602dcf58d18 | 
+2022-12-22T20:49:01Z | _layouts/parse.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | c59edb8ae7baeb64e67435390d4c6730 | 970 | 2866002166ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 38149369-2a53-4bf6-9446-2ef4b28d40a9 | 
+2022-12-22T20:49:01Z | _layouts/post.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | b4c043bc26fb0ae4a97adfa714a7ad79 | 2186 | 2866002198ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b6d2ba6c-c2b4-481b-8b44-f2ea2a3382af | 
+2022-12-22T20:48:46Z | _layouts | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 |  | 416 | 2866001678ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | e47173b4-6bf9-41cc-b6c3-be6d8f50d40d | 
+2022-12-22T20:49:03Z | _news/arxiv_icml2.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 4ce1588d73316bb5d0f0f9e1621aa0e1 | 559 | 2866002234ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 4169ffc9-30b0-419d-a1e6-1b24d173b8d5 | 
+2022-12-22T20:49:03Z | _news/arxiv_subspace.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580442 | 42a2c1ae61f1799a27422d6beef6811a | 688 | 2866002250ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 44c075b4-5a18-4951-b8ba-0753403d8fd9 | 
+2022-12-22T20:49:03Z | _news/arxiv_icml.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | e2fc89adacc80d92bf22d2d3d0cd6151 | 806 | 2866002230ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f04c86f4-8834-4d70-b41d-1c02ee05298a | 
+2022-12-22T20:49:02Z | _news/announcement_2.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 35ee0c5239499bc06b7bcc066711e237 | 2179 | 2866002262ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2b0370b3-0066-41cd-b8d9-d114a5fef183 | 
+2022-12-22T20:49:04Z | _news/arxiv_universality.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580441 | 8a753cad7713c03b48b03d4a54efa192 | 492 | 2866002246ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | cf4c0c91-65cd-41fb-b46f-d164b809785d | 
+2022-12-22T20:49:04Z | _news/deephmm_arxiv.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | b3b10606ccc7a17d6965a164f4f64985 | 244 | 2866002270ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 816d662b-fede-4d23-b588-4988f460d325 | 
+2022-12-22T20:49:05Z | _news/g3m_arxiv.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 3683c3c0db2830e26ca914efacbd9193 | 257 | 2866002302ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 5d5e47b8-6f94-49c3-9f2a-f2cfa5e3aa7d | 
+2022-12-22T20:49:07Z | _news/icml.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 261511e9aebf6a44d1b1ddfa2d696160 | 407 | 2866002342ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 4bada87f-8ac5-49c4-96a0-9176e6fd8f81 | 
+2022-12-22T20:49:06Z | _news/generalisation_arxiv.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 186a0d3d1993e253dfd02202735c1c5a | 240 | 2866002334ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 6472c6a7-caeb-4755-a448-16a94d609658 | 
+2022-12-22T20:49:06Z | _news/generalisation_deepmath.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 55a973850ccde67db02d7723b05c47cc | 302 | 2866002350ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2f6480a3-5a06-4200-95aa-97da6cd42a0f | 
+2022-12-22T20:49:07Z | _news/icml22.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | bb6bded54b79abd15ac371a1c3530ff0 | 375 | 2866002366ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c74deaec-336b-4c62-8cd7-b05fe5a6a2b6 | 
+2022-12-22T20:49:08Z | _news/mix.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 43abff11e684bc3477da0dfaa65e03c7 | 247 | 2866002370ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b0206f1f-9c99-41b0-9428-25b1b740f355 | 
+2022-12-22T20:49:10Z | _news/msml.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | c58acf32d829e45afb05350cd6518bfa | 428 | 2866002434ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 0698cbc4-ed9c-4019-917d-739d71e7412e | 
+2022-12-22T20:49:07Z | _news/kernels.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 90d09b25e286c805096319271a191b94 | 247 | 2866002406ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 01e21c06-01da-4174-a087-5e10c082fa8f | 
+2022-12-22T20:49:10Z | _news/msml21.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 04c3aab0039147ec28e2bc79abccdc35 | 413 | 2866002442ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 182899d4-695f-41c7-8f84-8c3bf2bde637 | 
+2022-12-22T20:49:11Z | _news/neurips2022.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1665504052 | a52d7be6d0df3afee9267d4a8d0353aa | 438 | 2866002462ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 822b3894-0d7f-4d6d-882a-beb293673608 | 
+2022-12-22T20:49:11Z | _news/neurips2021.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 4f42cb0c9df30d1dccf8d141d322bd92 | 565 | 2866002494ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | d614222a-5ddc-4ad3-8dcd-99789453fe61 | 
+2022-12-22T20:49:10Z | _news/neurips2019.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 85e0242a2a17fd03decef18a54137c80 | 231 | 2866002466ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 014921e6-4e47-4b42-ae90-9e31f0488fda | 
+2022-12-22T20:49:12Z | _news/neurips_workshop2019.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 0f9f290f7b4e1a6a9c0cb6ae50eeba4f | 361 | 2866002510ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b7d817bb-1f8d-4b2a-8c2a-ff9e4957f9bb | 
+2022-12-22T20:49:12Z | _news/phase_retrieval_arxiv.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 771f7677247b08b72001271eec2354b5 | 253 | 2866002542ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 402d67d2-77f7-45f3-8e5c-6ca948ccf452 | 
+2022-12-22T20:49:13Z | _news/phase_retrieval_complex.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 232d15c727d1c4745e2f2e2554c1bdee | 219 | 2866002562ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 4b1eda3b-f6aa-4793-8b03-aa36bed78560 | 
+2022-12-22T20:49:13Z | _news/phase_retrieval_neurips.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | fbf351b5fa5e1ad8aa6c81ae47665514 | 289 | 2866002578ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | baa4d785-7d41-48ee-9584-af01b06e8a1d | 
+2022-12-22T20:49:14Z | _pages/bio.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1665505181 | d0712ffe25fef4fc6f1c514c22d3689a | 1572 | 2866002610ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | fce6dd52-cc44-4632-93cc-097f43206d69 | 
+2022-12-22T20:49:14Z | _news/prior_paper.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 99e60997d93de3ca9206f381a43ca096 | 198 | 2866002590ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | bb585a48-5654-4f0f-8670-2819ee8b72ed | 
+2022-12-22T20:48:46Z | _news | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1665496721 |  | 800 | 2866001698ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | bcd69146-a95a-40df-94e8-ab56852b1e32 | 
+2022-12-22T20:49:15Z | _pages/jobs.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1665505106 | 87ea429b90227b378b61667d3c5bbdc6 | 474 | 2866002642ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 56a60bb9-d021-4db7-bf49-9766c10f6a2a | 
+2022-12-22T20:49:15Z | _pages/about.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1665504037 | b7acd603f25df801c3ce53a055459fd7 | 735 | 2866002622ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c280ab3e-f5e2-4b71-a1fc-9f0e153ee8af | 
+2022-12-22T20:49:17Z | _pages/teaching.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1665497099 | fc59a239272266b38ef17e63d116fbac | 1085 | 2866002766ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | d00ec89c-64e9-4f4e-92f7-754320eb6d07 | 
+2022-12-22T20:49:17Z | _pages/publications.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 16b96bf9ff03807cc2b8fc972ae04d0a | 411 | 2866002750ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 326ced34-1d4a-472e-a150-c10fd27b7c25 | 
+2022-12-22T20:48:46Z | _pages | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1665504211 |  | 224 | 2866001726ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 8bae0200-c98b-4411-bb09-71f60079d32f | 
+2022-12-22T20:49:19Z | _plugins/beautify.rb | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 27874e95607ab0e244d6455b2a2f70ac | 470 | 2866002790ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 71de3c66-2962-48b4-b5b8-1dab5a54def6 | 
+2022-12-22T20:53:38Z | _projects/5_project.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 9a76816ce989f9148f9f20da5ea540a4 | 3166 | 2866008390ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 126f4a27-7f06-40f4-ac81-ed2aac23487e | 
+2022-12-22T20:53:38Z | _projects/4_project.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | e0b4d92115fc39fb305940b099bfa092 | 3140 | 2866002862ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 0 | 0 | 54628937-83d7-4864-97c3-d83cc9bdddba | 
+2022-12-22T20:53:39Z | _projects/6_project.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 78a7929fc4dcd4d4a118404732a1e735 | 3139 | 2866008418ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ad048dd8-b865-4ec9-b953-ed6230eb19c7 | 
+2022-12-22T20:53:39Z | _sass/_base.scss | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 5f17f136ebf50f9389525908ed1f8e97 | 10671 | 2866008438ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 5f794436-1d84-40ce-a65d-56b47a832663 | 
+2022-12-22T20:53:40Z | _sass/_distill.scss | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | ab44cfffa8a2d7d5661a1d05865eb398 | 2886 | 2866008470ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 28145b8a-3257-4c23-bff2-33ddabc656f9 | 
+2022-12-22T20:53:41Z | _sass/_layout.scss | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 9707a8b5ec68cb178b40c8f7399faa25 | 1080 | 2866008482ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 6a5ddd47-daee-42c1-bd74-ab910c404f75 | 
+2022-12-22T20:53:42Z | _sass/_themes.scss | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | f81695697c8082bdee47557fa03e9112 | 1503 | 2866008514ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | e428e3bc-7ef2-4b0b-8042-85fdd0226bc2 | 
+2022-12-22T20:53:42Z | _sass/_variables.scss | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | fd9823c8d8898f7a997568d65f04305e | 1294 | 2866008522ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 9d3f9262-a03a-4eaa-acef-d2746d6c029b | 
+2022-12-22T20:49:18Z | _sass | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 |  | 224 | 2866002738ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a49de795-c2d5-4383-9fc7-d5c2b4b061ff | 
+2022-12-22T20:53:46Z | assets/bibliography/2018-12-22-distill.bib | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 581ca36f4d25f6a2d046013d4700645d | 307 | 2866008602ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | d04f8b40-8552-46e3-8d27-f94f4aeda9b2 | 
+2022-12-22T20:53:44Z | assets/bibliography | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501024 |  | 96 | 2866008574ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 25e7d213-7e82-42b9-82a7-1e80710bff11 | 
+2022-12-22T20:53:46Z | assets/css/main.scss | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | c52a2d714423b43b9d148e9b8a2d3e39 | 224 | 2866008618ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 13030b04-f19c-4a07-ab9f-9ca2968c7ef8 | 
+2022-12-22T20:53:45Z | assets/css | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 |  | 96 | 2866008582ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | eeee9998-43e1-4605-85e5-cfe5db024457 | 
+2022-12-22T20:53:48Z | assets/cv/cv_BL.pdf | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644398171 | 4352b4367e0aaed012465a1e700ef2cc | 70043 | 2866008682ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 0ba1b2e6-3866-42df-a97a-b4c5f3ec3ad3 | 
+2022-12-22T20:53:47Z | assets/cv | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501024 |  | 96 | 2866008626ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 38142d87-bb42-44a3-8b96-bdbaa310e57c | 
+2022-12-22T20:53:49Z | assets/img/1.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 5f680f4ad729101fa557c8a4d0aa92c0 | 419879 | 2866008762ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ea30e199-3fe6-4d15-8c8c-780343778e2f | 
+2022-12-22T20:53:51Z | assets/img/10.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 5b1fe68df151e02b776d66f692254bf0 | 1124260 | 2866008862ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2b5dc852-5f1b-41a4-8ee4-34f8c5c3fd71 | 
+2022-12-22T20:53:59Z | assets/img/12.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 4d46966274062d3ef8d4fe634c5d9c62 | 199369 | 2866008922ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 442a4311-23b9-464a-8a2c-be2d45ca4a52 | 
+2022-12-22T20:54:01Z | assets/img/2.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 80969a183cd9a7b5cccf8545e115b3ea | 588114 | 2866009034ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | d416ad56-c05b-41c4-af97-0dc1251236c9 | 
+2022-12-22T20:53:56Z | assets/img/11.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 2e753f628d367e65fb3c03b8e22c7a5e | 1322832 | 2866009206ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 9ad79224-bfc2-4524-a563-68d0ca8590c6 | 
+2022-12-22T20:54:04Z | assets/img/3.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | dba419e40393ae2c71e69a0391db46dd | 1985564 | 2866009462ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 48f65024-2aec-4264-b207-101818c733d7 | 
+2022-12-22T20:54:10Z | assets/img/4.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 2614ea383b092edae603c448b6d3a5e4 | 1858152 | 2866009698ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | d03e9c60-b1e2-4f18-8808-cebe6affac53 | 
+2022-12-22T20:54:16Z | assets/img/5.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | ea1d9b483cc0d05ba67303507dd28883 | 4523306 | 2866015906ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 19206d5c-6212-450e-9c6f-356547c39b26 | 
+2022-12-22T20:58:51Z | assets/img/7.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 339ef869efd95a65997be17f4ba9024d | 978288 | 2866016038ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 0401e85e-da91-4a9e-9037-392af276825d | 
+2022-12-22T20:54:21Z | assets/img/6.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | c8b7c942248b39f1aaa1c3db62a130c9 | 3129579 | 2866016330ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 1feaa9a4-d731-42e9-9862-36b8291734dd | 
+2022-12-22T20:58:58Z | assets/img/8.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 44ac5df7466d28d64d70e8969eea3500 | 3556552 | 2866016406ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 210618f9-f32a-4c8f-9299-05b03c6720c2 | 
+2022-12-22T20:59:16Z | assets/img/al-folio-preview.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | cca144e0b1b68a9304393c341793f500 | 818713 | 2866016498ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 85ed983a-bc6f-4275-9036-c911e759e9e9 | 
+2022-12-22T21:03:38Z | assets/img/code-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 94b2b556ff6f466332d84f53095ac3ba | 186000 | 2866016558ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 0 | 0 | 5b2512cd-9abd-4281-8144-ba1406745d49 | 
+2022-12-22T21:03:45Z | assets/img/distill-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 54e1d45889dc6133c371940673455ca0 | 190635 | 2866021714ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | df4a4388-f09b-412e-a2cd-2ccd2a303c0e | 
+2022-12-22T20:59:12Z | assets/img/9.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 62dbd61e4cd402e640b86297e1c2df4e | 4545306 | 2866021922ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 1bab883f-1f42-4e28-b430-62e080dfc7e3 | 
+2022-12-22T21:04:01Z | assets/img/math-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | e46ad172b71edb2732d02a7b83c28c5b | 192374 | 2866021958ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b6118d70-6d81-4f3f-8e99-7bd74736b867 | 
+2022-12-22T21:04:03Z | assets/img/pagespeed.svg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | beccf4c8aa2ad436a96eccc1c25b91f2 | 11147 | 2866021994ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a2d8fb4f-e8cf-4985-b844-c6d0337ff5dc | 
+2022-12-22T21:03:49Z | assets/img/linocut.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1570741909 | b0acca24123f3b52994ee1bf45cd5be9 | 2294123 | 2866022054ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ccbe924e-b072-46fd-bc08-90d49cb3009c | 
+2022-12-22T21:04:05Z | assets/img/photos-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | aec86e10b2941443dfc736b8f7d96803 | 972431 | 2866022122ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | de85bc8d-bd0f-40b2-b45f-911e3df025ef | 
+2022-12-22T21:04:11Z | assets/img/projects-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 953c0254d8b2a8d49b3eb56200985a8c | 862044 | 2866022214ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a014c665-92dd-4554-8f63-b1f30ab36fed | 
+2022-12-22T21:04:17Z | assets/img/publications-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 5d8dcaf4ec533dc8aa181b820941a204 | 215861 | 2866022286ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c13aa02e-6e9a-40b1-ac42-a8f9db510a44 | 
+2022-12-22T21:04:07Z | assets/img/prof_pic.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | c22d12f2d342d8f0bdb3a7e93959487b | 2309396 | 2866022354ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c25f86a7-5e63-4bb0-9e6d-6a8431032017 | 
+2022-12-22T20:53:47Z | assets/img | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 |  | 768 | 2866008638ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b670e4f2-5af7-4e1c-9c84-e1dba4281c0b | 
+2022-12-22T21:08:40Z | assets/js/distillpub/template.v2.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | eea9e62a5fed8c141bafee9c97bffbcd | 292356 | 2866026394ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 38137398-c8aa-4a63-afd7-251fe34e3ab6 | 
+2022-12-22T21:08:45Z | assets/js/distillpub/template.v2.js.map | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | b594c95b61bfd1b399f50796f1ec0f58 | 602453 | 2866026446ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ae43b265-1a9b-4f07-8a55-a72ca0657a9d | 
+2022-12-22T21:08:51Z | assets/js/distillpub/transforms.v2.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 6c91a5e57f032606744777a6d725e80c | 529106 | 2866026538ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 4cbb3d54-0979-481a-a9f1-9ccb7c12071d | 
+2022-12-22T21:08:56Z | assets/js/distillpub/transforms.v2.js.map | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 21201ff66272a2ae0e761ebd501fda63 | 1024816 | 2866026686ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 58e17a0c-756f-4e27-994c-bfca3436e937 | 
+2022-12-22T21:09:04Z | assets/js/common.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 61495534cef2564af30144ba486733c1 | 357 | 2866026726ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a9a77aea-4576-40dd-903b-060252980375 | 
+2022-12-22T21:09:05Z | assets/js/dark_mode.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 0917f082cd34641ad28058fdb73fe33b | 253 | 2866026754ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 50b18ab2-add6-4baa-8d6b-d70d53992441 | 
+2022-12-22T21:09:07Z | assets/js/mansory.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | b8b14be085454f3fc65521ab6b709b18 | 293 | 2866026778ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 1e3566a4-6c2c-4fe5-bdad-c42e90c467f2 | 
+2022-12-22T21:09:09Z | assets/js/theme.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 584200f1393931f88354ad7d8be5ef00 | 1215 | 2866026826ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 63fd5ddd-72fe-4f8d-b2c3-24eba579d314 | 
+2022-12-22T21:09:10Z | assets/js/zoom.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 25f9b0b1b1fa41f5a5e5d8b12117465b | 274 | 2866026838ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | edc7678f-591c-407e-9419-de7bfebb7f85 | 
+2022-12-22T21:09:13Z | assets/pdf/example_pdf.pdf | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 06a200862c4b560646f2286002b963f2 | 15879 | 2866026898ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 85328874-1ea7-40d8-b292-8f4ff30f3571 | 
+2022-12-22T21:09:15Z | assets/pdf/notes_acdl2022.pdf | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1661525459 | 9df28da18da07c6a764e135ea8fa9c0c | 1722945 | 2866031490ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 9109db18-ecb0-4fd4-b07e-225a7846b388 | 
+ | _plugins/minify.rb | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 |  | 669 |  | OCC::SyncFileItem::FatalError | Connection timed out | 0 | 0 | 0 | ed9cc3d9-4257-49a1-a2b3-7bcb65cb26a5 | 
+2022-12-22T20:49:17Z | _plugins | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 |  | 128 | 2866002678ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | d9d7c18c-16a8-4fdf-8e3f-412b79f9d267 | 
+ | _projects/1_project.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 |  | 3168 |  | OCC::SyncFileItem::FatalError | Connection timed out | 0 | 0 | 0 | c8502b06-acff-4b45-a6cf-f8a11b6e317f | 
+#=#=#=# Syncrun finished 2022-12-22T21:18:50Z (last step: 335091 msec , total: 337066 msec) 
+#=#=#=# Syncrun started 2022-12-23T00:00:07Z
+#=#=#=#=# Propagation starts 2022-12-23T00:00:16Z (last step: 8210 msec , total: 8210 msec) 
+2022-12-23T00:00:21Z | _site/assets/bibliography/2018-12-22-distill.bib | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 18463c1a75a5b1addc02043a4b6ea569 | 307 | 2866192498ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 54ee84a4-b562-483d-b3ec-9d19248db323 | 
+2022-12-23T00:00:18Z | _site/assets/bibliography | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866192450ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 7a128e22-fe47-4c6b-a7aa-5bd3a1e0836e | 
+2022-12-23T00:00:21Z | _site/assets/css/main.css | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 6a400b0a036ad89e42613ef888a2a285 | 12747 | 2866192506ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 423baad0-598f-4324-9922-56f902e2975f | 
+2022-12-23T00:00:21Z | _site/assets/css/main.css.map | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | e128e6ef70ea4378c469ea0f065a889d | 34623 | 2866192518ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a62e78c1-e9d9-4985-8dfc-b1b9c664dc28 | 
+2022-12-23T00:00:18Z | _site/assets/css | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 128 | 2866192466ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 4e8fc34d-97a8-4d81-af37-2eabbca459f3 | 
+2022-12-23T00:00:22Z | _site/assets/img/1-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503329 | 705e732e57a080fae3926eeb94389ff7 | 30760 | 2866192526ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ba77ef37-6ee3-461d-81e0-df6f35ece582 | 
+2022-12-23T00:00:23Z | _site/assets/cv/cv_BL.pdf | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644398171 | b2bedf53d6c8f32ab6312e88848ca0f2 | 70043 | 2866192542ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 15ccfc4d-7d74-4196-8815-a668e5424405 | 
+2022-12-23T00:00:19Z | _site/assets/cv | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866192474ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a000c250-5fa6-45ca-a3ec-bba8db018185 | 
+2022-12-23T00:00:22Z | _site/assets/img/1-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 | 5ff7c92b555492e4f1258e4bba73bc0d | 125264 | 2866192546ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 46a02ecc-0d6a-4bda-879f-72fb0c1ba6c6 | 
+2022-12-23T00:00:24Z | _site/assets/img/10-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503319 | 6e673574061df7efee42d977d5d4994a | 118314 | 2866192558ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2cc31924-d363-43b7-a059-8f06a43827bf | 
+2022-12-23T00:00:23Z | _site/assets/img/1-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 | 8f7b4a825845a287102962fde7836c7b | 79460 | 2866192550ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | fff9af53-89dc-4321-a9c0-c7992396ab92 | 
+2022-12-23T00:00:26Z | _site/assets/img/11-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503319 | 40678083a3bdd2afdbc6d303f19e6a71 | 179766 | 2866192586ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 46affb89-6309-4053-ba37-52b529e4b103 | 
+2022-12-23T00:00:25Z | _site/assets/img/10-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503319 | 9a466023d75639295b5e9c8d5b12f9f5 | 22288 | 2866192574ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 9648a3e9-cae9-4fd9-95bc-ddaeaae6d381 | 
+2022-12-23T00:00:25Z | _site/assets/img/10-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503319 | f33cc15c3831b8c6ed9b6c83220d085a | 47070 | 2866192594ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 27854865-a0a9-4172-a662-77ae4b34bc55 | 
+2022-12-23T00:00:24Z | _site/assets/img/1.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | e35db110da81d1382155ac9553c16d18 | 419879 | 2866192610ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 5157cec5-e9a6-4795-b72d-c95b1d01e076 | 
+2022-12-23T00:00:26Z | _site/assets/img/10.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 7976ed4f2f612b380e62575abd0b86ed | 1124260 | 2866192606ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 322dbdcd-6414-4b1d-8d4f-646b2fd35e15 | 
+2022-12-23T00:00:28Z | _site/assets/img/11-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503318 | 8cd8fa31b2470f856f05bda4b0f9fbbf | 81804 | 2866192626ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ffca0f3f-718f-4324-8f9a-871ded4940c9 | 
+2022-12-23T00:00:28Z | _site/assets/img/12-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503317 | 62daabe7ca525b3c008c238e276ab35a | 32692 | 2866192646ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 154ba29d-9392-4457-b597-d13ffae6b521 | 
+2022-12-23T00:00:28Z | _site/assets/img/11-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503318 | dc9b3a33d4e86446afb4a1e746bb311d | 42230 | 2866192634ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f37bd083-a489-40e1-b60e-c2aa86eda882 | 
+2022-12-23T00:00:30Z | _site/assets/img/12.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 782cda22a07254a5909c95cf3d111943 | 199369 | 2866192678ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | e94b1cbc-3916-4159-a9d3-4afcd4019439 | 
+2022-12-23T00:00:28Z | _site/assets/img/12-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503317 | ef3e1894d81c0542f9adaff43f3a486e | 21790 | 2866192666ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2566cb17-baca-4e26-9f02-92748aaaba2a | 
+2022-12-23T00:00:29Z | _site/assets/img/12-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503317 | a53e775eb75d0d2163a3f6eb97a0d7ab | 25280 | 2866192662ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c075ce12-abb3-4f14-b217-34ec681aed22 | 
+2022-12-23T00:00:29Z | _site/assets/img/11.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 746a47ff1e29106d104c2b6e8c57662d | 1322832 | 2866192686ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 129842d5-d91e-40f3-99a3-d3b2c16d4053 | 
+2022-12-23T00:00:30Z | _site/assets/img/2-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503327 | 72992086e25a632e8af62b5e3ec045ba | 103030 | 2866192694ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 065c5cee-b4db-4c1f-a1b6-40a8d7f13bed | 
+2022-12-23T00:00:31Z | _site/assets/img/2-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503327 | f1ecf44a8454198a1f4f6280f9832dc4 | 53226 | 2866192714ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 307fb084-5a92-4172-a0dd-d62f98e36441 | 
+2022-12-23T00:00:32Z | _site/assets/img/3-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503327 | e813aecaf5ab737c7c2bef68304c1c6f | 29612 | 2866192726ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 7d44b279-7c11-420b-ad42-78b75f8b1203 | 
+2022-12-23T00:00:32Z | _site/assets/img/3-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503328 | 0c893418feafbedd65620e0e3ff2b9c5 | 96296 | 2866192730ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 4f6cbe24-51a2-44f7-972b-18b6b79f6a39 | 
+2022-12-23T00:00:33Z | _site/assets/img/3-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503327 | 98ad7e9be7d21beee26b94c7b1fad504 | 50052 | 2866192738ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 969c51e2-28d0-4dcc-86e5-15a3ba83c246 | 
+2022-12-23T00:00:31Z | _site/assets/img/2-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503327 | 5d60431959dee5867498dfcdd167d0d2 | 82336 | 2866192706ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | bbcd2ffa-db71-46bb-94d7-60090a97d07a | 
+2022-12-23T00:00:33Z | _site/assets/img/2.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 37673e066d22a8fa4cd793b6c641ae4b | 588114 | 2866192742ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 6fdefe60-e750-4711-9e1b-f4a5047ccc8a | 
+2022-12-23T00:00:35Z | _site/assets/img/4-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503321 | b3c8c49f3877cf9e13c7de0b823e362d | 39794 | 2866192770ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ca5ef696-dbf1-421e-a62e-0024d5fa06c4 | 
+2022-12-23T00:00:35Z | _site/assets/img/4-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503322 | 037e1de5f2a9f1c2ea32b93e2642864a | 94128 | 2866192774ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f40c6f45-b0a0-4317-aa3a-1585e9c10b76 | 
+2022-12-23T00:00:35Z | _site/assets/img/4-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503321 | 20a666672ac240481582f5a514ddd0d2 | 21364 | 2866192778ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 4b768d5a-84e0-4a93-a710-5a379d17fbe9 | 
+2022-12-23T00:00:34Z | _site/assets/img/3.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | ed6c036c556fc2bc528a9d44f015d35e | 1985564 | 2866192782ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b03848c8-6824-4ec1-91cb-44d4a93822ae | 
+2022-12-23T00:00:36Z | _site/assets/img/4.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | d93820f176c48ea032e4b32ff016bcc7 | 1858152 | 2866192806ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2f20d044-2e1f-44df-9333-b140dc7e01dc | 
+2022-12-23T00:00:37Z | _site/assets/img/5-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503324 | 5924235a838b45fe7e8dd655e9999349 | 88044 | 2866192810ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 7287d99f-e3c9-4c8e-92b5-f4fa04de0160 | 
+2022-12-23T00:00:37Z | _site/assets/img/5-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503324 | ba48c324133d359e4e0057bfe7031f6c | 49822 | 2866192814ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 5993cb86-3896-41c0-9c20-a164a16daca8 | 
+2022-12-23T00:00:37Z | _site/assets/img/5-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503323 | e4d646fb8a07c25bd8fc711f9500efec | 34716 | 2866192822ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 08f44cb0-2902-498d-9c45-245a4f7bc765 | 
+2022-12-23T00:00:39Z | _site/assets/img/6-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503326 | db365d369f858488d974d0997274c4bd | 62842 | 2866192834ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 76ba2674-b758-4343-93f1-4463c150b23e | 
+2022-12-23T00:00:39Z | _site/assets/img/6-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503326 | d9f76da358cb564f52f1b5cb29862174 | 169290 | 2866192846ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ecda1255-8393-4c74-b964-3b5f31716d10 | 
+2022-12-23T00:00:39Z | _site/assets/img/6-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503326 | 2108144dfbb86d68ed4c7c84b50c0e78 | 28316 | 2866192854ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 4ed336c2-7416-42bb-8d59-294f920845fc | 
+2022-12-23T00:00:40Z | _site/assets/img/7-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503325 | ae92be616c08b2084d4394cae9aa7b3c | 26804 | 2866192858ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | bd0d69cf-6e5a-461d-bedb-fa55f3da7a00 | 
+2022-12-23T00:00:41Z | _site/assets/img/7-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503324 | 7e3adfc7a2637f67cb4a3454df0421e8 | 19198 | 2866192870ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a136fc7e-8c33-43ac-a6c4-e1ccdc5edeff | 
+2022-12-23T00:00:42Z | _site/assets/img/7-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503325 | 40e7b790e702c58148f8688088f558f2 | 21550 | 2866192894ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | edea7511-9606-4240-8921-07e43e365c45 | 
+2022-12-23T00:00:42Z | _site/assets/img/7.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | f131ed4657f96e6fc01e90ce725df517 | 978288 | 2866192914ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | fad99e80-3b42-4f13-b757-6957d3b5dfe9 | 
+2022-12-23T00:00:45Z | _site/assets/img/8-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503314 | 043702e127865a364bd3d9078284ee70 | 18112 | 2866192938ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f57ab4d6-6640-4c0f-9d22-c1fff0108332 | 
+2022-12-23T00:00:45Z | _site/assets/img/8-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503315 | ddd485e2317619da6174ab535dfbb177 | 50582 | 2866192946ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 5d6aba59-ac29-45ba-a2d2-a9e35010308e | 
+2022-12-23T00:00:46Z | _site/assets/img/8-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503314 | 2866139500377231f050e67a34f13c30 | 26730 | 2866192974ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | d12377b4-ffdf-4f99-bd0e-4cf4ce009c4d | 
+2022-12-23T00:00:38Z | _site/assets/img/5.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | de04af203f1adaf716dd2eca34cbe86a | 4523306 | 2866192978ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 3b9e7c51-9dec-4647-881b-ff41ef4a2649 | 
+2022-12-23T00:00:48Z | _site/assets/img/9-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503316 | b8d9f5ddff25bffb419125e09da97834 | 115558 | 2866193006ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 282ede49-759b-4cc0-9fc2-182e0e5ac7da | 
+2022-12-23T00:00:41Z | _site/assets/img/6.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 16eb9f69c94c93832cace3a445de48e2 | 3129579 | 2866193014ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c410450b-39ee-47bf-a9f6-76b8309b4b05 | 
+2022-12-23T00:00:49Z | _site/assets/img/9-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503315 | e13f9d0709c4df2a3b00d421d258e4bb | 33324 | 2866193022ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 71dad140-64d8-43b9-b54b-38df556f8dae | 
+2022-12-23T00:00:49Z | _site/assets/img/9-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503316 | 0643c87dfbef18f00e075862a938b687 | 56298 | 2866193030ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | d6ae112e-749e-40ec-88fc-42832f4a37aa | 
+2022-12-23T00:00:49Z | _site/assets/img/al-folio-preview-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503325 | 0438fd32efb41cdd937d09b541e82043 | 56580 | 2866193038ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 14b22b4e-3d93-4f60-a84c-b37416e9d91b | 
+2022-12-23T00:00:51Z | _site/assets/img/al-folio-preview-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503325 | 2eded84a23802fe03cf634438d00c3a0 | 8722 | 2866193050ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | eab69075-a5c8-4003-a294-971d32c64a9a | 
+2022-12-23T00:00:51Z | _site/assets/img/al-folio-preview-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503325 | 7bb60e8203dafbe31a1ce476579550bc | 20738 | 2866193058ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a992e409-4750-496b-86d3-5f891bc991a6 | 
+2022-12-23T00:00:52Z | _site/assets/img/al-folio-preview.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 2063a4b1e8ebec48383d05b9f5b6c629 | 818713 | 2866193074ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | aeb4eccb-489f-476b-9a08-ded838d2d44b | 
+2022-12-23T00:00:46Z | _site/assets/img/8.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | a9ad44862bdafa9e3a6d502b82c635d9 | 3556552 | 2866193086ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a25869a3-9ed0-446f-9368-90a1b6b48546 | 
+2022-12-23T00:00:53Z | _site/assets/img/code-screenshot-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503316 | c37fcffded249f56e3965cb6a0245cfe | 46434 | 2866193094ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ed75bf0e-44fe-410b-b805-a1ae78750584 | 
+2022-12-23T00:00:54Z | _site/assets/img/code-screenshot-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503316 | ba349d9ff45807f23f55e99ebf41f707 | 25550 | 2866193110ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 88d382cc-0272-4717-810f-f4655b465c08 | 
+2022-12-23T00:00:53Z | _site/assets/img/code-screenshot-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503316 | fb41e7520938a212d78e2aa37e52f32c | 14266 | 2866193114ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | e887cbe2-0842-4178-bbbf-1f435ce4d1f8 | 
+2022-12-23T00:00:54Z | _site/assets/img/code-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | c6b5a233c6b72405d9a71e05ff8c7041 | 186000 | 2866193122ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 49cd040c-806b-4328-8c52-901fbb3fa26b | 
+2022-12-23T00:00:55Z | _site/assets/img/distill-screenshot-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503320 | d15e85321b6cc7582cceb5462cff3a69 | 15366 | 2866193134ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c66d5a53-753c-498f-a2c0-76e30bcd7a5b | 
+2022-12-23T00:00:56Z | _site/assets/img/distill-screenshot-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503320 | 1be498788f4ede4165431dd2077af6c1 | 26792 | 2866193142ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 552f5461-f9c8-4164-b15d-d74afc8eceeb | 
+2022-12-23T00:00:56Z | _site/assets/img/distill-screenshot-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503321 | 33911f6333b2acb30166726cdefcbc4c | 47974 | 2866193150ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | bf0728df-d25a-4496-9897-6a2cce4fb126 | 
+2022-12-23T00:00:56Z | _site/assets/img/distill-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | f44b4194d9d21535fce2f2db528f20ea | 190635 | 2866193158ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 8667e489-c6a0-4e64-ab5f-a20967231f7f | 
+2022-12-23T00:00:57Z | _site/assets/img/linocut-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503323 | 12456ff23ff3c41b652b8ad4b73e07e9 | 81636 | 2866193182ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2aa6157c-3f4a-4390-9726-10b3fbca09cf | 
+2022-12-23T00:00:58Z | _site/assets/img/linocut-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503322 | 286ba0bd755da67b7aaba7af0111bc87 | 23836 | 2866193190ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | da12e7dc-9365-4998-af5f-a2994ee4c642 | 
+2022-12-23T00:00:59Z | _site/assets/img/math-screenshot-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503314 | cace4e29f74b5e6f5476bb80df2affae | 51520 | 2866193206ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 91b1a700-cc26-4e56-a639-d577a47626f5 | 
+2022-12-23T00:00:59Z | _site/assets/img/linocut-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503322 | 4d7f0772f28a91757d671bbe27949e01 | 43666 | 2866193198ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a3aef9a0-25e2-40f4-9998-99d9184a2911 | 
+2022-12-23T00:01:01Z | _site/assets/img/math-screenshot-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503313 | 350ed81270d77b8360e8368b3c15fdd6 | 14836 | 2866193214ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 377fb0ee-0c3a-43f4-9989-2160cc94ee99 | 
+2022-12-23T00:01:01Z | _site/assets/img/math-screenshot-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503314 | adeae1a5c300d49b017f1880f68d3272 | 27302 | 2866193226ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 031e78bc-c05a-47a6-86f9-d1aa80b2ec46 | 
+2022-12-23T00:01:02Z | _site/assets/img/math-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 61700c747e9af9aa41be1eb5bb77999a | 192374 | 2866193250ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ea2fb53e-3b36-4b9c-bbf3-e3d97b93e860 | 
+2022-12-23T00:01:09Z | _site/assets/img/pagespeed.svg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | b00bd4f14524c7f317474bcef623bf25 | 11147 | 2866193262ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 5ef5f115-2086-4a9c-bc3c-556bab5439a0 | 
+2022-12-23T00:01:09Z | _site/assets/img/photos-screenshot-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503321 | d0259f353422b244642c2b2efe018045 | 54050 | 2866193278ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 187e5007-763f-4feb-85d4-251254c17b8e | 
+2022-12-23T00:01:10Z | _site/assets/img/photos-screenshot-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503321 | 0a2af1e33da8b21251504bc042d644c8 | 14854 | 2866193274ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | bb761c6c-5412-4a76-9647-8520caa2e2f4 | 
+2022-12-23T00:01:12Z | _site/assets/img/photos-screenshot-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503321 | ed19d2f542b27184246ef62c42caab6c | 26962 | 2866193310ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 668b1a6b-7a07-4699-bc54-b79af126cd4b | 
+2022-12-23T00:00:59Z | _site/assets/img/linocut.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1570741909 | 6fad869f11c104be601b0cc9452f21ad | 2294123 | 2866193318ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a1d380d1-9cfe-4f3d-9d05-9dd51a132266 | 
+2022-12-23T00:00:49Z | _site/assets/img/9.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 3aa4c1839bd6f4ab548c83c64a9d8b1f | 4545306 | 2866193322ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 13fad2de-0b5e-49a8-ad98-fdfd99f91574 | 
+2022-12-23T00:01:18Z | _site/assets/img/prof_pic-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503328 | 147fa83647517c0c46a631ff141d5486 | 37912 | 2866193338ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 62f205b3-ac9f-4b41-801f-abe7d4d928e1 | 
+2022-12-23T00:01:16Z | _site/assets/img/prof_pic-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503329 | 2ae50538d4206c1645d34450499df8fb | 164374 | 2866193350ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 08a5f586-9261-468f-a20e-762bfaca223d | 
+2022-12-23T00:01:18Z | _site/assets/img/prof_pic-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503329 | a975412927018f3270963da7647f0158 | 78348 | 2866193354ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 0ce368c5-6d8b-4503-81fd-4690f1bcb3af | 
+2022-12-23T00:01:21Z | _site/assets/img/projects-screenshot-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503317 | 8b2fbaffd2916406c391c651364fa03f | 14684 | 2866193374ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | eb81fc48-a898-40c8-a9eb-12b09ca655e5 | 
+2022-12-23T00:01:12Z | _site/assets/img/photos-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 68afd57368fc7dbdcdf74652f257e405 | 972431 | 2866193378ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 1c5005d1-9bfe-489b-9083-80e14fd8e403 | 
+2022-12-23T00:01:21Z | _site/assets/img/projects-screenshot-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503317 | 25a5187a8dbf3b5b12e223f04f638bf2 | 47512 | 2866193386ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f19bc239-9f4d-4a8d-a6ee-ccd46d86f116 | 
+2022-12-23T00:01:23Z | _site/assets/img/projects-screenshot-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503317 | 03042ad5ce7be81bee4c45f5cbf38ff3 | 24990 | 2866193398ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 29709864-f954-4ebd-a161-0d4b287466c8 | 
+2022-12-23T00:01:23Z | _site/assets/img/publications-screenshot-1400.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503320 | 8154833466edafe22ed461e2055ba8bf | 40238 | 2866193402ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 8d0af690-b358-4ebe-ac0d-ccd7a26c9b5d | 
+2022-12-23T00:01:23Z | _site/assets/img/publications-screenshot-480.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503320 | 4cdaf88218b24b09786ff5a43e44aad5 | 12102 | 2866193406ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 45362a28-cef3-4e77-8427-de5db60312c2 | 
+2022-12-23T00:01:24Z | _site/assets/img/publications-screenshot-800.webp | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503320 | 89f560f113996d95fe081862ebf98e61 | 21718 | 2866193418ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 34ed4104-c059-446d-9b7d-99ed98839215 | 
+2022-12-23T00:01:25Z | _site/assets/img/publications-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 231eec1cdc0234fc76f31be92cc615f0 | 215861 | 2866193434ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 8256f751-fe6d-4b07-ac00-21f569311e16 | 
+2022-12-23T00:01:28Z | _site/assets/js/common.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | a4d49d37d87e76e35bd1126982da09bb | 357 | 2866193462ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 7dc030c6-b211-4663-a618-a28e356c6dfd | 
+2022-12-23T00:01:30Z | _site/assets/js/distillpub/overrides.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | a26aa3cc61377ab02ed6dbf62a8d382c | 1565 | 2866193474ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | cd411a67-b947-4260-b1a2-4530478ab08c | 
+2022-12-23T00:01:30Z | _site/assets/js/distillpub/template.v2.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 04bd1951993d5d88d152458ea5e3ccf6 | 292356 | 2866193506ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 6d26e86f-1b0f-4f61-a218-b322a4e5f77a | 
+2022-12-23T00:01:23Z | _site/assets/img/projects-screenshot.png | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 5acab18472e6308a45fa19cb5df31e13 | 862044 | 2866193526ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a44241f5-27c1-4926-9ecb-f38ed34c26a5 | 
+2022-12-23T00:01:34Z | _site/assets/js/distillpub/template.v2.js.map | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 8d3cb21572e00d72f0b46ad3b5d1ded2 | 602453 | 2866193602ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 0c643b95-6520-40fd-a1d1-c1b4b5d6f9de | 
+2022-12-23T00:01:36Z | _site/assets/js/distillpub/transforms.v2.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | ac0799091216ccdb01779e4e6541c40e | 529106 | 2866193610ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b5da5b57-4552-4b9f-88b5-09eca25837d8 | 
+2022-12-23T00:01:46Z | _site/assets/js/dark_mode.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 5767b689744db0497d4a5fe7824236ca | 253 | 2866193626ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2312583d-9d5c-4274-b217-aef023c526e3 | 
+2022-12-23T00:01:46Z | _site/assets/js/mansory.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | ac9512d14aa6717a9d78bfb618285443 | 293 | 2866193630ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f5e2a9c9-4966-4230-ab09-d90762ac56df | 
+2022-12-23T00:01:20Z | _site/assets/img/prof_pic.jpg | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 896b098e1b8a9f5c0e14a101a140c9fe | 2309396 | 2866193650ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 73960151-d2bb-4ab1-af8c-5ce971347756 | 
+2022-12-23T00:00:19Z | _site/assets/img | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 2784 | 2866192458ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | d4c41b0e-d639-487f-8812-a4f63430befa | 
+2022-12-23T00:01:47Z | _site/assets/js/zoom.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 921b1494f90196ba3549db63ebcc1c8c | 274 | 2866193654ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 8330d7b7-9efb-4b0b-93fe-dbc7479892b3 | 
+2022-12-23T00:01:47Z | _site/assets/js/theme.js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | bce8899ea6207a5b40cc020849886844 | 1215 | 2866193658ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 9a24d17e-afa3-4bea-a58e-6bfd789b31d9 | 
+2022-12-23T00:01:48Z | _site/bio/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 81cc1ab8ffb46beed412c1f8f6c1e41e | 8988 | 2866193690ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 83a6bba9-c577-4a0f-8626-4cbd05a55864 | 
+2022-12-23T00:00:16Z | _site/bio | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866192406ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c164ff61-d9c9-438c-a145-b73bf197b0b9 | 
+2022-12-23T00:01:50Z | _site/assets/pdf/example_pdf.pdf | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 69c9245998235e937fbe5b565cd448da | 15879 | 2866193706ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 183d6df7-5509-4522-87ed-beba89e3d752 | 
+2022-12-23T00:01:45Z | _site/assets/js/distillpub/transforms.v2.js.map | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | bcdbd814138ea9b5ee28c2ec925ab8e5 | 1024816 | 2866193814ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 509f6f38-72ea-4b30-9c67-ad86937b7dd3 | 
+2022-12-23T00:01:28Z | _site/assets/js/distillpub | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 224 | 2866193454ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 548c9f7e-0492-4d78-aef2-ab58d91ec9cd | 
+2022-12-23T00:00:19Z | _site/assets/js | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 256 | 2866192470ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b4b9ae9b-4403-4cd0-a9b3-3137c7baf2ae | 
+2022-12-23T00:01:59Z | _site/news/arxiv_icml/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 7260050823beccf987fad898c3d38726 | 8508 | 2866193846ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b2805e42-adbc-4fd2-9489-763a3c358372 | 
+2022-12-23T00:01:48Z | _site/news/arxiv_icml | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866193686ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2d44554a-1fba-49d1-a4f1-b4e787b8689c | 
+2022-12-23T00:01:59Z | _site/news/announcement_2/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | a3295eab3f1b3c2e5836dc617b8e12ce | 9733 | 2866193850ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 5a9e0689-43d1-4e7e-976d-9719028e2cea | 
+2022-12-23T00:01:48Z | _site/news/announcement_2 | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866193682ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f74b617d-82b0-4aa5-9095-d7a017ef0dfd | 
+2022-12-23T00:02:02Z | _site/news/arxiv_icml2/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | ab102ef611856d0c8f438e7bb0272636 | 7997 | 2866193906ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 20a18dc1-6d6b-4eed-b6a5-1ee9b0535ce4 | 
+2022-12-23T00:02:01Z | _site/news/arxiv_icml2 | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866193878ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b2276df7-beee-4e18-9e87-819aa0c165dd | 
+2022-12-23T00:02:02Z | _site/news/arxiv_subspace/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 4dac09540795dceda122d7225f2bb416 | 8143 | 2866193914ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | cd2d84b0-dc68-4d43-b44b-14ec909766bc | 
+2022-12-23T00:02:01Z | _site/news/arxiv_subspace | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866193886ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 0f6a3fd9-869b-491f-8912-3612c799c474 | 
+2022-12-23T00:02:04Z | _site/news/arxiv_universality/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | f01d99ac0747c05722ca9d72507a18bd | 7951 | 2866193954ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b39a4ac3-e7dc-4737-b132-c48cdc411ed3 | 
+2022-12-23T00:02:03Z | _site/news/arxiv_universality | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866193926ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 43f51019-cebd-4b16-b4b6-8c25043872fa | 
+2022-12-23T00:02:05Z | _site/news/deephmm_arxiv/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 672775b96393f6d1dd42e0f1f55e8d28 | 7691 | 2866193958ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f19d8a47-9f8b-464a-bdc0-1997fbfc3feb | 
+2022-12-23T00:02:03Z | _site/news/deephmm_arxiv | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866193930ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f8206511-6ca9-4454-82ec-e7204319998e | 
+2022-12-23T00:02:07Z | _site/news/generalisation_arxiv/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | f6f1abb5964dfc37c85f1e00da1695ce | 7708 | 2866193990ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | e3a25184-bc71-48fa-bdf7-95e711d8483b | 
+2022-12-23T00:02:06Z | _site/news/generalisation_arxiv | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866193974ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 78774b17-87c0-4e30-841c-c4ec431ffbae | 
+2022-12-23T00:02:07Z | _site/news/g3m_arxiv/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 388e4dca292d61a9c2b8087f3d1fd3df | 7692 | 2866193998ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ee434abe-bec3-4c91-b353-95dafc7f82bd | 
+2022-12-23T00:02:06Z | _site/news/g3m_arxiv | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866193978ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | d0561f75-5a48-4500-ab00-80215e8e8bc2 | 
+2022-12-23T00:02:10Z | _site/news/generalisation_deepmath/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 0b9bb1ac1ab9cbf09b21766b316c6085 | 7833 | 2866194062ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 9e7e338c-a169-44a6-a67e-5b7d5fe59aa2 | 
+2022-12-23T00:02:09Z | _site/news/generalisation_deepmath | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194018ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2d8f12b8-294d-4a8b-9972-34b4cab3571f | 
+2022-12-23T00:02:10Z | _site/news/icml/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 528229fd2422701ca45d1f45bf1648c2 | 7875 | 2866194074ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 362755af-2f0d-4ec4-ab6b-47c261995fb4 | 
+2022-12-23T00:02:09Z | _site/news/icml | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194030ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 30ea4784-d8a1-43d6-8dcb-c7097ab0ad3d | 
+2022-12-23T00:02:12Z | _site/news/icml22/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 4c9d16e5e38d7c636115e6491fb0807e | 7855 | 2866194106ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 1ba31a73-19e4-4805-9b6f-7bbdb7040293 | 
+2022-12-23T00:02:11Z | _site/news/icml22 | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194086ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 9610fd22-435d-429c-a1a5-6063c1913f57 | 
+2022-12-23T00:02:13Z | _site/news/kernels/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 745516f48522438d1ab96e07355cc7d6 | 7671 | 2866194122ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | e6630eff-6ccc-4c61-bcaa-5ec00a2ee0cc | 
+2022-12-23T00:02:11Z | _site/news/kernels | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194090ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 786365b4-11fa-49d2-a13c-0b4a6534488f | 
+2022-12-23T00:01:50Z | _site/assets/pdf/notes_acdl2022.pdf | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1661525459 | 9c489e9d46a9434faa02261290b9fadf | 1722945 | 2866194130ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b424f317-089d-4635-a595-5a6eaa95ab44 | 
+2022-12-23T00:02:15Z | _site/news/mix/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | c7b15d6b9311e95b76af08b530669ce5 | 7659 | 2866194182ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | f77f3824-a06b-43b9-bbad-af18bac0421d | 
+2022-12-23T00:02:14Z | _site/news/mix | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194142ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 84f7e39f-f3c5-4ebc-8f5f-82845a77da9e | 
+2022-12-23T00:02:16Z | _site/news/msml/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | f6604fd4c5e52eb3990230e00daed541 | 7905 | 2866194186ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 68640c9c-b37d-42cf-b7c2-a5cb659471d5 | 
+2022-12-23T00:02:14Z | _site/news/msml | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194150ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 9d1defbe-f522-494d-be07-38398918aadc | 
+2022-12-23T00:02:16Z | _site/news/msml21/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 70b4ed07a764173c753ae9db70da04f1 | 7895 | 2866194194ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2783419a-c80d-4892-ab02-c388d20638d2 | 
+2022-12-23T00:02:14Z | _site/news/msml21 | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194162ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | dff95a9a-6f29-435e-8dff-5cfad24bd251 | 
+2022-12-23T00:02:17Z | _site/news/neurips2019/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | f6bcb46540dc1096c2f625243e682937 | 7676 | 2866194198ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 16f9f772-a4ee-4b70-929f-f22da2b1083d | 
+2022-12-23T00:02:14Z | _site/news/neurips2019 | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194166ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 3e848b49-26bb-4452-bf00-4d986b27ee8e | 
+2022-12-23T00:02:20Z | _site/news/neurips_workshop2019/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 812653fee4449a8d3a257bc583a47db0 | 7827 | 2866194262ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 5283a25e-05cc-470e-9f6d-9338315270d3 | 
+2022-12-23T00:02:17Z | _site/news/neurips_workshop2019 | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194206ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 478d4188-e20e-4818-a8f7-eba998d974d0 | 
+2022-12-23T00:02:20Z | _site/news/phase_retrieval_complex/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | a2c5b4dec5a49220f8c5211c0a503b8b | 7684 | 2866194266ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 7d40bdca-e744-40be-a4f2-4b20e2a50b7e | 
+2022-12-23T00:02:18Z | _site/news/phase_retrieval_complex | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194234ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 958df6c7-000d-4b81-a6dd-22e6e95e6ef8 | 
+2022-12-23T00:02:20Z | _site/news/phase_retrieval_arxiv/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | e8d5851e3b9bbed2f2755e1ab38816d7 | 7784 | 2866194274ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2cbc50cb-00a2-4089-a825-cf53f68af97e | 
+2022-12-23T00:02:18Z | _site/news/phase_retrieval_arxiv | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194242ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2c370b54-c5df-473f-ba2f-30a370cbf601 | 
+2022-12-23T00:02:20Z | _site/news/neurips2021/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | ec25e9590fc8173fde700340b014fd41 | 8151 | 2866194270ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | b3142129-8cb1-4eb7-9bb4-583776b92359 | 
+2022-12-23T00:02:17Z | _site/news/neurips2021 | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194218ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 0fb5a082-0c9d-45bf-83e5-5c5150382ec2 | 
+2022-12-23T00:02:24Z | _site/projects/1_project/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | ca5feb599e9bbde4be80b144aaaa621e | 13212 | 2866194330ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 8ddfaeb3-1aad-4019-bf06-a1cb39bb4359 | 
+2022-12-23T00:02:22Z | _site/projects/1_project | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194298ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 44e9f5be-2b62-46d5-8646-94c5e01457af | 
+2022-12-23T00:02:24Z | _site/projects/2_project/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 49f7f715eba4014db9879b3785eb45f9 | 13212 | 2866194334ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 207b744e-33a6-4343-b1ef-1d3ca91f1605 | 
+2022-12-23T00:02:22Z | _site/projects/2_project | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194314ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c7c06f57-1695-4574-bb72-489e3251b80f | 
+2022-12-23T00:02:24Z | _site/news/prior_paper/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 3d84ef2a3ac23e3dfb71fff8fc2f9f4c | 7638 | 2866194342ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 0f32706c-6692-4611-b318-27dac69b2ab2 | 
+2022-12-23T00:02:22Z | _site/news/prior_paper | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194294ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 05a8b12f-c070-48ee-8a43-8fd9b004b61c | 
+2022-12-23T00:02:24Z | _site/news/phase_retrieval_neurips/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 84fdca0e459d068685e8328795f3d4c4 | 7813 | 2866194350ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 6c2ca605-f1a2-4f9f-9dd4-e404c3bbd967 | 
+2022-12-23T00:02:22Z | _site/news/phase_retrieval_neurips | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194302ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ef65082a-6995-42b6-b512-7656963479d6 | 
+2022-12-23T00:00:16Z | _site/news | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 768 | 2866192402ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | e9f47d4a-4cd0-4ccb-b7fd-0dea0bac8680 | 
+2022-12-23T00:02:28Z | _site/projects/3_project/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 5a44710d2141b2031a38a1d265d1b5f4 | 13301 | 2866194398ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | da58f92b-618a-42e6-90af-76876f8df11b | 
+2022-12-23T00:02:26Z | _site/projects/3_project | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194362ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | dcba71fa-4006-4886-81c8-a51a2853be08 | 
+2022-12-23T00:02:28Z | _site/projects/4_project/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | bd850bce25572cd4a4d1138c3511fbe3 | 13194 | 2866194406ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 7f6bb1b3-b2c7-445a-a17e-cc3dcab5b398 | 
+2022-12-23T00:02:26Z | _site/projects/4_project | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194370ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 3b9ccad0-dc69-40bc-930e-fe312e5c86dd | 
+2022-12-23T00:02:28Z | _site/projects/5_project/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 1ab8be9df73d416b89b913f3230e5675 | 13212 | 2866194414ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2743257a-3ca8-4b99-8025-9c2840b0fc64 | 
+2022-12-23T00:02:26Z | _site/projects/5_project | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194382ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 52206a21-37f4-40af-a824-4f9521811d4f | 
+2022-12-23T00:02:29Z | _site/projects/6_project/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | e46805752d8112dcca61c13db9640191 | 13192 | 2866194422ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | bef53fd8-a974-49cc-9f36-dcb0135c2b33 | 
+2022-12-23T00:02:26Z | _site/projects/6_project | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866194374ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 8606a5a1-7a31-4508-8323-1d10e47854aa | 
+2022-12-23T00:00:16Z | _site/projects | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 256 | 2866192434ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 44994910-ff30-496d-9bca-1c324a123b8c | 
+2022-12-23T00:02:30Z | _site/publications/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 41eb1c3944041b203afd671b5ebf2045 | 26216 | 2866194434ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 8401f978-f683-463d-94b0-e1b2fb9430b7 | 
+2022-12-23T00:00:16Z | _site/publications | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866192414ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a2193e32-0569-4142-9086-bb2de29322e9 | 
+2022-12-23T00:02:30Z | _site/teaching/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | a08cccd2a8e0ee5a781a11d4ea7f5245 | 8696 | 2866194442ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a9045137-e4bb-4f8e-8d48-8f08923a6060 | 
+2022-12-23T00:00:16Z | _site/teaching | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 96 | 2866192426ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | d0b00bf0-77ab-47b4-adbc-41258b1d2d19 | 
+2022-12-23T00:02:30Z | _site/CONTRIBUTING.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 91e6ff930a7c188df08e7171f6b786c6 | 1251 | 2866194450ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2450103f-62e0-4cb0-a454-c2dea960588e | 
+2022-12-23T00:02:30Z | _site/404.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 963d2d496bcf5b98a06ffec18a204e53 | 7556 | 2866194454ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 7abe7bf9-ea85-4b54-abba-78c29834c962 | 
+2022-12-23T00:02:32Z | _site/README.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644513910 | 94fe1d018201c93dd6a37df3679be719 | 82 | 2866194466ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | a58ad75c-b8fb-495b-8dd8-7f7094450c51 | 
+2022-12-23T00:02:32Z | _site/index.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 1f1ba4514db00ec27494afe28f08dd64 | 14379 | 2866194482ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ac84b396-aec5-4229-9188-df4bf17c1dd7 | 
+2022-12-23T00:02:32Z | _site/feed.xml | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | ed576308ffd63fa87a74af306246d9fc | 612 | 2866194486ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | fb3af8d4-527f-4dbb-b120-1cef417dc59c | 
+2022-12-23T00:02:32Z | _site/LICENSE | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 93cb68e4112e3663aa611efaa10b6cd5 | 1086 | 2866194470ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 70b3b129-2172-4713-b343-5a9dc5f2e0d4 | 
+2022-12-23T00:02:34Z | _site/robots.txt | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | 2ca76312a9e823fd96d4dcd9b88535e8 | 68 | 2866194506ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | cc790e3b-ed07-439f-ab99-516077747fa8 | 
+2022-12-23T00:02:33Z | _site/sitemap.xml | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663580445 | d5c6df8d79fc603b96bb1826391ec178 | 3603 | 2866194498ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 60b1624d-de26-458f-8478-0caec16a2468 | 
+2022-12-23T00:02:34Z | bin/cibuild | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 210c8769f8840f7a330d63d2d969f3da | 25 | 2866194510ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c27f281e-5550-4468-8ee3-fde7ee0e7f5c | 
+2022-12-23T00:02:35Z | bin/deploy | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 6336caf86f82a56afbbf80fc28539e3e | 2632 | 2866194522ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 2142291e-f822-4b7f-b69e-9d278d14aff5 | 
+2022-12-23T00:02:36Z | 404.html | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | bd302e4f686f7de75f2acb83aed788b9 | 312 | 2866194530ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 77de3b88-39a1-47b8-8c3d-3be41ed7b95b | 
+2022-12-23T00:02:37Z | CONTRIBUTING.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 835b78d612ebf6bfd9d3d36f5acd542f | 1251 | 2866194546ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 1e948987-6735-41aa-b397-b6d630e0f1d6 | 
+2022-12-23T00:02:37Z | Gemfile | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | e901a816f1e5556242fc90c8c06b3b4c | 493 | 2866194554ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ceace8e2-9c60-4f8b-9c50-02f365b96be1 | 
+2022-12-23T00:02:39Z | LICENSE | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644401483 | 80c41ff172c6aa6ae23ffaf146bb82fb | 1086 | 2866194578ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 1993be1d-9b1a-4867-b94c-4c77d31c8045 | 
+2022-12-23T00:02:37Z | assets/pdf/slides_acdl2022.pdf | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1661525293 | 20cca0107b2e76171f38378503edb25d | 15620899 | 2866194570ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | c8c170bb-a322-48c0-ac40-65d3f5cee463 | 
+2022-12-23T00:02:39Z | Gemfile.lock | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503312 | ec01d4a50121cf00a07d2e20846ca914 | 4353 | 2866194582ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | ee762971-7b9f-40c5-9afd-40380b49dd90 | 
+2022-12-23T00:02:40Z | robots.txt | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 515c052b0747a196bd8bfdcff14f16af | 116 | 2866194598ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 67f982f1-0402-46f0-aaeb-9a3ad83cffca | 
+2022-12-23T00:02:40Z | README.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1644513910 | b62c7511fcdcfa4efe9b5d97e2a510bb | 82 | 2866194606ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 8c2eb224-f742-46ec-a751-6221f3bad309 | 
+2022-12-23T00:02:40Z | _config.yml | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663501144 | 6b5d961a0f61cbe535d55269b2b9fbdd | 10503 | 2866194610ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 05d6cdb6-8296-453d-a193-1a453ea4a760 | 
+2022-12-23T00:03:59Z | _site/assets/pdf/slides_acdl2022.pdf | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1661525293 | 1b026ef3ccad576cec2d9c32386ea0ef | 15620899 | 2866195422ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 26530d5f-a6da-48ee-995a-6dda06a1419a | 
+2022-12-23T00:01:48Z | _site/assets/pdf | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663504290 |  | 160 | 2866193674ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 4773261a-5961-497f-b0ff-9ccdc7255739 | 
+2022-12-23T00:00:16Z | _site/assets | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1663503330 |  | 256 | 2866192398ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | e9339e43-ab05-414f-b823-cfbbb20db725 | 
+#=#=#=# Syncrun finished 2022-12-23T00:04:00Z (last step: 224768 msec , total: 232979 msec) 
+#=#=#=# Syncrun started 2022-12-23T06:33:50Z
+#=#=#=# Syncrun finished 2022-12-23T06:33:50Z (last step: 27 msec , total: 27 msec) 
+#=#=#=# Syncrun started 2022-12-23T06:51:40Z
+#=#=#=# Syncrun finished 2022-12-23T06:51:40Z (last step: 9 msec , total: 9 msec) 
+#=#=#=# Syncrun started 2022-12-23T12:00:33Z
+#=#=#=#=# Propagation starts 2022-12-23T12:00:43Z (last step: 9954 msec , total: 9954 msec) 
+#=#=#=# Syncrun finished 2022-12-23T12:00:43Z (last step: 8 msec , total: 9962 msec) 
+#=#=#=# Syncrun started 2022-12-23T15:49:02Z
+#=#=#=#=# Propagation starts 2022-12-23T15:49:03Z (last step: 1358 msec , total: 1358 msec) 
+#=#=#=# Syncrun finished 2022-12-23T15:49:03Z (last step: 4 msec , total: 1363 msec) 
+#=#=#=# Syncrun started 2022-12-23T16:15:51Z
+#=#=#=#=# Propagation starts 2022-12-23T16:15:53Z (last step: 1737 msec , total: 1737 msec) 
+#=#=#=# Syncrun finished 2022-12-23T16:15:53Z (last step: 3 msec , total: 1741 msec) 
+#=#=#=# Syncrun started 2022-12-23T18:15:57Z
+#=#=#=#=# Propagation starts 2022-12-23T18:15:58Z (last step: 1065 msec , total: 1065 msec) 
+#=#=#=# Syncrun finished 2022-12-23T18:15:58Z (last step: 4 msec , total: 1070 msec) 
+#=#=#=# Syncrun started 2022-12-23T20:16:02Z
+#=#=#=#=# Propagation starts 2022-12-23T20:16:03Z (last step: 1158 msec , total: 1158 msec) 
+#=#=#=# Syncrun finished 2022-12-23T20:16:03Z (last step: 4 msec , total: 1162 msec) 
+#=#=#=# Syncrun started 2022-12-23T22:16:07Z
+#=#=#=#=# Propagation starts 2022-12-23T22:16:09Z (last step: 1321 msec , total: 1321 msec) 
+#=#=#=# Syncrun finished 2022-12-23T22:16:09Z (last step: 4 msec , total: 1326 msec) 
+#=#=#=# Syncrun started 2022-12-24T00:16:12Z
+#=#=#=#=# Propagation starts 2022-12-24T00:16:14Z (last step: 1329 msec , total: 1329 msec) 
+#=#=#=# Syncrun finished 2022-12-24T00:16:14Z (last step: 7 msec , total: 1337 msec) 
+#=#=#=# Syncrun started 2022-12-24T02:16:19Z
+#=#=#=#=# Propagation starts 2022-12-24T02:16:20Z (last step: 1458 msec , total: 1458 msec) 
+#=#=#=# Syncrun finished 2022-12-24T02:16:20Z (last step: 7 msec , total: 1465 msec) 
+#=#=#=# Syncrun started 2022-12-24T04:16:22Z
+#=#=#=#=# Propagation starts 2022-12-24T04:16:24Z (last step: 1525 msec , total: 1525 msec) 
+#=#=#=# Syncrun finished 2022-12-24T04:16:24Z (last step: 4 msec , total: 1530 msec) 
+#=#=#=# Syncrun started 2022-12-24T06:16:27Z
+#=#=#=#=# Propagation starts 2022-12-24T06:16:29Z (last step: 1697 msec , total: 1697 msec) 
+#=#=#=# Syncrun finished 2022-12-24T06:16:29Z (last step: 7 msec , total: 1705 msec) 
+#=#=#=# Syncrun started 2022-12-24T08:16:32Z
+#=#=#=#=# Propagation starts 2022-12-24T08:16:34Z (last step: 1800 msec , total: 1800 msec) 
+#=#=#=# Syncrun finished 2022-12-24T08:16:34Z (last step: 5 msec , total: 1805 msec) 
+#=#=#=# Syncrun started 2022-12-24T10:16:37Z
+#=#=#=#=# Propagation starts 2022-12-24T10:16:40Z (last step: 2057 msec , total: 2057 msec) 
+#=#=#=# Syncrun finished 2022-12-24T10:16:40Z (last step: 5 msec , total: 2063 msec) 
+#=#=#=# Syncrun started 2022-12-24T12:16:42Z
+#=#=#=#=# Propagation starts 2022-12-24T12:16:44Z (last step: 1213 msec , total: 1213 msec) 
+#=#=#=# Syncrun finished 2022-12-24T12:16:44Z (last step: 7 msec , total: 1221 msec) 
+#=#=#=# Syncrun started 2022-12-24T14:16:47Z
+#=#=#=#=# Propagation starts 2022-12-24T14:16:49Z (last step: 1270 msec , total: 1270 msec) 
+#=#=#=# Syncrun finished 2022-12-24T14:16:49Z (last step: 6 msec , total: 1276 msec) 
+#=#=#=# Syncrun started 2022-12-24T16:16:52Z
+#=#=#=#=# Propagation starts 2022-12-24T16:16:54Z (last step: 1321 msec , total: 1321 msec) 
+#=#=#=# Syncrun finished 2022-12-24T16:16:54Z (last step: 4 msec , total: 1326 msec) 
+#=#=#=# Syncrun started 2022-12-24T18:16:59Z
+#=#=#=#=# Propagation starts 2022-12-24T18:17:00Z (last step: 1319 msec , total: 1319 msec) 
+#=#=#=# Syncrun finished 2022-12-24T18:17:00Z (last step: 4 msec , total: 1324 msec) 
+#=#=#=# Syncrun started 2022-12-24T20:17:03Z
+#=#=#=#=# Propagation starts 2022-12-24T20:17:04Z (last step: 1257 msec , total: 1257 msec) 
+#=#=#=# Syncrun finished 2022-12-24T20:17:04Z (last step: 4 msec , total: 1262 msec) 
+#=#=#=# Syncrun started 2022-12-24T22:17:08Z
+#=#=#=#=# Propagation starts 2022-12-24T22:17:09Z (last step: 1344 msec , total: 1344 msec) 
+#=#=#=# Syncrun finished 2022-12-24T22:17:09Z (last step: 5 msec , total: 1349 msec) 
+#=#=#=# Syncrun started 2022-12-25T00:17:13Z
+#=#=#=#=# Propagation starts 2022-12-25T00:17:14Z (last step: 1322 msec , total: 1322 msec) 
+#=#=#=# Syncrun finished 2022-12-25T00:17:14Z (last step: 5 msec , total: 1328 msec) 
+#=#=#=# Syncrun started 2022-12-25T02:17:17Z
+#=#=#=#=# Propagation starts 2022-12-25T02:17:21Z (last step: 3903 msec , total: 3903 msec) 
+#=#=#=# Syncrun finished 2022-12-25T02:17:21Z (last step: 6 msec , total: 3909 msec) 
+#=#=#=# Syncrun started 2022-12-25T05:05:27Z
+#=#=#=#=# Propagation starts 2022-12-25T05:20:32Z (last step: 1779 msec , total: 1779 msec) 
+#=#=#=# Syncrun finished 2022-12-25T05:20:32Z (last step: 15 msec , total: 1794 msec) 
+#=#=#=# Syncrun started 2022-12-25T14:34:18Z
+#=#=#=#=# Propagation starts 2022-12-25T14:34:20Z (last step: 1648 msec , total: 1648 msec) 
+#=#=#=# Syncrun finished 2022-12-25T14:34:20Z (last step: 3 msec , total: 1651 msec) 
+#=#=#=# Syncrun started 2022-12-25T14:34:21Z
+#=#=#=#=# Propagation starts 2022-12-25T14:34:23Z (last step: 1668 msec , total: 1668 msec) 
+#=#=#=# Syncrun finished 2022-12-25T14:34:23Z (last step: 3 msec , total: 1672 msec) 
+#=#=#=# Syncrun started 2022-12-25T16:34:26Z
+#=#=#=#=# Propagation starts 2022-12-25T16:34:27Z (last step: 1719 msec , total: 1719 msec) 
+#=#=#=# Syncrun finished 2022-12-25T16:34:27Z (last step: 4 msec , total: 1724 msec) 
+#=#=#=# Syncrun started 2022-12-25T18:34:30Z
+#=#=#=#=# Propagation starts 2022-12-25T18:34:31Z (last step: 1735 msec , total: 1735 msec) 
+#=#=#=# Syncrun finished 2022-12-25T18:34:31Z (last step: 3 msec , total: 1739 msec) 
+#=#=#=# Syncrun started 2022-12-25T20:34:35Z
+#=#=#=#=# Propagation starts 2022-12-25T20:34:36Z (last step: 1854 msec , total: 1854 msec) 
+#=#=#=# Syncrun finished 2022-12-25T20:34:36Z (last step: 4 msec , total: 1859 msec) 
+#=#=#=# Syncrun started 2022-12-25T22:34:40Z
+#=#=#=#=# Propagation starts 2022-12-25T22:34:42Z (last step: 1874 msec , total: 1874 msec) 
+#=#=#=# Syncrun finished 2022-12-25T22:34:42Z (last step: 4 msec , total: 1878 msec) 
+#=#=#=# Syncrun started 2022-12-26T00:34:50Z
+#=#=#=#=# Propagation starts 2022-12-26T00:34:52Z (last step: 1908 msec , total: 1908 msec) 
+#=#=#=# Syncrun finished 2022-12-26T00:34:52Z (last step: 6 msec , total: 1915 msec) 
+#=#=#=# Syncrun started 2022-12-26T02:35:07Z
+#=#=#=#=# Propagation starts 2022-12-26T02:35:09Z (last step: 2082 msec , total: 2082 msec) 
+#=#=#=# Syncrun finished 2022-12-26T02:35:09Z (last step: 6 msec , total: 2088 msec) 
+#=#=#=# Syncrun started 2022-12-26T02:35:10Z
+#=#=#=#=# Propagation starts 2022-12-26T02:35:12Z (last step: 2020 msec , total: 2020 msec) 
+#=#=#=# Syncrun finished 2022-12-26T02:35:12Z (last step: 5 msec , total: 2026 msec) 
+#=#=#=# Syncrun started 2022-12-26T14:03:34Z
+#=#=#=#=# Propagation starts 2022-12-26T14:03:36Z (last step: 2138 msec , total: 2138 msec) 
+#=#=#=# Syncrun finished 2022-12-26T14:03:36Z (last step: 8 msec , total: 2147 msec) 
+#=#=#=# Syncrun started 2022-12-26T17:28:52Z
+#=#=#=#=# Propagation starts 2022-12-26T17:28:54Z (last step: 2197 msec , total: 2197 msec) 
+#=#=#=# Syncrun finished 2022-12-26T17:28:54Z (last step: 7 msec , total: 2205 msec) 
+#=#=#=# Syncrun started 2022-12-26T19:28:57Z
+#=#=#=#=# Propagation starts 2022-12-26T19:28:59Z (last step: 2242 msec , total: 2242 msec) 
+#=#=#=# Syncrun finished 2022-12-26T19:28:59Z (last step: 4 msec , total: 2247 msec) 
+#=#=#=# Syncrun started 2022-12-26T21:29:12Z
+#=#=#=#=# Propagation starts 2022-12-26T21:29:15Z (last step: 2474 msec , total: 2474 msec) 
+#=#=#=# Syncrun finished 2022-12-26T21:29:15Z (last step: 5 msec , total: 2479 msec) 
+#=#=#=# Syncrun started 2022-12-26T23:29:25Z
+#=#=#=#=# Propagation starts 2022-12-26T23:29:27Z (last step: 2486 msec , total: 2486 msec) 
+#=#=#=# Syncrun finished 2022-12-26T23:29:27Z (last step: 8 msec , total: 2494 msec) 
+#=#=#=# Syncrun started 2022-12-26T23:29:40Z
+#=#=#=#=# Propagation starts 2022-12-26T23:29:43Z (last step: 2559 msec , total: 2559 msec) 
+#=#=#=# Syncrun finished 2022-12-26T23:29:43Z (last step: 8 msec , total: 2568 msec) 
+#=#=#=# Syncrun started 2022-12-27T01:30:24Z
+#=#=#=#=# Propagation starts 2022-12-27T01:30:26Z (last step: 2604 msec , total: 2604 msec) 
+#=#=#=# Syncrun finished 2022-12-27T01:30:26Z (last step: 6 msec , total: 2610 msec) 
+#=#=#=# Syncrun started 2022-12-27T01:30:36Z
+#=#=#=#=# Propagation starts 2022-12-27T01:30:38Z (last step: 2601 msec , total: 2601 msec) 
+#=#=#=# Syncrun finished 2022-12-27T01:30:38Z (last step: 5 msec , total: 2607 msec) 
+#=#=#=# Syncrun started 2022-12-27T03:31:54Z
+#=#=#=#=# Propagation starts 2022-12-27T03:31:57Z (last step: 2729 msec , total: 2729 msec) 
+#=#=#=# Syncrun finished 2022-12-27T03:31:57Z (last step: 6 msec , total: 2736 msec) 
+#=#=#=# Syncrun started 2022-12-27T03:32:21Z
+#=#=#=#=# Propagation starts 2022-12-27T03:32:24Z (last step: 2800 msec , total: 2800 msec) 
+#=#=#=# Syncrun finished 2022-12-27T03:32:24Z (last step: 3 msec , total: 2804 msec) 
+#=#=#=# Syncrun started 2022-12-27T05:32:33Z
+#=#=#=#=# Propagation starts 2022-12-27T05:32:35Z (last step: 2731 msec , total: 2731 msec) 
+#=#=#=# Syncrun finished 2022-12-27T05:32:35Z (last step: 4 msec , total: 2736 msec) 
+#=#=#=# Syncrun started 2022-12-27T07:32:46Z
+#=#=#=#=# Propagation starts 2022-12-27T07:32:51Z (last step: 4363 msec , total: 4363 msec) 
+#=#=#=# Syncrun finished 2022-12-27T07:32:51Z (last step: 5 msec , total: 4368 msec) 
+#=#=#=# Syncrun started 2022-12-27T10:19:33Z
+#=#=#=#=# Propagation starts 2022-12-27T10:19:36Z (last step: 2975 msec , total: 2975 msec) 
+#=#=#=# Syncrun finished 2022-12-27T10:19:36Z (last step: 4 msec , total: 2979 msec) 
+#=#=#=# Syncrun started 2022-12-27T11:14:57Z
+#=#=#=#=# Propagation starts 2022-12-27T11:15:00Z (last step: 2946 msec , total: 2946 msec) 
+#=#=#=# Syncrun finished 2022-12-27T11:15:00Z (last step: 4 msec , total: 2950 msec) 
+#=#=#=# Syncrun started 2022-12-27T14:07:15Z
+#=#=#=#=# Propagation starts 2022-12-27T14:07:18Z (last step: 2890 msec , total: 2890 msec) 
+#=#=#=# Syncrun finished 2022-12-27T14:07:18Z (last step: 6 msec , total: 2896 msec) 
+#=#=#=# Syncrun started 2022-12-27T16:33:29Z
+#=#=#=#=# Propagation starts 2022-12-27T16:33:32Z (last step: 2987 msec , total: 2987 msec) 
+#=#=#=# Syncrun finished 2022-12-27T16:33:32Z (last step: 6 msec , total: 2994 msec) 
+#=#=#=# Syncrun started 2022-12-27T17:29:15Z
+#=#=#=# Syncrun finished 2022-12-27T17:35:03Z (last step: 65214 msec , total: 65214 msec) 
+#=#=#=# Syncrun started 2022-12-27T17:35:37Z
+#=#=#=#=# Propagation starts 2022-12-27T17:35:40Z (last step: 3004 msec , total: 3004 msec) 
+#=#=#=# Syncrun finished 2022-12-27T17:35:40Z (last step: 4 msec , total: 3009 msec) 
+#=#=#=# Syncrun started 2022-12-27T17:35:50Z
+#=#=#=#=# Propagation starts 2022-12-27T17:35:53Z (last step: 2967 msec , total: 2967 msec) 
+#=#=#=# Syncrun finished 2022-12-27T17:35:53Z (last step: 8 msec , total: 2976 msec) 
+#=#=#=# Syncrun started 2022-12-27T18:21:38Z
+#=#=#=#=# Propagation starts 2022-12-27T18:21:41Z (last step: 3024 msec , total: 3024 msec) 
+#=#=#=# Syncrun finished 2022-12-27T18:21:41Z (last step: 7 msec , total: 3031 msec) 
+#=#=#=# Syncrun started 2022-12-27T18:33:13Z
+#=#=#=#=# Propagation starts 2022-12-27T18:33:16Z (last step: 3009 msec , total: 3009 msec) 
+#=#=#=# Syncrun finished 2022-12-27T18:33:16Z (last step: 5 msec , total: 3015 msec) 
+#=#=#=# Syncrun started 2022-12-27T19:47:46Z
+#=#=#=#=# Propagation starts 2022-12-27T19:47:49Z (last step: 3057 msec , total: 3057 msec) 
+#=#=#=# Syncrun finished 2022-12-27T19:47:49Z (last step: 5 msec , total: 3062 msec) 
+#=#=#=# Syncrun started 2022-12-27T20:03:23Z
+#=#=#=# Syncrun finished 2022-12-27T20:14:12Z (last step: 83596 msec , total: 83596 msec) 
+#=#=#=# Syncrun started 2022-12-27T20:15:42Z
+#=#=#=#=# Propagation starts 2022-12-27T20:15:45Z (last step: 3051 msec , total: 3051 msec) 
+#=#=#=# Syncrun finished 2022-12-27T20:15:45Z (last step: 6 msec , total: 3058 msec) 
+#=#=#=# Syncrun started 2022-12-27T20:15:55Z
+#=#=#=#=# Propagation starts 2022-12-27T20:15:58Z (last step: 2987 msec , total: 2987 msec) 
+#=#=#=# Syncrun finished 2022-12-27T20:15:58Z (last step: 4 msec , total: 2992 msec) 
+#=#=#=# Syncrun started 2022-12-27T20:44:47Z
+#=#=#=#=# Propagation starts 2022-12-27T20:44:51Z (last step: 4291 msec , total: 4291 msec) 
+#=#=#=# Syncrun finished 2022-12-27T20:44:51Z (last step: 5 msec , total: 4297 msec) 
+#=#=#=# Syncrun started 2022-12-27T21:41:22Z
+#=#=#=#=# Propagation starts 2022-12-27T21:41:25Z (last step: 2992 msec , total: 2992 msec) 
+#=#=#=# Syncrun finished 2022-12-27T21:41:25Z (last step: 6 msec , total: 2999 msec) 
+#=#=#=# Syncrun started 2022-12-27T21:49:10Z
+#=#=#=#=# Propagation starts 2022-12-27T21:49:13Z (last step: 3005 msec , total: 3005 msec) 
+#=#=#=# Syncrun finished 2022-12-27T21:49:13Z (last step: 6 msec , total: 3012 msec) 
+#=#=#=# Syncrun started 2022-12-27T22:12:10Z
+#=#=#=#=# Propagation starts 2022-12-27T22:12:13Z (last step: 3047 msec , total: 3047 msec) 
+#=#=#=# Syncrun finished 2022-12-27T22:12:13Z (last step: 4 msec , total: 3052 msec) 
+#=#=#=# Syncrun started 2022-12-27T22:44:58Z
+#=#=#=#=# Propagation starts 2022-12-27T22:45:04Z (last step: 6531 msec , total: 6531 msec) 
+#=#=#=# Syncrun finished 2022-12-27T22:45:04Z (last step: 6 msec , total: 6538 msec) 
+#=#=#=# Syncrun started 2022-12-27T22:45:42Z
+#=#=#=#=# Propagation starts 2022-12-27T22:50:28Z (last step: 3386 msec , total: 3386 msec) 
+#=#=#=# Syncrun finished 2022-12-27T22:50:28Z (last step: 4 msec , total: 3391 msec) 
+#=#=#=# Syncrun started 2022-12-27T23:20:13Z
+#=#=#=#=# Propagation starts 2022-12-27T23:20:16Z (last step: 3056 msec , total: 3056 msec) 
+#=#=#=# Syncrun finished 2022-12-27T23:20:16Z (last step: 6 msec , total: 3063 msec) 
+#=#=#=# Syncrun started 2022-12-28T00:22:40Z
+#=#=#=#=# Propagation starts 2022-12-28T00:22:43Z (last step: 3111 msec , total: 3111 msec) 
+#=#=#=# Syncrun finished 2022-12-28T00:22:43Z (last step: 5 msec , total: 3116 msec) 
+#=#=#=# Syncrun started 2022-12-28T00:33:56Z
+#=#=#=#=# Propagation starts 2022-12-28T00:33:59Z (last step: 3008 msec , total: 3008 msec) 
+#=#=#=# Syncrun finished 2022-12-28T00:33:59Z (last step: 6 msec , total: 3014 msec) 
+#=#=#=# Syncrun started 2022-12-28T00:52:02Z
+#=#=#=#=# Propagation starts 2022-12-28T00:52:05Z (last step: 3193 msec , total: 3193 msec) 
+#=#=#=# Syncrun finished 2022-12-28T00:52:05Z (last step: 5 msec , total: 3198 msec) 
+#=#=#=# Syncrun started 2022-12-28T01:20:58Z
+#=#=#=#=# Propagation starts 2022-12-28T01:21:01Z (last step: 3181 msec , total: 3181 msec) 
+#=#=#=# Syncrun finished 2022-12-28T01:21:01Z (last step: 6 msec , total: 3187 msec) 
+#=#=#=# Syncrun started 2022-12-28T01:54:29Z
+#=#=#=#=# Propagation starts 2022-12-28T01:54:32Z (last step: 3136 msec , total: 3136 msec) 
+#=#=#=# Syncrun finished 2022-12-28T01:54:32Z (last step: 4 msec , total: 3141 msec) 
+#=#=#=# Syncrun started 2022-12-28T02:45:28Z
+#=#=#=#=# Propagation starts 2022-12-28T02:45:32Z (last step: 4674 msec , total: 4674 msec) 
+#=#=#=# Syncrun finished 2022-12-28T02:45:32Z (last step: 7 msec , total: 4681 msec) 
+#=#=#=# Syncrun started 2022-12-28T04:02:43Z
+#=#=#=#=# Propagation starts 2022-12-28T04:02:46Z (last step: 3242 msec , total: 3242 msec) 
+#=#=#=# Syncrun finished 2022-12-28T04:02:46Z (last step: 6 msec , total: 3248 msec) 
+#=#=#=# Syncrun started 2022-12-28T04:16:51Z
+#=#=#=#=# Propagation starts 2022-12-28T04:16:54Z (last step: 3613 msec , total: 3613 msec) 
+#=#=#=# Syncrun finished 2022-12-28T04:16:54Z (last step: 8 msec , total: 3621 msec) 
+#=#=#=# Syncrun started 2022-12-28T04:44:42Z
+#=#=#=#=# Propagation starts 2022-12-28T04:44:45Z (last step: 3135 msec , total: 3135 msec) 
+#=#=#=# Syncrun finished 2022-12-28T04:44:45Z (last step: 5 msec , total: 3141 msec) 
+#=#=#=# Syncrun started 2022-12-28T04:56:13Z
+#=#=#=#=# Propagation starts 2022-12-28T04:56:16Z (last step: 3149 msec , total: 3149 msec) 
+#=#=#=# Syncrun finished 2022-12-28T04:56:16Z (last step: 7 msec , total: 3156 msec) 
+#=#=#=# Syncrun started 2022-12-28T05:35:25Z
+#=#=#=#=# Propagation starts 2022-12-28T05:35:28Z (last step: 3166 msec , total: 3166 msec) 
+#=#=#=# Syncrun finished 2022-12-28T05:35:28Z (last step: 4 msec , total: 3171 msec) 
+#=#=#=# Syncrun started 2022-12-28T06:33:22Z
+#=#=#=#=# Propagation starts 2022-12-28T06:33:25Z (last step: 3232 msec , total: 3232 msec) 
+#=#=#=# Syncrun finished 2022-12-28T06:33:25Z (last step: 6 msec , total: 3239 msec) 
+#=#=#=# Syncrun started 2022-12-28T06:55:04Z
+#=#=#=#=# Propagation starts 2022-12-28T06:55:08Z (last step: 3100 msec , total: 3100 msec) 
+#=#=#=# Syncrun finished 2022-12-28T06:55:08Z (last step: 5 msec , total: 3105 msec) 
+#=#=#=# Syncrun started 2022-12-28T08:10:35Z
+#=#=#=#=# Propagation starts 2022-12-28T08:10:38Z (last step: 3161 msec , total: 3161 msec) 
+#=#=#=# Syncrun finished 2022-12-28T08:10:38Z (last step: 5 msec , total: 3167 msec) 
+#=#=#=# Syncrun started 2022-12-28T08:39:21Z
+#=#=#=#=# Propagation starts 2022-12-28T08:39:24Z (last step: 3133 msec , total: 3133 msec) 
+#=#=#=# Syncrun finished 2022-12-28T08:39:24Z (last step: 5 msec , total: 3138 msec) 
+#=#=#=# Syncrun started 2022-12-28T09:02:50Z
+#=#=#=#=# Propagation starts 2022-12-28T09:02:56Z (last step: 5688 msec , total: 5688 msec) 
+#=#=#=# Syncrun finished 2022-12-28T09:02:56Z (last step: 5 msec , total: 5694 msec) 
+#=#=#=# Syncrun started 2022-12-28T09:19:38Z
+#=#=#=#=# Propagation starts 2022-12-28T09:19:41Z (last step: 3152 msec , total: 3152 msec) 
+#=#=#=# Syncrun finished 2022-12-28T09:19:41Z (last step: 3 msec , total: 3155 msec) 
+#=#=#=# Syncrun started 2022-12-28T09:47:34Z
+#=#=#=#=# Propagation starts 2022-12-28T09:47:37Z (last step: 3149 msec , total: 3149 msec) 
+#=#=#=# Syncrun finished 2022-12-28T09:47:37Z (last step: 6 msec , total: 3156 msec) 
+#=#=#=# Syncrun started 2022-12-28T09:58:48Z
+#=#=#=#=# Propagation starts 2022-12-28T09:58:51Z (last step: 3186 msec , total: 3186 msec) 
+#=#=#=# Syncrun finished 2022-12-28T09:58:51Z (last step: 3 msec , total: 3189 msec) 
+#=#=#=# Syncrun started 2022-12-28T10:10:20Z
+#=#=#=#=# Propagation starts 2022-12-28T10:10:23Z (last step: 3141 msec , total: 3141 msec) 
+#=#=#=# Syncrun finished 2022-12-28T10:10:23Z (last step: 5 msec , total: 3147 msec) 
+#=#=#=# Syncrun started 2022-12-28T11:30:00Z
+#=#=#=#=# Propagation starts 2022-12-28T11:30:04Z (last step: 3911 msec , total: 3911 msec) 
+#=#=#=# Syncrun finished 2022-12-28T11:30:04Z (last step: 4 msec , total: 3916 msec) 
+#=#=#=# Syncrun started 2022-12-28T12:00:36Z
+#=#=#=#=# Propagation starts 2022-12-28T12:00:39Z (last step: 3265 msec , total: 3265 msec) 
+#=#=#=# Syncrun finished 2022-12-28T12:00:39Z (last step: 5 msec , total: 3271 msec) 
+#=#=#=# Syncrun started 2022-12-28T12:28:21Z
+#=#=#=#=# Propagation starts 2022-12-28T12:28:24Z (last step: 3230 msec , total: 3230 msec) 
+#=#=#=# Syncrun finished 2022-12-28T12:28:24Z (last step: 5 msec , total: 3236 msec) 
+#=#=#=# Syncrun started 2022-12-28T12:51:31Z
+#=#=#=#=# Propagation starts 2022-12-28T12:51:34Z (last step: 3171 msec , total: 3171 msec) 
+#=#=#=# Syncrun finished 2022-12-28T12:51:34Z (last step: 6 msec , total: 3177 msec) 
+#=#=#=# Syncrun started 2022-12-28T13:08:11Z
+#=#=#=#=# Propagation starts 2022-12-28T13:08:14Z (last step: 3167 msec , total: 3167 msec) 
+#=#=#=# Syncrun finished 2022-12-28T13:08:14Z (last step: 3 msec , total: 3170 msec) 
+#=#=#=# Syncrun started 2022-12-28T15:08:32Z
+#=#=#=#=# Propagation starts 2022-12-28T15:08:35Z (last step: 3439 msec , total: 3439 msec) 
+#=#=#=# Syncrun finished 2022-12-28T15:08:35Z (last step: 5 msec , total: 3444 msec) 
+#=#=#=# Syncrun started 2022-12-28T15:08:53Z
+#=#=#=#=# Propagation starts 2022-12-28T15:08:56Z (last step: 3492 msec , total: 3492 msec) 
+#=#=#=# Syncrun finished 2022-12-28T15:08:56Z (last step: 4 msec , total: 3496 msec) 
+#=#=#=# Syncrun started 2022-12-28T17:09:00Z
+#=#=#=#=# Propagation starts 2022-12-28T17:09:03Z (last step: 3490 msec , total: 3490 msec) 
+#=#=#=# Syncrun finished 2022-12-28T17:09:03Z (last step: 5 msec , total: 3495 msec) 
+#=#=#=# Syncrun started 2022-12-28T19:09:14Z
+#=#=#=#=# Propagation starts 2022-12-28T19:09:18Z (last step: 3814 msec , total: 3814 msec) 
+#=#=#=# Syncrun finished 2022-12-28T19:09:18Z (last step: 7 msec , total: 3821 msec) 
+#=#=#=# Syncrun started 2022-12-28T21:09:28Z
+#=#=#=#=# Propagation starts 2022-12-28T21:09:32Z (last step: 3638 msec , total: 3638 msec) 
+#=#=#=# Syncrun finished 2022-12-28T21:09:32Z (last step: 6 msec , total: 3645 msec) 
+#=#=#=# Syncrun started 2022-12-28T21:09:38Z
+#=#=#=#=# Propagation starts 2022-12-28T21:09:42Z (last step: 3643 msec , total: 3643 msec) 
+#=#=#=# Syncrun finished 2022-12-28T21:09:42Z (last step: 4 msec , total: 3647 msec) 
+#=#=#=# Syncrun started 2022-12-28T23:09:50Z
+#=#=#=#=# Propagation starts 2022-12-28T23:09:54Z (last step: 3794 msec , total: 3794 msec) 
+#=#=#=# Syncrun finished 2022-12-28T23:09:54Z (last step: 9 msec , total: 3804 msec) 
+#=#=#=# Syncrun started 2022-12-28T23:09:55Z
+#=#=#=#=# Propagation starts 2022-12-28T23:09:59Z (last step: 3754 msec , total: 3754 msec) 
+#=#=#=# Syncrun finished 2022-12-28T23:09:59Z (last step: 6 msec , total: 3760 msec) 
+#=#=#=# Syncrun started 2022-12-29T01:10:06Z
+#=#=#=#=# Propagation starts 2022-12-29T01:10:10Z (last step: 3898 msec , total: 3898 msec) 
+#=#=#=# Syncrun finished 2022-12-29T01:10:10Z (last step: 8 msec , total: 3906 msec) 
+#=#=#=# Syncrun started 2022-12-29T01:10:11Z
+#=#=#=#=# Propagation starts 2022-12-29T01:10:15Z (last step: 3852 msec , total: 3852 msec) 
+#=#=#=# Syncrun finished 2022-12-29T01:10:15Z (last step: 6 msec , total: 3858 msec) 
+#=#=#=# Syncrun started 2022-12-29T03:10:21Z
+#=#=#=#=# Propagation starts 2022-12-29T03:10:25Z (last step: 3987 msec , total: 3987 msec) 
+#=#=#=# Syncrun finished 2022-12-29T03:10:25Z (last step: 7 msec , total: 3994 msec) 
+#=#=#=# Syncrun started 2022-12-29T03:10:26Z
+#=#=#=#=# Propagation starts 2022-12-29T03:10:30Z (last step: 3961 msec , total: 3961 msec) 
+#=#=#=# Syncrun finished 2022-12-29T03:10:30Z (last step: 7 msec , total: 3969 msec) 
+#=#=#=# Syncrun started 2022-12-29T07:50:27Z
+#=#=#=#=# Propagation starts 2022-12-29T08:06:06Z (last step: 5126 msec , total: 5126 msec) 
+#=#=#=# Syncrun finished 2022-12-29T08:06:06Z (last step: 4 msec , total: 5130 msec) 
+#=#=#=# Syncrun started 2022-12-29T12:50:15Z
+#=#=#=#=# Propagation starts 2022-12-29T12:50:19Z (last step: 4077 msec , total: 4077 msec) 
+#=#=#=# Syncrun finished 2022-12-29T12:50:19Z (last step: 7 msec , total: 4084 msec) 
+#=#=#=# Syncrun started 2022-12-29T15:24:25Z
+#=#=#=#=# Propagation starts 2022-12-29T15:24:29Z (last step: 4214 msec , total: 4214 msec) 
+#=#=#=# Syncrun finished 2022-12-29T15:24:29Z (last step: 7 msec , total: 4221 msec) 
+#=#=#=# Syncrun started 2022-12-29T15:25:06Z
+#=#=#=#=# Propagation starts 2022-12-29T15:25:11Z (last step: 4178 msec , total: 4178 msec) 
+#=#=#=# Syncrun finished 2022-12-29T15:25:11Z (last step: 6 msec , total: 4184 msec) 
+#=#=#=# Syncrun started 2022-12-30T05:16:27Z
+#=#=#=# Syncrun finished 2022-12-30T05:50:06Z (last step: 15818 msec , total: 15818 msec) 
+#=#=#=# Syncrun started 2022-12-30T06:54:17Z
+#=#=#=# Syncrun finished 2022-12-30T07:27:16Z (last step: 11459 msec , total: 11459 msec) 
+#=#=#=# Syncrun started 2022-12-30T15:48:46Z
+#=#=#=#=# Propagation starts 2022-12-30T15:48:50Z (last step: 4228 msec , total: 4228 msec) 
+#=#=#=# Syncrun finished 2022-12-30T15:48:50Z (last step: 4 msec , total: 4232 msec) 
+#=#=#=# Syncrun started 2022-12-30T15:48:57Z
+#=#=#=#=# Propagation starts 2022-12-30T15:49:01Z (last step: 4218 msec , total: 4218 msec) 
+#=#=#=# Syncrun finished 2022-12-30T15:49:01Z (last step: 7 msec , total: 4225 msec) 
+#=#=#=# Syncrun started 2022-12-31T06:15:13Z
+#=#=#=#=# Propagation starts 2022-12-31T06:31:09Z (last step: 4921 msec , total: 4921 msec) 
+#=#=#=# Syncrun finished 2022-12-31T06:31:09Z (last step: 6 msec , total: 4927 msec) 
+#=#=#=# Syncrun started 2022-12-31T18:39:36Z
+#=#=#=# Syncrun finished 2022-12-31T18:55:26Z (last step: 299923 msec , total: 299923 msec) 
+#=#=#=# Syncrun started 2022-12-31T18:55:57Z
+#=#=#=#=# Propagation starts 2022-12-31T18:56:02Z (last step: 4229 msec , total: 4229 msec) 
+#=#=#=# Syncrun finished 2022-12-31T18:56:02Z (last step: 6 msec , total: 4235 msec) 
+#=#=#=# Syncrun started 2022-12-31T18:56:15Z
+#=#=#=#=# Propagation starts 2022-12-31T18:56:20Z (last step: 4246 msec , total: 4246 msec) 
+#=#=#=# Syncrun finished 2022-12-31T18:56:20Z (last step: 6 msec , total: 4253 msec) 
+#=#=#=# Syncrun started 2022-12-31T20:11:37Z
+#=#=#=#=# Propagation starts 2022-12-31T20:11:42Z (last step: 4324 msec , total: 4324 msec) 
+#=#=#=# Syncrun finished 2022-12-31T20:11:42Z (last step: 8 msec , total: 4333 msec) 
+#=#=#=# Syncrun started 2023-01-01T07:13:21Z
+#=#=#=#=# Propagation starts 2023-01-01T07:13:25Z (last step: 4160 msec , total: 4160 msec) 
+#=#=#=# Syncrun finished 2023-01-01T07:13:25Z (last step: 5 msec , total: 4166 msec) 
+#=#=#=# Syncrun started 2023-01-01T14:28:07Z
+#=#=#=#=# Propagation starts 2023-01-01T14:28:12Z (last step: 4318 msec , total: 4318 msec) 
+#=#=#=# Syncrun finished 2023-01-01T14:28:12Z (last step: 7 msec , total: 4326 msec) 
+#=#=#=# Syncrun started 2023-01-01T14:50:10Z
+#=#=#=#=# Propagation starts 2023-01-01T14:50:15Z (last step: 5149 msec , total: 5149 msec) 
+#=#=#=# Syncrun finished 2023-01-01T14:50:15Z (last step: 6 msec , total: 5156 msec) 
+#=#=#=# Syncrun started 2023-01-02T03:36:33Z
+#=#=#=#=# Propagation starts 2023-01-02T03:36:38Z (last step: 4429 msec , total: 4429 msec) 
+#=#=#=# Syncrun finished 2023-01-02T03:36:38Z (last step: 5 msec , total: 4435 msec) 
+#=#=#=# Syncrun started 2023-01-02T05:08:47Z
+#=#=#=#=# Propagation starts 2023-01-02T05:08:51Z (last step: 4254 msec , total: 4254 msec) 
+#=#=#=# Syncrun finished 2023-01-02T05:08:51Z (last step: 7 msec , total: 4261 msec) 
+#=#=#=# Syncrun started 2023-01-02T05:30:53Z
+#=#=#=# Syncrun finished 2023-01-02T05:36:23Z (last step: 46644 msec , total: 46644 msec) 
+#=#=#=# Syncrun started 2023-01-02T05:36:37Z
+#=#=#=#=# Propagation starts 2023-01-02T05:36:41Z (last step: 4350 msec , total: 4350 msec) 
+#=#=#=# Syncrun finished 2023-01-02T05:36:41Z (last step: 7 msec , total: 4357 msec) 
+#=#=#=# Syncrun started 2023-01-02T05:36:42Z
+#=#=#=#=# Propagation starts 2023-01-02T05:36:47Z (last step: 4294 msec , total: 4294 msec) 
+#=#=#=# Syncrun finished 2023-01-02T05:36:47Z (last step: 5 msec , total: 4299 msec) 
+#=#=#=# Syncrun started 2023-01-02T05:54:45Z
+#=#=#=#=# Propagation starts 2023-01-02T05:54:49Z (last step: 4266 msec , total: 4266 msec) 
+#=#=#=# Syncrun finished 2023-01-02T05:54:49Z (last step: 6 msec , total: 4273 msec) 
+#=#=#=# Syncrun started 2023-01-02T06:23:45Z
+#=#=#=#=# Propagation starts 2023-01-02T06:23:49Z (last step: 4314 msec , total: 4314 msec) 
+#=#=#=# Syncrun finished 2023-01-02T06:23:49Z (last step: 7 msec , total: 4321 msec) 
+#=#=#=# Syncrun started 2023-01-02T06:45:32Z
+#=#=#=#=# Propagation starts 2023-01-02T06:45:36Z (last step: 4287 msec , total: 4287 msec) 
+#=#=#=# Syncrun finished 2023-01-02T06:45:36Z (last step: 7 msec , total: 4294 msec) 
+#=#=#=# Syncrun started 2023-01-02T07:13:14Z
+#=#=#=#=# Propagation starts 2023-01-02T07:13:19Z (last step: 4374 msec , total: 4374 msec) 
+#=#=#=# Syncrun finished 2023-01-02T07:13:19Z (last step: 8 msec , total: 4383 msec) 
+#=#=#=# Syncrun started 2023-01-02T07:25:46Z
+#=#=#=#=# Propagation starts 2023-01-02T07:25:51Z (last step: 4290 msec , total: 4290 msec) 
+#=#=#=# Syncrun finished 2023-01-02T07:25:51Z (last step: 6 msec , total: 4296 msec) 
+#=#=#=# Syncrun started 2023-01-02T07:54:31Z
+#=#=#=# Syncrun finished 2023-01-02T08:00:32Z (last step: 78421 msec , total: 78421 msec) 
+#=#=#=# Syncrun started 2023-01-02T08:06:09Z
+#=#=#=# Syncrun finished 2023-01-02T08:12:02Z (last step: 69586 msec , total: 69586 msec) 
+#=#=#=# Syncrun started 2023-01-02T08:12:03Z
+#=#=#=#=# Propagation starts 2023-01-02T08:12:08Z (last step: 4396 msec , total: 4396 msec) 
+#=#=#=# Syncrun finished 2023-01-02T08:12:08Z (last step: 5 msec , total: 4402 msec) 
+#=#=#=# Syncrun started 2023-01-02T08:13:52Z
+#=#=#=#=# Propagation starts 2023-01-02T08:13:56Z (last step: 4404 msec , total: 4404 msec) 
+#=#=#=# Syncrun finished 2023-01-02T08:13:56Z (last step: 7 msec , total: 4412 msec) 
+#=#=#=# Syncrun started 2023-01-02T08:30:05Z
+#=#=#=# Syncrun finished 2023-01-02T08:36:14Z (last step: 86643 msec , total: 86643 msec) 
+#=#=#=# Syncrun started 2023-01-02T08:47:16Z
+#=#=#=#=# Propagation starts 2023-01-02T08:47:20Z (last step: 4351 msec , total: 4351 msec) 
+#=#=#=# Syncrun finished 2023-01-02T08:47:20Z (last step: 6 msec , total: 4358 msec) 
+#=#=#=# Syncrun started 2023-01-02T08:47:21Z
+#=#=#=#=# Propagation starts 2023-01-02T08:47:26Z (last step: 4331 msec , total: 4331 msec) 
+#=#=#=# Syncrun finished 2023-01-02T08:47:26Z (last step: 5 msec , total: 4336 msec) 
+#=#=#=# Syncrun started 2023-01-02T08:54:07Z
+#=#=#=#=# Propagation starts 2023-01-02T08:54:11Z (last step: 4402 msec , total: 4402 msec) 
+#=#=#=# Syncrun finished 2023-01-02T08:54:11Z (last step: 4 msec , total: 4406 msec) 
+#=#=#=# Syncrun started 2023-01-02T09:53:50Z
+#=#=#=#=# Propagation starts 2023-01-02T09:53:54Z (last step: 4510 msec , total: 4510 msec) 
+#=#=#=# Syncrun finished 2023-01-02T09:53:54Z (last step: 6 msec , total: 4517 msec) 
+#=#=#=# Syncrun started 2023-01-02T10:00:39Z
+#=#=#=#=# Propagation starts 2023-01-02T10:00:44Z (last step: 4434 msec , total: 4434 msec) 
+#=#=#=# Syncrun finished 2023-01-02T10:00:44Z (last step: 4 msec , total: 4439 msec) 
+#=#=#=# Syncrun started 2023-01-02T10:25:45Z
+#=#=#=#=# Propagation starts 2023-01-02T10:25:49Z (last step: 4425 msec , total: 4425 msec) 
+#=#=#=# Syncrun finished 2023-01-02T10:25:49Z (last step: 5 msec , total: 4431 msec) 
+#=#=#=# Syncrun started 2023-01-02T10:53:57Z
+#=#=#=#=# Propagation starts 2023-01-02T10:59:32Z (last step: 52278 msec , total: 52278 msec) 
+#=#=#=# Syncrun finished 2023-01-02T10:59:32Z (last step: 7 msec , total: 52285 msec) 
+#=#=#=# Syncrun started 2023-01-02T11:13:24Z
+#=#=#=# Syncrun finished 2023-01-02T11:13:24Z (last step: 11 msec , total: 11 msec) 
+#=#=#=# Syncrun started 2023-01-02T11:22:43Z
+#=#=#=# Syncrun finished 2023-01-02T11:22:43Z (last step: 13 msec , total: 13 msec) 
+#=#=#=# Syncrun started 2023-01-02T11:46:54Z
+#=#=#=#=# Propagation starts 2023-01-02T11:46:59Z (last step: 4700 msec , total: 4700 msec) 
+#=#=#=# Syncrun finished 2023-01-02T11:46:59Z (last step: 6 msec , total: 4707 msec) 
+#=#=#=# Syncrun started 2023-01-02T11:47:25Z
+#=#=#=#=# Propagation starts 2023-01-02T11:47:30Z (last step: 4802 msec , total: 4802 msec) 
+#=#=#=# Syncrun finished 2023-01-02T11:47:30Z (last step: 5 msec , total: 4808 msec) 
+#=#=#=# Syncrun started 2023-01-02T12:19:55Z
+#=#=#=#=# Propagation starts 2023-01-02T12:20:00Z (last step: 4576 msec , total: 4576 msec) 
+#=#=#=# Syncrun finished 2023-01-02T12:20:00Z (last step: 6 msec , total: 4583 msec) 
+#=#=#=# Syncrun started 2023-01-02T13:20:34Z
+#=#=#=# Syncrun finished 2023-01-02T13:20:34Z (last step: 12 msec , total: 12 msec) 
+#=#=#=# Syncrun started 2023-01-02T13:21:07Z
+#=#=#=#=# Propagation starts 2023-01-02T13:21:12Z (last step: 4747 msec , total: 4747 msec) 
+#=#=#=# Syncrun finished 2023-01-02T13:21:12Z (last step: 6 msec , total: 4753 msec) 
+#=#=#=# Syncrun started 2023-01-02T13:21:33Z
+#=#=#=#=# Propagation starts 2023-01-02T13:21:38Z (last step: 4934 msec , total: 4934 msec) 
+#=#=#=# Syncrun finished 2023-01-02T13:21:38Z (last step: 6 msec , total: 4940 msec) 
+#=#=#=# Syncrun started 2023-01-02T18:55:40Z
+#=#=#=#=# Propagation starts 2023-01-02T18:55:45Z (last step: 4570 msec , total: 4570 msec) 
+#=#=#=# Syncrun finished 2023-01-02T18:55:45Z (last step: 5 msec , total: 4575 msec) 
+#=#=#=# Syncrun started 2023-01-03T00:52:28Z
+#=#=#=#=# Propagation starts 2023-01-03T00:52:32Z (last step: 4687 msec , total: 4687 msec) 
+#=#=#=# Syncrun finished 2023-01-03T00:52:32Z (last step: 7 msec , total: 4694 msec) 
+#=#=#=# Syncrun started 2023-01-03T00:52:47Z
+#=#=#=#=# Propagation starts 2023-01-03T00:52:52Z (last step: 4636 msec , total: 4636 msec) 
+#=#=#=# Syncrun finished 2023-01-03T00:52:52Z (last step: 6 msec , total: 4642 msec) 
+#=#=#=# Syncrun started 2023-01-03T02:53:04Z
+#=#=#=#=# Propagation starts 2023-01-03T02:53:09Z (last step: 4871 msec , total: 4871 msec) 
+#=#=#=# Syncrun finished 2023-01-03T02:53:09Z (last step: 6 msec , total: 4878 msec) 
+#=#=#=# Syncrun started 2023-01-03T02:53:18Z
+#=#=#=#=# Propagation starts 2023-01-03T02:53:22Z (last step: 4797 msec , total: 4797 msec) 
+#=#=#=# Syncrun finished 2023-01-03T02:53:22Z (last step: 5 msec , total: 4803 msec) 
+#=#=#=# Syncrun started 2023-01-03T13:17:52Z
+#=#=#=#=# Propagation starts 2023-01-03T13:17:57Z (last step: 4926 msec , total: 4926 msec) 
+#=#=#=# Syncrun finished 2023-01-03T13:17:57Z (last step: 7 msec , total: 4934 msec) 
+#=#=#=# Syncrun started 2023-01-03T13:17:59Z
+#=#=#=#=# Propagation starts 2023-01-03T13:18:05Z (last step: 5244 msec , total: 5244 msec) 
+#=#=#=# Syncrun finished 2023-01-03T13:18:05Z (last step: 7 msec , total: 5252 msec) 
+#=#=#=# Syncrun started 2023-01-03T19:24:12Z
+#=#=#=#=# Propagation starts 2023-01-03T19:24:17Z (last step: 5311 msec , total: 5311 msec) 
+#=#=#=# Syncrun finished 2023-01-03T19:24:17Z (last step: 5 msec , total: 5317 msec) 
+#=#=#=# Syncrun started 2023-01-03T21:24:33Z
+#=#=#=#=# Propagation starts 2023-01-03T21:24:38Z (last step: 5034 msec , total: 5034 msec) 
+#=#=#=# Syncrun finished 2023-01-03T21:24:38Z (last step: 7 msec , total: 5041 msec) 
+#=#=#=# Syncrun started 2023-01-03T21:24:59Z
+#=#=#=#=# Propagation starts 2023-01-03T21:25:05Z (last step: 5762 msec , total: 5762 msec) 
+#=#=#=# Syncrun finished 2023-01-03T21:25:05Z (last step: 6 msec , total: 5768 msec) 
+#=#=#=# Syncrun started 2023-01-03T23:25:16Z
+#=#=#=#=# Propagation starts 2023-01-03T23:25:21Z (last step: 5156 msec , total: 5156 msec) 
+#=#=#=# Syncrun finished 2023-01-03T23:25:21Z (last step: 8 msec , total: 5164 msec) 
+#=#=#=# Syncrun started 2023-01-03T23:25:29Z
+#=#=#=#=# Propagation starts 2023-01-03T23:25:34Z (last step: 5630 msec , total: 5630 msec) 
+#=#=#=# Syncrun finished 2023-01-03T23:25:34Z (last step: 8 msec , total: 5638 msec) 
+#=#=#=# Syncrun started 2023-01-04T01:41:09Z
+#=#=#=#=# Propagation starts 2023-01-04T01:41:15Z (last step: 5459 msec , total: 5459 msec) 
+#=#=#=# Syncrun finished 2023-01-04T01:41:15Z (last step: 8 msec , total: 5468 msec) 
+#=#=#=# Syncrun started 2023-01-04T01:41:16Z
+#=#=#=#=# Propagation starts 2023-01-04T01:41:21Z (last step: 5331 msec , total: 5331 msec) 
+#=#=#=# Syncrun finished 2023-01-04T01:41:21Z (last step: 7 msec , total: 5339 msec) 
+#=#=#=# Syncrun started 2023-01-04T12:06:39Z
+#=#=#=#=# Propagation starts 2023-01-04T12:06:44Z (last step: 5606 msec , total: 5606 msec) 
+#=#=#=# Syncrun finished 2023-01-04T12:06:44Z (last step: 6 msec , total: 5613 msec) 
+#=#=#=# Syncrun started 2023-01-04T12:06:45Z
+#=#=#=#=# Propagation starts 2023-01-04T12:06:51Z (last step: 5555 msec , total: 5555 msec) 
+#=#=#=# Syncrun finished 2023-01-04T12:06:51Z (last step: 7 msec , total: 5562 msec) 
+#=#=#=# Syncrun started 2023-01-04T14:06:54Z
+#=#=#=#=# Propagation starts 2023-01-04T14:06:59Z (last step: 5948 msec , total: 5948 msec) 
+#=#=#=# Syncrun finished 2023-01-04T14:06:59Z (last step: 5 msec , total: 5954 msec) 
+#=#=#=# Syncrun started 2023-01-04T14:07:01Z
+#=#=#=#=# Propagation starts 2023-01-04T14:07:06Z (last step: 5798 msec , total: 5798 msec) 
+#=#=#=# Syncrun finished 2023-01-04T14:07:06Z (last step: 5 msec , total: 5804 msec) 
+#=#=#=# Syncrun started 2023-01-04T18:56:26Z
+#=#=#=#=# Propagation starts 2023-01-04T18:56:32Z (last step: 5749 msec , total: 5749 msec) 
+#=#=#=# Syncrun finished 2023-01-04T18:56:32Z (last step: 6 msec , total: 5755 msec) 
+#=#=#=# Syncrun started 2023-01-04T18:56:33Z
+#=#=#=#=# Propagation starts 2023-01-04T18:56:39Z (last step: 5712 msec , total: 5712 msec) 
+#=#=#=# Syncrun finished 2023-01-04T18:56:39Z (last step: 5 msec , total: 5718 msec) 
+#=#=#=# Syncrun started 2023-01-04T20:56:47Z
+#=#=#=#=# Propagation starts 2023-01-04T20:56:53Z (last step: 5886 msec , total: 5886 msec) 
+#=#=#=# Syncrun finished 2023-01-04T20:56:53Z (last step: 7 msec , total: 5894 msec) 
+#=#=#=# Syncrun started 2023-01-04T20:56:54Z
+#=#=#=#=# Propagation starts 2023-01-04T20:57:00Z (last step: 6005 msec , total: 6005 msec) 
+#=#=#=# Syncrun finished 2023-01-04T20:57:00Z (last step: 5 msec , total: 6010 msec) 
+#=#=#=# Syncrun started 2023-01-04T22:57:10Z
+#=#=#=#=# Propagation starts 2023-01-04T22:57:16Z (last step: 6171 msec , total: 6171 msec) 
+#=#=#=# Syncrun finished 2023-01-04T22:57:16Z (last step: 5 msec , total: 6176 msec) 
+#=#=#=# Syncrun started 2023-01-04T22:57:18Z
+#=#=#=#=# Propagation starts 2023-01-04T22:57:24Z (last step: 6645 msec , total: 6645 msec) 
+#=#=#=# Syncrun finished 2023-01-04T22:57:24Z (last step: 5 msec , total: 6650 msec) 
+#=#=#=# Syncrun started 2023-01-05T00:57:30Z
+#=#=#=#=# Propagation starts 2023-01-05T00:57:32Z (last step: 2338 msec , total: 2338 msec) 
+#=#=#=# Syncrun finished 2023-01-05T00:57:32Z (last step: 6 msec , total: 2344 msec) 
+#=#=#=# Syncrun started 2023-01-05T02:59:22Z
+#=#=#=#=# Propagation starts 2023-01-05T02:59:26Z (last step: 4020 msec , total: 4020 msec) 
+#=#=#=# Syncrun finished 2023-01-05T02:59:26Z (last step: 6 msec , total: 4026 msec) 
+#=#=#=# Syncrun started 2023-01-05T02:59:32Z
+#=#=#=#=# Propagation starts 2023-01-05T02:59:34Z (last step: 2630 msec , total: 2630 msec) 
+#=#=#=# Syncrun finished 2023-01-05T02:59:34Z (last step: 3 msec , total: 2633 msec) 
+#=#=#=# Syncrun started 2023-01-05T14:31:46Z
+#=#=#=#=# Propagation starts 2023-01-05T14:31:49Z (last step: 2782 msec , total: 2782 msec) 
+#=#=#=# Syncrun finished 2023-01-05T14:31:49Z (last step: 5 msec , total: 2788 msec) 
+#=#=#=# Syncrun started 2023-01-05T16:32:00Z
+#=#=#=#=# Propagation starts 2023-01-05T16:32:02Z (last step: 2537 msec , total: 2537 msec) 
+#=#=#=# Syncrun finished 2023-01-05T16:32:02Z (last step: 5 msec , total: 2542 msec) 
+#=#=#=# Syncrun started 2023-01-05T18:32:08Z
+#=#=#=#=# Propagation starts 2023-01-05T18:32:11Z (last step: 3332 msec , total: 3332 msec) 
+#=#=#=# Syncrun finished 2023-01-05T18:32:11Z (last step: 7 msec , total: 3339 msec) 
+#=#=#=# Syncrun started 2023-01-05T21:03:48Z
+#=#=#=#=# Propagation starts 2023-01-05T21:03:51Z (last step: 2653 msec , total: 2653 msec) 
+#=#=#=# Syncrun finished 2023-01-05T21:03:51Z (last step: 3 msec , total: 2657 msec) 
+#=#=#=# Syncrun started 2023-01-05T22:36:35Z
+#=#=#=#=# Propagation starts 2023-01-05T22:36:38Z (last step: 2530 msec , total: 2530 msec) 
+#=#=#=# Syncrun finished 2023-01-05T22:36:38Z (last step: 6 msec , total: 2537 msec) 
+#=#=#=# Syncrun started 2023-01-06T14:21:59Z
+#=#=#=#=# Propagation starts 2023-01-06T14:22:02Z (last step: 3720 msec , total: 3720 msec) 
+#=#=#=# Syncrun finished 2023-01-06T14:22:02Z (last step: 5 msec , total: 3726 msec) 
+#=#=#=# Syncrun started 2023-01-06T18:07:50Z
+#=#=#=#=# Propagation starts 2023-01-06T18:07:52Z (last step: 2341 msec , total: 2341 msec) 
+#=#=#=# Syncrun finished 2023-01-06T18:07:52Z (last step: 6 msec , total: 2347 msec) 
+#=#=#=# Syncrun started 2023-01-06T20:08:05Z
+#=#=#=#=# Propagation starts 2023-01-06T20:08:07Z (last step: 2419 msec , total: 2419 msec) 
+#=#=#=# Syncrun finished 2023-01-06T20:08:07Z (last step: 6 msec , total: 2426 msec) 
+#=#=#=# Syncrun started 2023-01-06T20:08:08Z
+#=#=#=#=# Propagation starts 2023-01-06T20:08:11Z (last step: 2441 msec , total: 2441 msec) 
+#=#=#=# Syncrun finished 2023-01-06T20:08:11Z (last step: 10 msec , total: 2451 msec) 
+#=#=#=# Syncrun started 2023-01-07T09:08:36Z
+#=#=#=#=# Propagation starts 2023-01-07T09:08:39Z (last step: 2515 msec , total: 2515 msec) 
+#=#=#=# Syncrun finished 2023-01-07T09:08:39Z (last step: 8 msec , total: 2524 msec) 
+#=#=#=# Syncrun started 2023-01-07T09:08:40Z
+#=#=#=#=# Propagation starts 2023-01-07T09:08:42Z (last step: 2449 msec , total: 2449 msec) 
+#=#=#=# Syncrun finished 2023-01-07T09:08:42Z (last step: 5 msec , total: 2455 msec) 
+#=#=#=# Syncrun started 2023-01-07T11:08:45Z
+#=#=#=#=# Propagation starts 2023-01-07T11:08:47Z (last step: 2661 msec , total: 2661 msec) 
+#=#=#=# Syncrun finished 2023-01-07T11:08:47Z (last step: 4 msec , total: 2665 msec) 
+#=#=#=# Syncrun started 2023-01-07T17:49:19Z
+#=#=#=#=# Propagation starts 2023-01-07T17:49:22Z (last step: 2945 msec , total: 2945 msec) 
+#=#=#=# Syncrun finished 2023-01-07T17:49:22Z (last step: 5 msec , total: 2950 msec) 
+#=#=#=# Syncrun started 2023-01-07T20:03:54Z
+#=#=#=#=# Propagation starts 2023-01-07T20:03:57Z (last step: 2939 msec , total: 2939 msec) 
+#=#=#=# Syncrun finished 2023-01-07T20:03:57Z (last step: 7 msec , total: 2946 msec) 
+#=#=#=# Syncrun started 2023-01-07T20:03:58Z
+#=#=#=#=# Propagation starts 2023-01-07T20:04:01Z (last step: 2824 msec , total: 2824 msec) 
+#=#=#=# Syncrun finished 2023-01-07T20:04:01Z (last step: 6 msec , total: 2831 msec) 
+#=#=#=# Syncrun started 2023-01-08T17:18:36Z
+#=#=#=#=# Propagation starts 2023-01-08T17:18:39Z (last step: 3480 msec , total: 3480 msec) 
+#=#=#=# Syncrun finished 2023-01-08T17:18:39Z (last step: 5 msec , total: 3485 msec) 
+#=#=#=# Syncrun started 2023-01-08T19:35:24Z
+#=#=#=#=# Propagation starts 2023-01-08T19:35:27Z (last step: 3008 msec , total: 3008 msec) 
+#=#=#=# Syncrun finished 2023-01-08T19:35:27Z (last step: 5 msec , total: 3013 msec) 
+#=#=#=# Syncrun started 2023-01-08T21:35:34Z
+#=#=#=#=# Propagation starts 2023-01-08T21:35:38Z (last step: 3077 msec , total: 3077 msec) 
+#=#=#=# Syncrun finished 2023-01-08T21:35:38Z (last step: 4 msec , total: 3082 msec) 
+#=#=#=# Syncrun started 2023-01-09T08:48:58Z
+#=#=#=#=# Propagation starts 2023-01-09T08:49:08Z (last step: 9511 msec , total: 9511 msec) 
+#=#=#=# Syncrun finished 2023-01-09T08:49:08Z (last step: 10 msec , total: 9521 msec) 
+#=#=#=# Syncrun started 2023-01-09T10:26:23Z
+#=#=#=#=# Propagation starts 2023-01-09T10:26:26Z (last step: 3193 msec , total: 3193 msec) 
+#=#=#=# Syncrun finished 2023-01-09T10:26:26Z (last step: 6 msec , total: 3200 msec) 
+#=#=#=# Syncrun started 2023-01-09T12:26:41Z
+#=#=#=#=# Propagation starts 2023-01-09T12:26:43Z (last step: 2854 msec , total: 2854 msec) 
+#=#=#=# Syncrun finished 2023-01-09T12:26:43Z (last step: 10 msec , total: 2865 msec) 
+#=#=#=# Syncrun started 2023-01-09T14:27:21Z
+#=#=#=#=# Propagation starts 2023-01-09T14:27:25Z (last step: 3307 msec , total: 3307 msec) 
+#=#=#=# Syncrun finished 2023-01-09T14:27:25Z (last step: 6 msec , total: 3313 msec) 
+#=#=#=# Syncrun started 2023-01-09T16:27:26Z
+#=#=#=#=# Propagation starts 2023-01-09T16:27:29Z (last step: 2944 msec , total: 2944 msec) 
+#=#=#=# Syncrun finished 2023-01-09T16:27:29Z (last step: 7 msec , total: 2951 msec) 
+#=#=#=# Syncrun started 2023-01-09T18:36:03Z
+#=#=#=#=# Propagation starts 2023-01-09T18:36:06Z (last step: 2930 msec , total: 2930 msec) 
+#=#=#=# Syncrun finished 2023-01-09T18:36:06Z (last step: 7 msec , total: 2938 msec) 
+#=#=#=# Syncrun started 2023-01-09T20:56:16Z
+#=#=#=#=# Propagation starts 2023-01-09T20:56:19Z (last step: 3083 msec , total: 3083 msec) 
+#=#=#=# Syncrun finished 2023-01-09T20:56:19Z (last step: 5 msec , total: 3088 msec) 
+#=#=#=# Syncrun started 2023-01-10T09:18:28Z
+#=#=#=#=# Propagation starts 2023-01-10T09:18:31Z (last step: 3739 msec , total: 3739 msec) 
+#=#=#=# Syncrun finished 2023-01-10T09:18:31Z (last step: 5 msec , total: 3745 msec) 
+#=#=#=# Syncrun started 2023-01-10T09:18:47Z
+#=#=#=#=# Propagation starts 2023-01-10T09:18:50Z (last step: 3317 msec , total: 3317 msec) 
+#=#=#=# Syncrun finished 2023-01-10T09:18:50Z (last step: 4 msec , total: 3321 msec) 
+#=#=#=# Syncrun started 2023-01-10T11:24:20Z
+#=#=#=#=# Propagation starts 2023-01-10T11:24:24Z (last step: 3480 msec , total: 3480 msec) 
+#=#=#=# Syncrun finished 2023-01-10T11:24:24Z (last step: 7 msec , total: 3487 msec) 
+#=#=#=# Syncrun started 2023-01-10T12:08:04Z
+#=#=#=#=# Propagation starts 2023-01-10T12:08:07Z (last step: 3312 msec , total: 3312 msec) 
+#=#=#=# Syncrun finished 2023-01-10T12:08:07Z (last step: 6 msec , total: 3319 msec) 
+#=#=#=# Syncrun started 2023-01-10T12:28:46Z
+#=#=#=#=# Propagation starts 2023-01-10T12:28:49Z (last step: 3473 msec , total: 3473 msec) 
+#=#=#=# Syncrun finished 2023-01-10T12:28:49Z (last step: 4 msec , total: 3478 msec) 
+#=#=#=# Syncrun started 2023-01-10T15:11:38Z
+#=#=#=#=# Propagation starts 2023-01-10T15:12:13Z (last step: 35266 msec , total: 35266 msec) 
+#=#=#=# Syncrun finished 2023-01-10T15:12:13Z (last step: 5 msec , total: 35271 msec) 
+#=#=#=# Syncrun started 2023-01-10T16:58:14Z
+#=#=#=#=# Propagation starts 2023-01-10T16:58:17Z (last step: 3270 msec , total: 3270 msec) 
+#=#=#=# Syncrun finished 2023-01-10T16:58:17Z (last step: 7 msec , total: 3277 msec) 
+#=#=#=# Syncrun started 2023-01-10T22:24:25Z
+#=#=#=# Syncrun finished 2023-01-10T22:24:25Z (last step: 16 msec , total: 16 msec) 
+#=#=#=# Syncrun started 2023-01-10T22:24:43Z
+#=#=#=#=# Propagation starts 2023-01-10T22:24:46Z (last step: 3245 msec , total: 3245 msec) 
+#=#=#=# Syncrun finished 2023-01-10T22:24:46Z (last step: 4 msec , total: 3249 msec) 
+#=#=#=# Syncrun started 2023-01-11T10:42:57Z
+#=#=#=#=# Propagation starts 2023-01-11T10:43:01Z (last step: 3798 msec , total: 3798 msec) 
+#=#=#=# Syncrun finished 2023-01-11T10:43:01Z (last step: 7 msec , total: 3806 msec) 
+#=#=#=# Syncrun started 2023-01-11T12:43:22Z
+#=#=#=#=# Propagation starts 2023-01-11T12:43:26Z (last step: 3601 msec , total: 3601 msec) 
+#=#=#=# Syncrun finished 2023-01-11T12:43:26Z (last step: 5 msec , total: 3607 msec) 
+#=#=#=# Syncrun started 2023-01-11T12:43:36Z
+#=#=#=#=# Propagation starts 2023-01-11T12:43:40Z (last step: 3943 msec , total: 3943 msec) 
+#=#=#=# Syncrun finished 2023-01-11T12:43:40Z (last step: 4 msec , total: 3948 msec) 
+#=#=#=# Syncrun started 2023-01-11T14:45:23Z
+#=#=#=#=# Propagation starts 2023-01-11T14:45:27Z (last step: 3832 msec , total: 3832 msec) 
+#=#=#=# Syncrun finished 2023-01-11T14:45:27Z (last step: 6 msec , total: 3839 msec) 
+#=#=#=# Syncrun started 2023-01-11T15:06:08Z
+#=#=#=#=# Propagation starts 2023-01-11T15:06:12Z (last step: 4306 msec , total: 4306 msec) 
+#=#=#=# Syncrun finished 2023-01-11T15:06:12Z (last step: 8 msec , total: 4315 msec) 
+#=#=#=# Syncrun started 2023-01-11T15:24:06Z
+#=#=#=#=# Propagation starts 2023-01-11T15:24:09Z (last step: 3701 msec , total: 3701 msec) 
+#=#=#=# Syncrun finished 2023-01-11T15:24:09Z (last step: 5 msec , total: 3706 msec) 
+#=#=#=# Syncrun started 2023-01-11T17:29:01Z
+#=#=#=#=# Propagation starts 2023-01-11T17:29:05Z (last step: 3599 msec , total: 3599 msec) 
+#=#=#=# Syncrun finished 2023-01-11T17:29:05Z (last step: 7 msec , total: 3607 msec) 
+#=#=#=# Syncrun started 2023-01-11T17:29:15Z
+#=#=#=#=# Propagation starts 2023-01-11T17:29:19Z (last step: 3594 msec , total: 3594 msec) 
+#=#=#=# Syncrun finished 2023-01-11T17:29:19Z (last step: 7 msec , total: 3602 msec) 
+#=#=#=# Syncrun started 2023-01-11T17:38:29Z
+#=#=#=#=# Propagation starts 2023-01-11T17:38:33Z (last step: 3572 msec , total: 3572 msec) 
+#=#=#=# Syncrun finished 2023-01-11T17:38:33Z (last step: 5 msec , total: 3578 msec) 
+#=#=#=# Syncrun started 2023-01-11T20:37:57Z
+#=#=#=#=# Propagation starts 2023-01-11T20:38:00Z (last step: 3311 msec , total: 3311 msec) 
+#=#=#=# Syncrun finished 2023-01-11T20:38:00Z (last step: 6 msec , total: 3318 msec) 
+#=#=#=# Syncrun started 2023-01-12T08:51:49Z
+#=#=#=#=# Propagation starts 2023-01-12T08:51:52Z (last step: 3436 msec , total: 3436 msec) 
+#=#=#=# Syncrun finished 2023-01-12T08:51:52Z (last step: 5 msec , total: 3442 msec) 
+#=#=#=# Syncrun started 2023-01-12T08:52:03Z
+#=#=#=#=# Propagation starts 2023-01-12T08:52:06Z (last step: 3386 msec , total: 3386 msec) 
+#=#=#=# Syncrun finished 2023-01-12T08:52:06Z (last step: 6 msec , total: 3392 msec) 
+#=#=#=# Syncrun started 2023-01-12T10:08:41Z
+#=#=#=#=# Propagation starts 2023-01-12T10:08:45Z (last step: 4241 msec , total: 4241 msec) 
+#=#=#=# Syncrun finished 2023-01-12T10:08:45Z (last step: 6 msec , total: 4247 msec) 
+#=#=#=# Syncrun started 2023-01-12T14:56:43Z
+#=#=#=#=# Propagation starts 2023-01-12T14:56:47Z (last step: 3756 msec , total: 3756 msec) 
+#=#=#=# Syncrun finished 2023-01-12T14:56:47Z (last step: 4 msec , total: 3761 msec) 
+#=#=#=# Syncrun started 2023-01-12T16:57:09Z
+#=#=#=#=# Propagation starts 2023-01-12T16:57:13Z (last step: 3906 msec , total: 3906 msec) 
+#=#=#=# Syncrun finished 2023-01-12T16:57:13Z (last step: 4 msec , total: 3911 msec) 
+#=#=#=# Syncrun started 2023-01-12T18:59:46Z
+#=#=#=#=# Propagation starts 2023-01-12T18:59:50Z (last step: 4164 msec , total: 4164 msec) 
+#=#=#=# Syncrun finished 2023-01-12T18:59:50Z (last step: 4 msec , total: 4169 msec) 
+#=#=#=# Syncrun started 2023-01-13T10:24:44Z
+#=#=#=#=# Propagation starts 2023-01-13T10:24:48Z (last step: 4072 msec , total: 4072 msec) 
+#=#=#=# Syncrun finished 2023-01-13T10:24:48Z (last step: 5 msec , total: 4078 msec) 
+#=#=#=# Syncrun started 2023-01-13T10:25:06Z
+#=#=#=#=# Propagation starts 2023-01-13T10:25:10Z (last step: 4040 msec , total: 4040 msec) 
+#=#=#=# Syncrun finished 2023-01-13T10:25:10Z (last step: 5 msec , total: 4045 msec) 
+#=#=#=# Syncrun started 2023-01-13T16:00:45Z
+#=#=#=#=# Propagation starts 2023-01-13T16:00:49Z (last step: 4003 msec , total: 4003 msec) 
+#=#=#=# Syncrun finished 2023-01-13T16:00:49Z (last step: 6 msec , total: 4010 msec) 
+#=#=#=# Syncrun started 2023-01-13T18:01:04Z
+#=#=#=#=# Propagation starts 2023-01-13T18:01:08Z (last step: 3833 msec , total: 3833 msec) 
+#=#=#=# Syncrun finished 2023-01-13T18:01:08Z (last step: 4 msec , total: 3838 msec) 
+#=#=#=# Syncrun started 2023-01-13T22:16:54Z
+#=#=#=#=# Propagation starts 2023-01-13T22:16:58Z (last step: 3903 msec , total: 3903 msec) 
+#=#=#=# Syncrun finished 2023-01-13T22:16:58Z (last step: 5 msec , total: 3908 msec) 
+#=#=#=# Syncrun started 2023-01-14T11:43:41Z
+#=#=#=#=# Propagation starts 2023-01-14T11:43:45Z (last step: 3790 msec , total: 3790 msec) 
+#=#=#=# Syncrun finished 2023-01-14T11:43:45Z (last step: 9 msec , total: 3800 msec) 
+#=#=#=# Syncrun started 2023-01-14T11:43:51Z
+#=#=#=#=# Propagation starts 2023-01-14T11:43:55Z (last step: 3787 msec , total: 3787 msec) 
+#=#=#=# Syncrun finished 2023-01-14T11:43:55Z (last step: 6 msec , total: 3794 msec) 
+#=#=#=# Syncrun started 2023-01-14T17:57:01Z
+#=#=#=#=# Propagation starts 2023-01-14T17:57:05Z (last step: 3912 msec , total: 3912 msec) 
+#=#=#=# Syncrun finished 2023-01-14T17:57:05Z (last step: 7 msec , total: 3920 msec) 
+#=#=#=# Syncrun started 2023-01-14T17:57:13Z
+#=#=#=#=# Propagation starts 2023-01-14T17:57:17Z (last step: 3921 msec , total: 3921 msec) 
+#=#=#=# Syncrun finished 2023-01-14T17:57:17Z (last step: 4 msec , total: 3926 msec) 
+#=#=#=# Syncrun started 2023-01-14T19:57:19Z
+#=#=#=#=# Propagation starts 2023-01-14T19:57:23Z (last step: 3992 msec , total: 3992 msec) 
+#=#=#=# Syncrun finished 2023-01-14T19:57:23Z (last step: 7 msec , total: 3999 msec) 
+#=#=#=# Syncrun started 2023-01-14T19:57:25Z
+#=#=#=#=# Propagation starts 2023-01-14T19:57:29Z (last step: 4137 msec , total: 4137 msec) 
+#=#=#=# Syncrun finished 2023-01-14T19:57:29Z (last step: 7 msec , total: 4144 msec) 
+#=#=#=# Syncrun started 2023-01-14T22:20:48Z
+#=#=#=#=# Propagation starts 2023-01-14T22:20:52Z (last step: 3969 msec , total: 3969 msec) 
+#=#=#=# Syncrun finished 2023-01-14T22:20:52Z (last step: 8 msec , total: 3978 msec) 
+#=#=#=# Syncrun started 2023-01-14T22:20:54Z
+#=#=#=#=# Propagation starts 2023-01-14T22:20:58Z (last step: 4011 msec , total: 4011 msec) 
+#=#=#=# Syncrun finished 2023-01-14T22:20:58Z (last step: 6 msec , total: 4017 msec) 
+#=#=#=# Syncrun started 2023-01-15T09:17:15Z
+#=#=#=#=# Propagation starts 2023-01-15T09:17:19Z (last step: 4370 msec , total: 4370 msec) 
+#=#=#=# Syncrun finished 2023-01-15T09:17:19Z (last step: 6 msec , total: 4376 msec) 
+#=#=#=# Syncrun started 2023-01-15T12:27:41Z
+#=#=#=#=# Propagation starts 2023-01-15T12:27:45Z (last step: 4146 msec , total: 4146 msec) 
+#=#=#=# Syncrun finished 2023-01-15T12:27:45Z (last step: 5 msec , total: 4151 msec) 
+#=#=#=# Syncrun started 2023-01-15T16:12:44Z
+#=#=#=#=# Propagation starts 2023-01-15T16:12:51Z (last step: 7374 msec , total: 7374 msec) 
+#=#=#=# Syncrun finished 2023-01-15T16:12:51Z (last step: 6 msec , total: 7380 msec) 
+#=#=#=# Syncrun started 2023-01-15T22:07:07Z
+#=#=#=#=# Propagation starts 2023-01-15T22:07:11Z (last step: 4237 msec , total: 4237 msec) 
+#=#=#=# Syncrun finished 2023-01-15T22:07:11Z (last step: 4 msec , total: 4242 msec) 
+#=#=#=# Syncrun started 2023-01-16T07:58:21Z
+#=#=#=#=# Propagation starts 2023-01-16T07:58:25Z (last step: 4290 msec , total: 4290 msec) 
+#=#=#=# Syncrun finished 2023-01-16T07:58:25Z (last step: 5 msec , total: 4295 msec) 
+#=#=#=# Syncrun started 2023-01-16T11:02:50Z
+#=#=#=#=# Propagation starts 2023-01-16T11:02:54Z (last step: 4258 msec , total: 4258 msec) 
+#=#=#=# Syncrun finished 2023-01-16T11:02:54Z (last step: 7 msec , total: 4265 msec) 
+#=#=#=# Syncrun started 2023-01-16T16:22:41Z
+#=#=#=#=# Propagation starts 2023-01-16T16:22:45Z (last step: 4517 msec , total: 4517 msec) 
+#=#=#=# Syncrun finished 2023-01-16T16:22:45Z (last step: 4 msec , total: 4521 msec) 
+#=#=#=# Syncrun started 2023-01-16T18:23:04Z
+#=#=#=#=# Propagation starts 2023-01-16T18:23:08Z (last step: 4109 msec , total: 4109 msec) 
+#=#=#=# Syncrun finished 2023-01-16T18:23:08Z (last step: 8 msec , total: 4117 msec) 
+#=#=#=# Syncrun started 2023-01-16T18:23:20Z
+#=#=#=#=# Propagation starts 2023-01-16T18:23:24Z (last step: 4088 msec , total: 4088 msec) 
+#=#=#=# Syncrun finished 2023-01-16T18:23:24Z (last step: 7 msec , total: 4096 msec) 
+#=#=#=# Syncrun started 2023-01-16T20:53:58Z
+#=#=#=#=# Propagation starts 2023-01-16T20:54:02Z (last step: 4133 msec , total: 4133 msec) 
+#=#=#=# Syncrun finished 2023-01-16T20:54:02Z (last step: 7 msec , total: 4141 msec) 
+#=#=#=# Syncrun started 2023-01-17T00:54:53Z
+#=#=#=# Syncrun finished 2023-01-17T00:54:53Z (last step: 12 msec , total: 12 msec) 
+#=#=#=# Syncrun started 2023-01-17T01:45:24Z
+#=#=#=# Syncrun finished 2023-01-17T01:45:24Z (last step: 7 msec , total: 7 msec) 
+#=#=#=# Syncrun started 2023-01-17T02:52:51Z
+#=#=#=#=# Propagation starts 2023-01-17T02:52:56Z (last step: 4411 msec , total: 4411 msec) 
+#=#=#=# Syncrun finished 2023-01-17T02:52:56Z (last step: 8 msec , total: 4420 msec) 
+#=#=#=# Syncrun started 2023-01-17T02:53:05Z
+#=#=#=#=# Propagation starts 2023-01-17T02:53:15Z (last step: 9452 msec , total: 9452 msec) 
+#=#=#=# Syncrun finished 2023-01-17T02:53:15Z (last step: 9 msec , total: 9461 msec) 
+#=#=#=# Syncrun started 2023-01-17T08:34:22Z
+#=#=#=#=# Propagation starts 2023-01-17T08:34:26Z (last step: 4194 msec , total: 4194 msec) 
+#=#=#=# Syncrun finished 2023-01-17T08:34:26Z (last step: 7 msec , total: 4202 msec) 
+#=#=#=# Syncrun started 2023-01-17T11:19:34Z
+#=#=#=#=# Propagation starts 2023-01-17T11:19:39Z (last step: 4519 msec , total: 4519 msec) 
+#=#=#=# Syncrun finished 2023-01-17T11:19:39Z (last step: 4 msec , total: 4523 msec) 
+#=#=#=# Syncrun started 2023-01-17T12:20:20Z
+#=#=#=#=# Propagation starts 2023-01-17T12:20:24Z (last step: 4430 msec , total: 4430 msec) 
+#=#=#=# Syncrun finished 2023-01-17T12:20:24Z (last step: 5 msec , total: 4436 msec) 
+#=#=#=# Syncrun started 2023-01-17T12:56:11Z
+#=#=#=# Syncrun finished 2023-01-17T12:56:11Z (last step: 12 msec , total: 12 msec) 
+#=#=#=# Syncrun started 2023-01-17T13:05:22Z
+#=#=#=# Syncrun finished 2023-01-17T13:05:22Z (last step: 12 msec , total: 12 msec) 
+#=#=#=# Syncrun started 2023-01-17T13:11:05Z
+#=#=#=#=# Propagation starts 2023-01-17T13:11:11Z (last step: 5846 msec , total: 5846 msec) 
+#=#=#=# Syncrun finished 2023-01-17T13:11:11Z (last step: 5 msec , total: 5851 msec) 
+#=#=#=# Syncrun started 2023-01-17T13:11:19Z
+#=#=#=#=# Propagation starts 2023-01-17T13:11:25Z (last step: 5892 msec , total: 5892 msec) 
+#=#=#=# Syncrun finished 2023-01-17T13:11:25Z (last step: 5 msec , total: 5898 msec) 
+#=#=#=# Syncrun started 2023-01-17T20:18:34Z
+#=#=#=#=# Propagation starts 2023-01-17T20:18:39Z (last step: 4461 msec , total: 4461 msec) 
+#=#=#=# Syncrun finished 2023-01-17T20:18:39Z (last step: 5 msec , total: 4466 msec) 
+#=#=#=# Syncrun started 2023-01-17T21:02:59Z
+#=#=#=#=# Propagation starts 2023-01-17T21:03:03Z (last step: 4205 msec , total: 4205 msec) 
+#=#=#=# Syncrun finished 2023-01-17T21:03:03Z (last step: 7 msec , total: 4212 msec) 
+#=#=#=# Syncrun started 2023-01-17T23:03:27Z
+#=#=#=#=# Propagation starts 2023-01-17T23:03:31Z (last step: 4292 msec , total: 4292 msec) 
+#=#=#=# Syncrun finished 2023-01-17T23:03:31Z (last step: 5 msec , total: 4297 msec) 
+#=#=#=# Syncrun started 2023-01-18T02:54:30Z
+#=#=#=# Syncrun finished 2023-01-18T02:54:30Z (last step: 9 msec , total: 9 msec) 
+#=#=#=# Syncrun started 2023-01-18T03:27:34Z
+#=#=#=# Syncrun finished 2023-01-18T03:27:34Z (last step: 8 msec , total: 8 msec) 
+#=#=#=# Syncrun started 2023-01-18T08:08:29Z
+#=#=#=# Syncrun finished 2023-01-18T08:08:29Z (last step: 13 msec , total: 13 msec) 
+#=#=#=# Syncrun started 2023-01-18T13:40:07Z
+#=#=#=#=# Propagation starts 2023-01-18T13:40:11Z (last step: 4887 msec , total: 4887 msec) 
+#=#=#=# Syncrun finished 2023-01-18T13:40:11Z (last step: 6 msec , total: 4894 msec) 
+#=#=#=# Syncrun started 2023-01-18T17:00:59Z
+#=#=#=#=# Propagation starts 2023-01-18T17:01:04Z (last step: 4615 msec , total: 4615 msec) 
+#=#=#=# Syncrun finished 2023-01-18T17:01:04Z (last step: 4 msec , total: 4620 msec) 
+#=#=#=# Syncrun started 2023-01-18T20:54:34Z
+#=#=#=#=# Propagation starts 2023-01-18T20:54:38Z (last step: 4447 msec , total: 4447 msec) 
+#=#=#=# Syncrun finished 2023-01-18T20:54:38Z (last step: 5 msec , total: 4452 msec) 
+#=#=#=# Syncrun started 2023-01-18T22:00:26Z
+#=#=#=#=# Propagation starts 2023-01-18T22:00:30Z (last step: 4539 msec , total: 4539 msec) 
+#=#=#=# Syncrun finished 2023-01-18T22:00:30Z (last step: 6 msec , total: 4546 msec) 
+#=#=#=# Syncrun started 2023-01-19T04:00:12Z
+#=#=#=# Syncrun finished 2023-01-19T04:00:12Z (last step: 12 msec , total: 12 msec) 
+#=#=#=# Syncrun started 2023-01-19T04:30:36Z
+#=#=#=# Syncrun finished 2023-01-19T04:30:37Z (last step: 937 msec , total: 937 msec) 
+#=#=#=# Syncrun started 2023-01-19T05:36:46Z
+#=#=#=# Syncrun finished 2023-01-19T05:36:46Z (last step: 9 msec , total: 9 msec) 
+#=#=#=# Syncrun started 2023-01-19T07:31:29Z
+#=#=#=# Syncrun finished 2023-01-19T07:31:29Z (last step: 11 msec , total: 11 msec) 
+#=#=#=# Syncrun started 2023-01-19T08:56:19Z
+#=#=#=#=# Propagation starts 2023-01-19T08:56:24Z (last step: 4919 msec , total: 4919 msec) 
+#=#=#=# Syncrun finished 2023-01-19T08:56:24Z (last step: 4 msec , total: 4924 msec) 
+#=#=#=# Syncrun started 2023-01-19T10:56:56Z
+#=#=#=#=# Propagation starts 2023-01-19T10:57:01Z (last step: 4896 msec , total: 4896 msec) 
+#=#=#=# Syncrun finished 2023-01-19T10:57:01Z (last step: 9 msec , total: 4905 msec) 
+#=#=#=# Syncrun started 2023-01-19T10:57:15Z
+#=#=#=#=# Propagation starts 2023-01-19T10:57:23Z (last step: 7687 msec , total: 7687 msec) 
+#=#=#=# Syncrun finished 2023-01-19T10:57:23Z (last step: 8 msec , total: 7695 msec) 
+#=#=#=# Syncrun started 2023-01-19T12:32:49Z
+#=#=#=#=# Propagation starts 2023-01-19T12:32:55Z (last step: 6025 msec , total: 6025 msec) 
+#=#=#=# Syncrun finished 2023-01-19T12:32:55Z (last step: 5 msec , total: 6030 msec) 
+#=#=#=# Syncrun started 2023-01-19T13:20:05Z
+#=#=#=#=# Propagation starts 2023-01-19T13:20:11Z (last step: 6530 msec , total: 6530 msec) 
+#=#=#=# Syncrun finished 2023-01-19T13:20:11Z (last step: 7 msec , total: 6537 msec) 
+#=#=#=# Syncrun started 2023-01-19T14:04:46Z
+#=#=#=# Syncrun finished 2023-01-19T14:04:46Z (last step: 12 msec , total: 12 msec) 
+#=#=#=# Syncrun started 2023-01-19T14:05:13Z
+#=#=#=#=# Propagation starts 2023-01-19T14:05:19Z (last step: 6486 msec , total: 6486 msec) 
+#=#=#=# Syncrun finished 2023-01-19T14:05:19Z (last step: 7 msec , total: 6493 msec) 
+#=#=#=# Syncrun started 2023-01-19T14:23:25Z
+#=#=#=# Syncrun finished 2023-01-19T14:23:25Z (last step: 10 msec , total: 10 msec) 
+#=#=#=# Syncrun started 2023-01-19T14:28:14Z
+#=#=#=# Syncrun finished 2023-01-19T14:28:14Z (last step: 383 msec , total: 383 msec) 
+#=#=#=# Syncrun started 2023-01-19T14:30:18Z
+#=#=#=#=# Propagation starts 2023-01-19T14:30:23Z (last step: 5124 msec , total: 5124 msec) 
+#=#=#=# Syncrun finished 2023-01-19T14:30:23Z (last step: 7 msec , total: 5132 msec) 
+#=#=#=# Syncrun started 2023-01-19T14:30:30Z
+#=#=#=#=# Propagation starts 2023-01-19T14:30:36Z (last step: 6219 msec , total: 6219 msec) 
+#=#=#=# Syncrun finished 2023-01-19T14:30:36Z (last step: 5 msec , total: 6224 msec) 
+#=#=#=# Syncrun started 2023-01-19T16:30:47Z
+#=#=#=#=# Propagation starts 2023-01-19T16:30:52Z (last step: 4981 msec , total: 4981 msec) 
+#=#=#=# Syncrun finished 2023-01-19T16:30:52Z (last step: 6 msec , total: 4987 msec) 
+#=#=#=# Syncrun started 2023-01-19T17:18:46Z
+#=#=#=#=# Propagation starts 2023-01-19T17:18:51Z (last step: 5180 msec , total: 5180 msec) 
+#=#=#=# Syncrun finished 2023-01-19T17:18:51Z (last step: 5 msec , total: 5185 msec) 
+#=#=#=# Syncrun started 2023-01-19T22:38:47Z
+#=#=#=#=# Propagation starts 2023-01-19T22:38:51Z (last step: 4719 msec , total: 4719 msec) 
+#=#=#=# Syncrun finished 2023-01-19T22:38:51Z (last step: 7 msec , total: 4726 msec) 
+#=#=#=# Syncrun started 2023-01-20T03:25:04Z
+#=#=#=# Syncrun finished 2023-01-20T03:25:04Z (last step: 11 msec , total: 11 msec) 
+#=#=#=# Syncrun started 2023-01-20T03:57:35Z
+#=#=#=# Syncrun finished 2023-01-20T03:57:35Z (last step: 10 msec , total: 10 msec) 
+#=#=#=# Syncrun started 2023-01-20T05:37:03Z
+#=#=#=# Syncrun finished 2023-01-20T05:37:03Z (last step: 12 msec , total: 12 msec) 
+#=#=#=# Syncrun started 2023-01-20T08:02:41Z
+#=#=#=# Syncrun finished 2023-01-20T08:02:41Z (last step: 11 msec , total: 11 msec) 
+#=#=#=# Syncrun started 2023-01-20T09:55:29Z
+#=#=#=#=# Propagation starts 2023-01-20T09:55:35Z (last step: 5964 msec , total: 5964 msec) 
+#=#=#=# Syncrun finished 2023-01-20T09:55:35Z (last step: 5 msec , total: 5970 msec) 
+#=#=#=# Syncrun started 2023-01-20T14:23:49Z
+#=#=#=#=# Propagation starts 2023-01-20T14:23:56Z (last step: 6215 msec , total: 6215 msec) 
+#=#=#=# Syncrun finished 2023-01-20T14:23:56Z (last step: 7 msec , total: 6222 msec) 
+#=#=#=# Syncrun started 2023-01-20T14:24:49Z
+#=#=#=#=# Propagation starts 2023-01-20T14:24:55Z (last step: 6158 msec , total: 6158 msec) 
+#=#=#=# Syncrun finished 2023-01-20T14:24:55Z (last step: 6 msec , total: 6165 msec) 
+#=#=#=# Syncrun started 2023-01-20T16:29:21Z
+#=#=#=#=# Propagation starts 2023-01-20T16:29:26Z (last step: 4878 msec , total: 4878 msec) 
+#=#=#=# Syncrun finished 2023-01-20T16:29:26Z (last step: 5 msec , total: 4884 msec) 
+#=#=#=# Syncrun started 2023-01-20T19:36:35Z
+#=#=#=#=# Propagation starts 2023-01-20T19:36:40Z (last step: 4847 msec , total: 4847 msec) 
+#=#=#=# Syncrun finished 2023-01-20T19:36:40Z (last step: 9 msec , total: 4857 msec) 
+#=#=#=# Syncrun started 2023-01-20T19:37:00Z
+#=#=#=#=# Propagation starts 2023-01-20T19:37:05Z (last step: 4907 msec , total: 4907 msec) 
+#=#=#=# Syncrun finished 2023-01-20T19:37:05Z (last step: 5 msec , total: 4913 msec) 
+#=#=#=# Syncrun started 2023-01-20T21:37:06Z
+#=#=#=#=# Propagation starts 2023-01-20T21:37:11Z (last step: 4915 msec , total: 4915 msec) 
+#=#=#=# Syncrun finished 2023-01-20T21:37:11Z (last step: 6 msec , total: 4922 msec) 
+#=#=#=# Syncrun started 2023-01-20T21:37:12Z
+#=#=#=#=# Propagation starts 2023-01-20T21:37:17Z (last step: 4947 msec , total: 4947 msec) 
+#=#=#=# Syncrun finished 2023-01-20T21:37:17Z (last step: 5 msec , total: 4953 msec) 
+#=#=#=# Syncrun started 2023-01-21T09:28:59Z
+#=#=#=#=# Propagation starts 2023-01-21T09:29:04Z (last step: 4972 msec , total: 4972 msec) 
+#=#=#=# Syncrun finished 2023-01-21T09:29:04Z (last step: 9 msec , total: 4981 msec) 
+#=#=#=# Syncrun started 2023-01-21T09:29:06Z
+#=#=#=#=# Propagation starts 2023-01-21T09:29:10Z (last step: 4859 msec , total: 4859 msec) 
+#=#=#=# Syncrun finished 2023-01-21T09:29:10Z (last step: 5 msec , total: 4865 msec) 
+#=#=#=# Syncrun started 2023-01-21T12:01:22Z
+#=#=#=#=# Propagation starts 2023-01-21T12:01:27Z (last step: 4978 msec , total: 4978 msec) 
+#=#=#=# Syncrun finished 2023-01-21T12:01:27Z (last step: 7 msec , total: 4986 msec) 
+#=#=#=# Syncrun started 2023-01-21T12:01:28Z
+#=#=#=#=# Propagation starts 2023-01-21T12:01:33Z (last step: 5007 msec , total: 5007 msec) 
+#=#=#=# Syncrun finished 2023-01-21T12:01:33Z (last step: 4 msec , total: 5012 msec) 
+#=#=#=# Syncrun started 2023-01-21T14:01:37Z
+#=#=#=#=# Propagation starts 2023-01-21T14:01:42Z (last step: 5273 msec , total: 5273 msec) 
+#=#=#=# Syncrun finished 2023-01-21T14:01:42Z (last step: 6 msec , total: 5280 msec) 
+#=#=#=# Syncrun started 2023-01-21T14:01:44Z
+#=#=#=#=# Propagation starts 2023-01-21T14:01:49Z (last step: 5028 msec , total: 5028 msec) 
+#=#=#=# Syncrun finished 2023-01-21T14:01:49Z (last step: 4 msec , total: 5033 msec) 
+#=#=#=# Syncrun started 2023-01-21T16:16:59Z
+#=#=#=#=# Propagation starts 2023-01-21T16:17:04Z (last step: 5066 msec , total: 5066 msec) 
+#=#=#=# Syncrun finished 2023-01-21T16:17:04Z (last step: 7 msec , total: 5073 msec) 
+#=#=#=# Syncrun started 2023-01-21T16:17:05Z
+#=#=#=#=# Propagation starts 2023-01-21T16:17:10Z (last step: 5122 msec , total: 5122 msec) 
+#=#=#=# Syncrun finished 2023-01-21T16:17:10Z (last step: 8 msec , total: 5130 msec) 
+#=#=#=# Syncrun started 2023-01-21T22:09:49Z
+#=#=#=#=# Propagation starts 2023-01-21T22:09:55Z (last step: 6473 msec , total: 6473 msec) 
+#=#=#=# Syncrun finished 2023-01-21T22:09:55Z (last step: 6 msec , total: 6479 msec) 
+#=#=#=# Syncrun started 2023-01-21T22:09:56Z
+#=#=#=#=# Propagation starts 2023-01-21T22:10:01Z (last step: 5086 msec , total: 5086 msec) 
+#=#=#=# Syncrun finished 2023-01-21T22:10:01Z (last step: 8 msec , total: 5094 msec) 
+#=#=#=# Syncrun started 2023-01-22T09:21:21Z
+#=#=#=#=# Propagation starts 2023-01-22T09:21:27Z (last step: 5436 msec , total: 5436 msec) 
+#=#=#=# Syncrun finished 2023-01-22T09:21:27Z (last step: 4 msec , total: 5440 msec) 
+#=#=#=# Syncrun started 2023-01-22T11:21:52Z
+#=#=#=#=# Propagation starts 2023-01-22T11:21:57Z (last step: 5316 msec , total: 5316 msec) 
+#=#=#=# Syncrun finished 2023-01-22T11:21:57Z (last step: 7 msec , total: 5324 msec) 
+#=#=#=# Syncrun started 2023-01-22T11:22:18Z
+#=#=#=#=# Propagation starts 2023-01-22T11:22:23Z (last step: 5306 msec , total: 5306 msec) 
+#=#=#=# Syncrun finished 2023-01-22T11:22:23Z (last step: 6 msec , total: 5313 msec) 
+#=#=#=# Syncrun started 2023-01-22T13:22:37Z
+#=#=#=#=# Propagation starts 2023-01-22T13:22:42Z (last step: 5478 msec , total: 5478 msec) 
+#=#=#=# Syncrun finished 2023-01-22T13:22:42Z (last step: 6 msec , total: 5485 msec) 
+#=#=#=# Syncrun started 2023-01-22T13:22:51Z
+#=#=#=#=# Propagation starts 2023-01-22T13:22:57Z (last step: 5378 msec , total: 5378 msec) 
+#=#=#=# Syncrun finished 2023-01-22T13:22:57Z (last step: 6 msec , total: 5385 msec) 
+#=#=#=# Syncrun started 2023-01-22T15:23:00Z
+#=#=#=#=# Propagation starts 2023-01-22T15:23:05Z (last step: 5495 msec , total: 5495 msec) 
+#=#=#=# Syncrun finished 2023-01-22T15:23:05Z (last step: 6 msec , total: 5501 msec) 
+#=#=#=# Syncrun started 2023-01-22T15:23:06Z
+#=#=#=#=# Propagation starts 2023-01-22T15:23:12Z (last step: 5363 msec , total: 5363 msec) 
+#=#=#=# Syncrun finished 2023-01-22T15:23:12Z (last step: 6 msec , total: 5369 msec) 
+#=#=#=# Syncrun started 2023-01-22T18:24:10Z
+#=#=#=#=# Propagation starts 2023-01-22T18:24:16Z (last step: 5598 msec , total: 5598 msec) 
+#=#=#=# Syncrun finished 2023-01-22T18:24:16Z (last step: 5 msec , total: 5603 msec) 
+#=#=#=# Syncrun started 2023-01-22T18:24:17Z
+#=#=#=#=# Propagation starts 2023-01-22T18:24:22Z (last step: 5531 msec , total: 5531 msec) 
+#=#=#=# Syncrun finished 2023-01-22T18:24:22Z (last step: 5 msec , total: 5536 msec) 
+#=#=#=# Syncrun started 2023-01-22T20:41:16Z
+#=#=#=#=# Propagation starts 2023-01-22T20:41:22Z (last step: 5787 msec , total: 5787 msec) 
+#=#=#=# Syncrun finished 2023-01-22T20:41:22Z (last step: 5 msec , total: 5793 msec) 
+#=#=#=# Syncrun started 2023-01-22T20:41:23Z
+#=#=#=#=# Propagation starts 2023-01-22T20:41:29Z (last step: 5586 msec , total: 5586 msec) 
+#=#=#=# Syncrun finished 2023-01-22T20:41:29Z (last step: 8 msec , total: 5595 msec) 
+#=#=#=# Syncrun started 2023-01-22T22:41:38Z
+#=#=#=#=# Propagation starts 2023-01-22T22:41:44Z (last step: 5768 msec , total: 5768 msec) 
+#=#=#=# Syncrun finished 2023-01-22T22:41:44Z (last step: 6 msec , total: 5774 msec) 
+#=#=#=# Syncrun started 2023-01-22T22:41:45Z
+#=#=#=#=# Propagation starts 2023-01-22T22:41:51Z (last step: 5683 msec , total: 5683 msec) 
+#=#=#=# Syncrun finished 2023-01-22T22:41:51Z (last step: 7 msec , total: 5690 msec) 
+#=#=#=# Syncrun started 2023-01-23T09:12:30Z
+#=#=#=#=# Propagation starts 2023-01-23T09:12:36Z (last step: 5913 msec , total: 5913 msec) 
+#=#=#=# Syncrun finished 2023-01-23T09:12:36Z (last step: 10 msec , total: 5923 msec) 
+#=#=#=# Syncrun started 2023-01-23T11:13:05Z
+#=#=#=#=# Propagation starts 2023-01-23T11:13:11Z (last step: 5815 msec , total: 5815 msec) 
+#=#=#=# Syncrun finished 2023-01-23T11:13:11Z (last step: 7 msec , total: 5823 msec) 
+#=#=#=# Syncrun started 2023-01-23T11:13:35Z
+#=#=#=#=# Propagation starts 2023-01-23T11:13:40Z (last step: 5786 msec , total: 5786 msec) 
+#=#=#=# Syncrun finished 2023-01-23T11:13:40Z (last step: 6 msec , total: 5792 msec) 
+#=#=#=# Syncrun started 2023-01-23T13:13:49Z
+#=#=#=#=# Propagation starts 2023-01-23T13:13:55Z (last step: 5940 msec , total: 5940 msec) 
+#=#=#=# Syncrun finished 2023-01-23T13:13:55Z (last step: 10 msec , total: 5950 msec) 
+#=#=#=# Syncrun started 2023-01-23T13:13:56Z
+#=#=#=#=# Propagation starts 2023-01-23T13:14:02Z (last step: 5822 msec , total: 5822 msec) 
+#=#=#=# Syncrun finished 2023-01-23T13:14:02Z (last step: 6 msec , total: 5828 msec) 
+#=#=#=# Syncrun started 2023-01-23T15:14:10Z
+#=#=#=#=# Propagation starts 2023-01-23T15:14:16Z (last step: 5922 msec , total: 5922 msec) 
+#=#=#=# Syncrun finished 2023-01-23T15:14:16Z (last step: 7 msec , total: 5930 msec) 
+#=#=#=# Syncrun started 2023-01-23T15:14:17Z
+#=#=#=#=# Propagation starts 2023-01-23T15:14:23Z (last step: 5928 msec , total: 5928 msec) 
+#=#=#=# Syncrun finished 2023-01-23T15:14:23Z (last step: 5 msec , total: 5934 msec) 
+#=#=#=# Syncrun started 2023-01-23T17:14:26Z
+#=#=#=#=# Propagation starts 2023-01-23T17:14:32Z (last step: 6028 msec , total: 6028 msec) 
+#=#=#=# Syncrun finished 2023-01-23T17:14:32Z (last step: 6 msec , total: 6035 msec) 
+#=#=#=# Syncrun started 2023-01-23T17:14:34Z
+#=#=#=#=# Propagation starts 2023-01-23T17:14:40Z (last step: 5967 msec , total: 5967 msec) 
+#=#=#=# Syncrun finished 2023-01-23T17:14:40Z (last step: 4 msec , total: 5972 msec) 
+#=#=#=# Syncrun started 2023-01-23T19:31:13Z
+#=#=#=#=# Propagation starts 2023-01-23T19:31:19Z (last step: 6083 msec , total: 6083 msec) 
+#=#=#=# Syncrun finished 2023-01-23T19:31:19Z (last step: 9 msec , total: 6092 msec) 
+#=#=#=# Syncrun started 2023-01-23T21:56:31Z
+#=#=#=#=# Propagation starts 2023-01-23T21:56:37Z (last step: 6054 msec , total: 6054 msec) 
+#=#=#=# Syncrun finished 2023-01-23T21:56:37Z (last step: 7 msec , total: 6061 msec) 
+#=#=#=# Syncrun started 2023-01-23T21:56:54Z
+#=#=#=#=# Propagation starts 2023-01-23T21:57:00Z (last step: 6037 msec , total: 6037 msec) 
+#=#=#=# Syncrun finished 2023-01-23T21:57:00Z (last step: 6 msec , total: 6043 msec) 
+#=#=#=# Syncrun started 2023-01-24T02:03:30Z
+#=#=#=#=# Propagation starts 2023-01-24T02:03:36Z (last step: 6052 msec , total: 6052 msec) 
+#=#=#=# Syncrun finished 2023-01-24T02:03:36Z (last step: 7 msec , total: 6060 msec) 
+#=#=#=# Syncrun started 2023-01-24T02:03:39Z
+#=#=#=#=# Propagation starts 2023-01-24T02:03:45Z (last step: 6071 msec , total: 6071 msec) 
+#=#=#=# Syncrun finished 2023-01-24T02:03:45Z (last step: 7 msec , total: 6079 msec) 
+#=#=#=# Syncrun started 2023-01-24T06:44:46Z
+#=#=#=#=# Propagation starts 2023-01-24T06:44:52Z (last step: 6144 msec , total: 6144 msec) 
+#=#=#=# Syncrun finished 2023-01-24T06:44:52Z (last step: 13 msec , total: 6158 msec) 
+#=#=#=# Syncrun started 2023-01-24T06:44:54Z
+#=#=#=#=# Propagation starts 2023-01-24T06:45:01Z (last step: 6107 msec , total: 6107 msec) 
+#=#=#=# Syncrun finished 2023-01-24T06:45:01Z (last step: 9 msec , total: 6116 msec) 
+#=#=#=# Syncrun started 2023-01-24T09:37:41Z
+#=#=#=#=# Propagation starts 2023-01-24T09:37:48Z (last step: 6634 msec , total: 6634 msec) 
+#=#=#=# Syncrun finished 2023-01-24T09:37:48Z (last step: 7 msec , total: 6642 msec) 
+#=#=#=# Syncrun started 2023-01-24T09:37:49Z
+#=#=#=#=# Propagation starts 2023-01-24T09:37:56Z (last step: 6584 msec , total: 6584 msec) 
+#=#=#=# Syncrun finished 2023-01-24T09:37:56Z (last step: 7 msec , total: 6591 msec) 
+#=#=#=# Syncrun started 2023-01-24T10:39:10Z
+#=#=#=#=# Propagation starts 2023-01-24T10:39:17Z (last step: 6932 msec , total: 6932 msec) 
+#=#=#=# Syncrun finished 2023-01-24T10:39:17Z (last step: 4 msec , total: 6937 msec) 
+#=#=#=# Syncrun started 2023-01-24T13:32:58Z
+#=#=#=#=# Propagation starts 2023-01-24T13:33:05Z (last step: 6789 msec , total: 6789 msec) 
+#=#=#=# Syncrun finished 2023-01-24T13:33:05Z (last step: 9 msec , total: 6799 msec) 
+#=#=#=# Syncrun started 2023-01-24T13:45:07Z
+#=#=#=#=# Propagation starts 2023-01-24T13:45:08Z (last step: 1250 msec , total: 1250 msec) 
+#=#=#=# Syncrun finished 2023-01-24T13:45:08Z (last step: 5 msec , total: 1255 msec) 
+#=#=#=# Syncrun started 2023-01-24T15:45:18Z
+#=#=#=#=# Propagation starts 2023-01-24T15:45:20Z (last step: 1515 msec , total: 1515 msec) 
+#=#=#=# Syncrun finished 2023-01-24T15:45:20Z (last step: 4 msec , total: 1520 msec) 
+#=#=#=# Syncrun started 2023-01-24T17:47:54Z
+#=#=#=#=# Propagation starts 2023-01-24T17:47:55Z (last step: 869 msec , total: 869 msec) 
+#=#=#=# Syncrun finished 2023-01-24T17:47:55Z (last step: 4 msec , total: 873 msec) 
+#=#=#=# Syncrun started 2023-01-25T09:17:54Z
+#=#=#=#=# Propagation starts 2023-01-25T09:17:55Z (last step: 1336 msec , total: 1336 msec) 
+#=#=#=# Syncrun finished 2023-01-25T09:17:55Z (last step: 5 msec , total: 1342 msec) 
+#=#=#=# Syncrun started 2023-01-25T11:18:04Z
+#=#=#=#=# Propagation starts 2023-01-25T11:18:05Z (last step: 1047 msec , total: 1047 msec) 
+#=#=#=# Syncrun finished 2023-01-25T11:18:05Z (last step: 4 msec , total: 1051 msec) 
+#=#=#=# Syncrun started 2023-01-25T13:18:10Z
+#=#=#=#=# Propagation starts 2023-01-25T13:18:11Z (last step: 1025 msec , total: 1025 msec) 
+#=#=#=# Syncrun finished 2023-01-25T13:18:11Z (last step: 4 msec , total: 1030 msec) 
+#=#=#=# Syncrun started 2023-01-25T15:18:14Z
+#=#=#=#=# Propagation starts 2023-01-25T15:18:16Z (last step: 1061 msec , total: 1061 msec) 
+#=#=#=# Syncrun finished 2023-01-25T15:18:16Z (last step: 4 msec , total: 1065 msec) 
+#=#=#=# Syncrun started 2023-01-25T17:18:19Z
+#=#=#=#=# Propagation starts 2023-01-25T17:18:20Z (last step: 884 msec , total: 884 msec) 
+#=#=#=# Syncrun finished 2023-01-25T17:18:20Z (last step: 5 msec , total: 889 msec) 
+#=#=#=# Syncrun started 2023-01-25T20:04:02Z
+#=#=#=#=# Propagation starts 2023-01-25T20:04:03Z (last step: 963 msec , total: 963 msec) 
+#=#=#=# Syncrun finished 2023-01-25T20:04:03Z (last step: 4 msec , total: 967 msec) 
+#=#=#=# Syncrun started 2023-01-25T22:04:07Z
+#=#=#=#=# Propagation starts 2023-01-25T22:04:08Z (last step: 871 msec , total: 871 msec) 
+#=#=#=# Syncrun finished 2023-01-25T22:04:08Z (last step: 5 msec , total: 877 msec) 
+#=#=#=# Syncrun started 2023-01-26T07:57:26Z
+#=#=#=#=# Propagation starts 2023-01-26T07:57:27Z (last step: 1029 msec , total: 1029 msec) 
+#=#=#=# Syncrun finished 2023-01-26T07:57:27Z (last step: 4 msec , total: 1034 msec) 
+#=#=#=# Syncrun started 2023-01-26T10:44:00Z
+#=#=#=#=# Propagation starts 2023-01-26T10:44:02Z (last step: 1332 msec , total: 1332 msec) 
+#=#=#=# Syncrun finished 2023-01-26T10:44:02Z (last step: 9 msec , total: 1341 msec) 
+#=#=#=# Syncrun started 2023-01-26T12:44:07Z
+#=#=#=#=# Propagation starts 2023-01-26T12:44:08Z (last step: 930 msec , total: 930 msec) 
+#=#=#=# Syncrun finished 2023-01-26T12:44:08Z (last step: 5 msec , total: 936 msec) 
+#=#=#=# Syncrun started 2023-01-26T14:20:08Z
+#=#=#=#=# Propagation starts 2023-01-26T14:20:09Z (last step: 978 msec , total: 978 msec) 
+#=#=#=# Syncrun finished 2023-01-26T14:20:09Z (last step: 5 msec , total: 984 msec) 
+#=#=#=# Syncrun started 2023-01-26T16:20:17Z
+#=#=#=#=# Propagation starts 2023-01-26T16:20:18Z (last step: 1116 msec , total: 1116 msec) 
+#=#=#=# Syncrun finished 2023-01-26T16:20:18Z (last step: 4 msec , total: 1120 msec) 
+#=#=#=# Syncrun started 2023-01-26T18:20:22Z
+#=#=#=#=# Propagation starts 2023-01-26T18:20:23Z (last step: 826 msec , total: 826 msec) 
+#=#=#=# Syncrun finished 2023-01-26T18:20:23Z (last step: 4 msec , total: 831 msec) 
+#=#=#=# Syncrun started 2023-01-26T19:43:02Z
+#=#=#=#=# Propagation starts 2023-01-26T19:43:03Z (last step: 853 msec , total: 853 msec) 
+#=#=#=# Syncrun finished 2023-01-26T19:43:03Z (last step: 8 msec , total: 861 msec) 
+#=#=#=# Syncrun started 2023-01-26T22:05:43Z
+#=#=#=#=# Propagation starts 2023-01-26T22:05:44Z (last step: 824 msec , total: 824 msec) 
+#=#=#=# Syncrun finished 2023-01-26T22:05:44Z (last step: 5 msec , total: 829 msec) 
+#=#=#=# Syncrun started 2023-01-26T22:05:46Z
+#=#=#=#=# Propagation starts 2023-01-26T22:05:46Z (last step: 806 msec , total: 806 msec) 
+#=#=#=# Syncrun finished 2023-01-26T22:05:46Z (last step: 3 msec , total: 810 msec) 
+#=#=#=# Syncrun started 2023-01-27T08:05:00Z
+#=#=#=#=# Propagation starts 2023-01-27T08:05:01Z (last step: 833 msec , total: 833 msec) 
+#=#=#=# Syncrun finished 2023-01-27T08:05:01Z (last step: 6 msec , total: 839 msec) 
+#=#=#=# Syncrun started 2023-01-27T10:17:01Z
+#=#=#=#=# Propagation starts 2023-01-27T10:17:02Z (last step: 997 msec , total: 997 msec) 
+#=#=#=# Syncrun finished 2023-01-27T10:17:02Z (last step: 3 msec , total: 1001 msec) 
+#=#=#=# Syncrun started 2023-01-27T11:04:53Z
+#=#=#=#=# Propagation starts 2023-01-27T11:04:54Z (last step: 1225 msec , total: 1225 msec) 
+#=#=#=# Syncrun finished 2023-01-27T11:04:54Z (last step: 4 msec , total: 1230 msec) 
+#=#=#=# Syncrun started 2023-01-27T11:34:13Z
+#=#=#=#=# Propagation starts 2023-01-27T11:34:14Z (last step: 968 msec , total: 968 msec) 
+#=#=#=# Syncrun finished 2023-01-27T11:34:14Z (last step: 5 msec , total: 973 msec) 
+#=#=#=# Syncrun started 2023-01-27T13:34:21Z
+#=#=#=#=# Propagation starts 2023-01-27T13:34:22Z (last step: 1167 msec , total: 1167 msec) 
+#=#=#=# Syncrun finished 2023-01-27T13:34:22Z (last step: 5 msec , total: 1172 msec) 
+#=#=#=# Syncrun started 2023-01-27T13:34:27Z
+#=#=#=#=# Propagation starts 2023-01-27T13:34:28Z (last step: 1206 msec , total: 1206 msec) 
+#=#=#=# Syncrun finished 2023-01-27T13:34:28Z (last step: 3 msec , total: 1210 msec) 
+#=#=#=# Syncrun started 2023-01-27T13:56:35Z
+#=#=#=#=# Propagation starts 2023-01-27T13:56:36Z (last step: 1023 msec , total: 1023 msec) 
+#=#=#=# Syncrun finished 2023-01-27T13:56:36Z (last step: 5 msec , total: 1029 msec) 
+#=#=#=# Syncrun started 2023-01-27T14:34:33Z
+#=#=#=#=# Propagation starts 2023-01-27T14:34:34Z (last step: 1348 msec , total: 1348 msec) 
+#=#=#=# Syncrun finished 2023-01-27T14:34:34Z (last step: 4 msec , total: 1353 msec) 
+#=#=#=# Syncrun started 2023-01-27T16:00:16Z
+#=#=#=#=# Propagation starts 2023-01-27T16:00:17Z (last step: 1156 msec , total: 1156 msec) 
+#=#=#=# Syncrun finished 2023-01-27T16:00:17Z (last step: 4 msec , total: 1160 msec) 
+#=#=#=# Syncrun started 2023-01-27T20:23:36Z
+#=#=#=#=# Propagation starts 2023-01-27T20:23:37Z (last step: 692 msec , total: 692 msec) 
+#=#=#=# Syncrun finished 2023-01-27T20:23:37Z (last step: 4 msec , total: 697 msec) 
+#=#=#=# Syncrun started 2023-01-28T11:59:55Z
+#=#=#=# Syncrun finished 2023-01-28T11:59:55Z (last step: 23 msec , total: 23 msec) 
+#=#=#=# Syncrun started 2023-01-28T12:00:11Z
+#=#=#=# Syncrun finished 2023-01-28T12:00:11Z (last step: 12 msec , total: 12 msec) 
+#=#=#=# Syncrun started 2023-01-28T17:00:26Z
+#=#=#=#=# Propagation starts 2023-01-28T17:00:27Z (last step: 956 msec , total: 956 msec) 
+#=#=#=# Syncrun finished 2023-01-28T17:00:27Z (last step: 5 msec , total: 962 msec) 
+#=#=#=# Syncrun started 2023-01-28T19:38:41Z
+#=#=#=#=# Propagation starts 2023-01-28T19:38:42Z (last step: 1117 msec , total: 1117 msec) 
+#=#=#=# Syncrun finished 2023-01-28T19:38:42Z (last step: 5 msec , total: 1122 msec) 
+#=#=#=# Syncrun started 2023-01-28T21:38:44Z
+#=#=#=#=# Propagation starts 2023-01-28T21:38:45Z (last step: 779 msec , total: 779 msec) 
+#=#=#=# Syncrun finished 2023-01-28T21:38:45Z (last step: 6 msec , total: 786 msec) 
+#=#=#=# Syncrun started 2023-01-29T00:09:02Z
+#=#=#=#=# Propagation starts 2023-01-29T00:09:03Z (last step: 776 msec , total: 776 msec) 
+#=#=#=# Syncrun finished 2023-01-29T00:09:03Z (last step: 6 msec , total: 782 msec) 
+#=#=#=# Syncrun started 2023-01-29T04:13:50Z
+#=#=#=#=# Propagation starts 2023-01-29T04:13:51Z (last step: 841 msec , total: 841 msec) 
+#=#=#=# Syncrun finished 2023-01-29T04:13:51Z (last step: 6 msec , total: 848 msec) 
+#=#=#=# Syncrun started 2023-01-29T07:24:51Z
+#=#=#=#=# Propagation starts 2023-01-29T07:24:52Z (last step: 756 msec , total: 756 msec) 
+#=#=#=# Syncrun finished 2023-01-29T07:24:52Z (last step: 5 msec , total: 762 msec) 
+#=#=#=# Syncrun started 2023-01-29T11:54:05Z
+#=#=#=#=# Propagation starts 2023-01-29T11:54:05Z (last step: 813 msec , total: 813 msec) 
+#=#=#=# Syncrun finished 2023-01-29T11:54:05Z (last step: 6 msec , total: 820 msec) 
+#=#=#=# Syncrun started 2023-01-29T13:55:02Z
+#=#=#=#=# Propagation starts 2023-01-29T13:55:02Z (last step: 810 msec , total: 810 msec) 
+#=#=#=# Syncrun finished 2023-01-29T13:55:02Z (last step: 3 msec , total: 813 msec) 
+#=#=#=# Syncrun started 2023-01-29T18:15:07Z
+#=#=#=#=# Propagation starts 2023-01-29T18:15:08Z (last step: 892 msec , total: 892 msec) 
+#=#=#=# Syncrun finished 2023-01-29T18:15:08Z (last step: 7 msec , total: 899 msec) 
+#=#=#=# Syncrun started 2023-01-30T07:33:20Z
+#=#=#=#=# Propagation starts 2023-01-30T07:33:21Z (last step: 777 msec , total: 777 msec) 
+#=#=#=# Syncrun finished 2023-01-30T07:33:21Z (last step: 5 msec , total: 782 msec) 
+#=#=#=# Syncrun started 2023-01-30T08:29:06Z
+#=#=#=#=# Propagation starts 2023-01-30T08:29:07Z (last step: 958 msec , total: 958 msec) 
+#=#=#=# Syncrun finished 2023-01-30T08:29:07Z (last step: 5 msec , total: 963 msec) 
+#=#=#=# Syncrun started 2023-01-30T09:25:59Z
+#=#=#=#=# Propagation starts 2023-01-30T09:26:00Z (last step: 1066 msec , total: 1066 msec) 
+#=#=#=# Syncrun finished 2023-01-30T09:26:00Z (last step: 5 msec , total: 1072 msec) 
+#=#=#=# Syncrun started 2023-01-30T11:42:48Z
+#=#=#=#=# Propagation starts 2023-01-30T11:42:49Z (last step: 968 msec , total: 968 msec) 
+#=#=#=# Syncrun finished 2023-01-30T11:42:49Z (last step: 4 msec , total: 973 msec) 
+#=#=#=# Syncrun started 2023-01-30T11:42:51Z
+#=#=#=#=# Propagation starts 2023-01-30T11:42:52Z (last step: 968 msec , total: 968 msec) 
+#=#=#=# Syncrun finished 2023-01-30T11:42:52Z (last step: 4 msec , total: 972 msec) 
+#=#=#=# Syncrun started 2023-01-30T13:42:55Z
+#=#=#=#=# Propagation starts 2023-01-30T13:42:56Z (last step: 1162 msec , total: 1162 msec) 
+#=#=#=# Syncrun finished 2023-01-30T13:42:56Z (last step: 4 msec , total: 1167 msec) 
+#=#=#=# Syncrun started 2023-01-30T15:43:52Z
+#=#=#=#=# Propagation starts 2023-01-30T15:43:53Z (last step: 991 msec , total: 991 msec) 
+#=#=#=# Syncrun finished 2023-01-30T15:43:53Z (last step: 5 msec , total: 997 msec) 
+#=#=#=# Syncrun started 2023-01-30T17:43:57Z
+#=#=#=#=# Propagation starts 2023-01-30T17:43:58Z (last step: 926 msec , total: 926 msec) 
+#=#=#=# Syncrun finished 2023-01-30T17:43:58Z (last step: 5 msec , total: 932 msec) 
+#=#=#=# Syncrun started 2023-01-30T20:40:54Z
+#=#=#=#=# Propagation starts 2023-01-30T20:40:55Z (last step: 788 msec , total: 788 msec) 
+#=#=#=# Syncrun finished 2023-01-30T20:40:55Z (last step: 4 msec , total: 792 msec) 
+#=#=#=# Syncrun started 2023-01-30T22:47:51Z
+#=#=#=#=# Propagation starts 2023-01-30T22:47:52Z (last step: 793 msec , total: 793 msec) 
+#=#=#=# Syncrun finished 2023-01-30T22:47:52Z (last step: 6 msec , total: 800 msec) 
+#=#=#=# Syncrun started 2023-01-31T10:03:57Z
+#=#=#=#=# Propagation starts 2023-01-31T10:03:58Z (last step: 1121 msec , total: 1121 msec) 
+#=#=#=# Syncrun finished 2023-01-31T10:03:58Z (last step: 6 msec , total: 1128 msec) 
+#=#=#=# Syncrun started 2023-01-31T12:23:53Z
+#=#=#=#=# Propagation starts 2023-01-31T12:23:54Z (last step: 996 msec , total: 996 msec) 
+#=#=#=# Syncrun finished 2023-01-31T12:23:54Z (last step: 8 msec , total: 1004 msec) 
+#=#=#=# Syncrun started 2023-01-31T14:23:58Z
+#=#=#=#=# Propagation starts 2023-01-31T14:23:59Z (last step: 1077 msec , total: 1077 msec) 
+#=#=#=# Syncrun finished 2023-01-31T14:23:59Z (last step: 8 msec , total: 1086 msec) 
+#=#=#=# Syncrun started 2023-01-31T16:24:03Z
+#=#=#=#=# Propagation starts 2023-01-31T16:24:04Z (last step: 972 msec , total: 972 msec) 
+#=#=#=# Syncrun finished 2023-01-31T16:24:04Z (last step: 5 msec , total: 978 msec) 
+#=#=#=# Syncrun started 2023-01-31T17:57:10Z
+#=#=#=#=# Propagation starts 2023-01-31T17:57:11Z (last step: 871 msec , total: 871 msec) 
+#=#=#=# Syncrun finished 2023-01-31T17:57:11Z (last step: 4 msec , total: 876 msec) 
+#=#=#=# Syncrun started 2023-01-31T20:04:10Z
+#=#=#=#=# Propagation starts 2023-01-31T20:04:11Z (last step: 1214 msec , total: 1214 msec) 
+#=#=#=# Syncrun finished 2023-01-31T20:04:11Z (last step: 5 msec , total: 1220 msec) 
+#=#=#=# Syncrun started 2023-01-31T22:04:15Z
+#=#=#=#=# Propagation starts 2023-01-31T22:04:16Z (last step: 781 msec , total: 781 msec) 
+#=#=#=# Syncrun finished 2023-01-31T22:04:16Z (last step: 4 msec , total: 786 msec) 
+#=#=#=# Syncrun started 2023-02-01T08:59:55Z
+#=#=#=#=# Propagation starts 2023-02-01T08:59:56Z (last step: 1229 msec , total: 1229 msec) 
+#=#=#=# Syncrun finished 2023-02-01T08:59:56Z (last step: 6 msec , total: 1236 msec) 
+#=#=#=# Syncrun started 2023-02-01T11:00:02Z
+#=#=#=#=# Propagation starts 2023-02-01T11:00:03Z (last step: 954 msec , total: 955 msec) 
+#=#=#=# Syncrun finished 2023-02-01T11:00:03Z (last step: 5 msec , total: 960 msec) 
+#=#=#=# Syncrun started 2023-02-01T13:22:50Z
+#=#=#=#=# Propagation starts 2023-02-01T13:22:51Z (last step: 1107 msec , total: 1107 msec) 
+#=#=#=# Syncrun finished 2023-02-01T13:22:51Z (last step: 5 msec , total: 1112 msec) 
+#=#=#=# Syncrun started 2023-02-01T15:40:06Z
+#=#=#=#=# Propagation starts 2023-02-01T15:40:07Z (last step: 1029 msec , total: 1029 msec) 
+#=#=#=# Syncrun finished 2023-02-01T15:40:07Z (last step: 4 msec , total: 1034 msec) 
+#=#=#=# Syncrun started 2023-02-01T17:27:26Z
+#=#=#=#=# Propagation starts 2023-02-01T17:27:27Z (last step: 905 msec , total: 905 msec) 
+#=#=#=# Syncrun finished 2023-02-01T17:27:27Z (last step: 4 msec , total: 909 msec) 
+#=#=#=# Syncrun started 2023-02-02T08:17:30Z
+#=#=#=#=# Propagation starts 2023-02-02T08:17:31Z (last step: 1017 msec , total: 1017 msec) 
+#=#=#=# Syncrun finished 2023-02-02T08:17:31Z (last step: 5 msec , total: 1022 msec) 
+#=#=#=# Syncrun started 2023-02-02T09:23:01Z
+#=#=#=#=# Propagation starts 2023-02-02T09:23:02Z (last step: 941 msec , total: 941 msec) 
+#=#=#=# Syncrun finished 2023-02-02T09:23:02Z (last step: 6 msec , total: 947 msec) 
+#=#=#=# Syncrun started 2023-02-02T13:19:42Z
+#=#=#=#=# Propagation starts 2023-02-02T13:19:43Z (last step: 1150 msec , total: 1150 msec) 
+#=#=#=# Syncrun finished 2023-02-02T13:19:43Z (last step: 5 msec , total: 1155 msec) 
+#=#=#=# Syncrun started 2023-02-02T15:43:35Z
+#=#=#=#=# Propagation starts 2023-02-02T15:43:36Z (last step: 1097 msec , total: 1097 msec) 
+#=#=#=# Syncrun finished 2023-02-02T15:43:36Z (last step: 5 msec , total: 1102 msec) 
+#=#=#=# Syncrun started 2023-02-02T20:16:48Z
+#=#=#=#=# Propagation starts 2023-02-02T20:16:48Z (last step: 891 msec , total: 891 msec) 
+#=#=#=# Syncrun finished 2023-02-02T20:16:48Z (last step: 5 msec , total: 896 msec) 
+#=#=#=# Syncrun started 2023-02-02T23:04:17Z
+#=#=#=#=# Propagation starts 2023-02-02T23:04:18Z (last step: 1180 msec , total: 1180 msec) 
+#=#=#=# Syncrun finished 2023-02-02T23:04:18Z (last step: 5 msec , total: 1185 msec) 
+#=#=#=# Syncrun started 2023-02-03T01:38:00Z
+#=#=#=#=# Propagation starts 2023-02-03T01:38:01Z (last step: 1186 msec , total: 1186 msec) 
+#=#=#=# Syncrun finished 2023-02-03T01:38:01Z (last step: 6 msec , total: 1192 msec) 
+#=#=#=# Syncrun started 2023-02-03T04:35:16Z
+#=#=#=#=# Propagation starts 2023-02-03T04:35:17Z (last step: 1225 msec , total: 1225 msec) 
+#=#=#=# Syncrun finished 2023-02-03T04:35:17Z (last step: 7 msec , total: 1232 msec) 
+#=#=#=# Syncrun started 2023-02-03T06:35:21Z
+#=#=#=#=# Propagation starts 2023-02-03T06:35:23Z (last step: 1158 msec , total: 1158 msec) 
+#=#=#=# Syncrun finished 2023-02-03T06:35:23Z (last step: 6 msec , total: 1165 msec) 
+#=#=#=# Syncrun started 2023-02-03T08:02:32Z
+#=#=#=# Syncrun finished 2023-02-03T08:02:32Z (last step: 13 msec , total: 13 msec) 
+#=#=#=# Syncrun started 2023-02-03T08:02:47Z
+#=#=#=# Syncrun finished 2023-02-03T08:02:47Z (last step: 8 msec , total: 8 msec) 
+#=#=#=# Syncrun started 2023-02-03T08:11:38Z
+#=#=#=#=# Propagation starts 2023-02-03T08:11:39Z (last step: 1012 msec , total: 1012 msec) 
+#=#=#=# Syncrun finished 2023-02-03T08:11:39Z (last step: 5 msec , total: 1017 msec) 
+#=#=#=# Syncrun started 2023-02-03T10:38:16Z
+#=#=#=#=# Propagation starts 2023-02-03T10:38:17Z (last step: 1295 msec , total: 1295 msec) 
+#=#=#=# Syncrun finished 2023-02-03T10:38:17Z (last step: 4 msec , total: 1300 msec) 
+#=#=#=# Syncrun started 2023-02-03T12:38:18Z
+#=#=#=#=# Propagation starts 2023-02-03T12:38:20Z (last step: 1381 msec , total: 1381 msec) 
+#=#=#=# Syncrun finished 2023-02-03T12:38:20Z (last step: 5 msec , total: 1387 msec) 
+#=#=#=# Syncrun started 2023-02-03T14:38:23Z
+#=#=#=#=# Propagation starts 2023-02-03T14:38:24Z (last step: 1039 msec , total: 1039 msec) 
+#=#=#=# Syncrun finished 2023-02-03T14:38:24Z (last step: 4 msec , total: 1043 msec) 
+#=#=#=# Syncrun started 2023-02-03T17:42:48Z
+#=#=#=#=# Propagation starts 2023-02-03T17:42:49Z (last step: 794 msec , total: 794 msec) 
+#=#=#=# Syncrun finished 2023-02-03T17:42:49Z (last step: 7 msec , total: 801 msec) 
+#=#=#=# Syncrun started 2023-02-03T19:42:53Z
+#=#=#=#=# Propagation starts 2023-02-03T19:42:54Z (last step: 1017 msec , total: 1017 msec) 
+#=#=#=# Syncrun finished 2023-02-03T19:42:54Z (last step: 4 msec , total: 1022 msec) 
+#=#=#=# Syncrun started 2023-02-03T21:42:58Z
+#=#=#=#=# Propagation starts 2023-02-03T21:42:59Z (last step: 944 msec , total: 944 msec) 
+#=#=#=# Syncrun finished 2023-02-03T21:42:59Z (last step: 4 msec , total: 949 msec) 
+#=#=#=# Syncrun started 2023-02-04T08:43:33Z
+#=#=#=#=# Propagation starts 2023-02-04T08:43:34Z (last step: 783 msec , total: 783 msec) 
+#=#=#=# Syncrun finished 2023-02-04T08:43:34Z (last step: 5 msec , total: 789 msec) 
+#=#=#=# Syncrun started 2023-02-04T10:43:38Z
+#=#=#=#=# Propagation starts 2023-02-04T10:43:39Z (last step: 827 msec , total: 827 msec) 
+#=#=#=# Syncrun finished 2023-02-04T10:43:39Z (last step: 6 msec , total: 834 msec) 
+#=#=#=# Syncrun started 2023-02-04T12:58:20Z
+#=#=#=#=# Propagation starts 2023-02-04T12:58:21Z (last step: 782 msec , total: 782 msec) 
+#=#=#=# Syncrun finished 2023-02-04T12:58:21Z (last step: 6 msec , total: 789 msec) 
+#=#=#=# Syncrun started 2023-02-04T14:58:25Z
+#=#=#=#=# Propagation starts 2023-02-04T14:58:26Z (last step: 905 msec , total: 905 msec) 
+#=#=#=# Syncrun finished 2023-02-04T14:58:26Z (last step: 4 msec , total: 910 msec) 
+#=#=#=# Syncrun started 2023-02-04T16:58:30Z
+#=#=#=#=# Propagation starts 2023-02-04T16:58:31Z (last step: 760 msec , total: 760 msec) 
+#=#=#=# Syncrun finished 2023-02-04T16:58:31Z (last step: 15 msec , total: 775 msec) 
+#=#=#=# Syncrun started 2023-02-04T18:58:35Z
+#=#=#=#=# Propagation starts 2023-02-04T18:58:36Z (last step: 725 msec , total: 725 msec) 
+#=#=#=# Syncrun finished 2023-02-04T18:58:36Z (last step: 4 msec , total: 730 msec) 
+#=#=#=# Syncrun started 2023-02-04T20:58:40Z
+#=#=#=#=# Propagation starts 2023-02-04T20:58:41Z (last step: 845 msec , total: 845 msec) 
+#=#=#=# Syncrun finished 2023-02-04T20:58:41Z (last step: 5 msec , total: 851 msec) 
+#=#=#=# Syncrun started 2023-02-04T22:58:45Z
+#=#=#=#=# Propagation starts 2023-02-04T22:58:46Z (last step: 774 msec , total: 774 msec) 
+#=#=#=# Syncrun finished 2023-02-04T22:58:46Z (last step: 6 msec , total: 781 msec) 
+#=#=#=# Syncrun started 2023-02-05T00:58:50Z
+#=#=#=#=# Propagation starts 2023-02-05T00:58:51Z (last step: 787 msec , total: 787 msec) 
+#=#=#=# Syncrun finished 2023-02-05T00:58:51Z (last step: 7 msec , total: 794 msec) 
+#=#=#=# Syncrun started 2023-02-05T02:58:55Z
+#=#=#=#=# Propagation starts 2023-02-05T02:58:56Z (last step: 777 msec , total: 777 msec) 
+#=#=#=# Syncrun finished 2023-02-05T02:58:56Z (last step: 6 msec , total: 784 msec) 
+#=#=#=# Syncrun started 2023-02-05T04:59:00Z
+#=#=#=#=# Propagation starts 2023-02-05T04:59:01Z (last step: 754 msec , total: 754 msec) 
+#=#=#=# Syncrun finished 2023-02-05T04:59:01Z (last step: 6 msec , total: 760 msec) 
+#=#=#=# Syncrun started 2023-02-05T06:59:05Z
+#=#=#=#=# Propagation starts 2023-02-05T06:59:06Z (last step: 779 msec , total: 779 msec) 
+#=#=#=# Syncrun finished 2023-02-05T06:59:06Z (last step: 6 msec , total: 785 msec) 
+#=#=#=# Syncrun started 2023-02-05T08:59:10Z
+#=#=#=#=# Propagation starts 2023-02-05T08:59:11Z (last step: 853 msec , total: 853 msec) 
+#=#=#=# Syncrun finished 2023-02-05T08:59:11Z (last step: 6 msec , total: 859 msec) 
+#=#=#=# Syncrun started 2023-02-05T10:59:15Z
+#=#=#=#=# Propagation starts 2023-02-05T10:59:16Z (last step: 772 msec , total: 772 msec) 
+#=#=#=# Syncrun finished 2023-02-05T10:59:16Z (last step: 5 msec , total: 778 msec) 
+#=#=#=# Syncrun started 2023-02-05T12:59:20Z
+#=#=#=#=# Propagation starts 2023-02-05T12:59:21Z (last step: 857 msec , total: 857 msec) 
+#=#=#=# Syncrun finished 2023-02-05T12:59:21Z (last step: 5 msec , total: 863 msec) 
+#=#=#=# Syncrun started 2023-02-05T14:59:25Z
+#=#=#=#=# Propagation starts 2023-02-05T14:59:25Z (last step: 810 msec , total: 810 msec) 
+#=#=#=# Syncrun finished 2023-02-05T14:59:25Z (last step: 7 msec , total: 818 msec) 
+#=#=#=# Syncrun started 2023-02-05T17:35:27Z
+#=#=#=#=# Propagation starts 2023-02-05T17:35:28Z (last step: 948 msec , total: 948 msec) 
+#=#=#=# Syncrun finished 2023-02-05T17:35:28Z (last step: 6 msec , total: 954 msec) 
+#=#=#=# Syncrun started 2023-02-05T19:35:32Z
+#=#=#=#=# Propagation starts 2023-02-05T19:35:33Z (last step: 859 msec , total: 859 msec) 
+#=#=#=# Syncrun finished 2023-02-05T19:35:33Z (last step: 6 msec , total: 866 msec) 
+#=#=#=# Syncrun started 2023-02-05T21:35:37Z
+#=#=#=#=# Propagation starts 2023-02-05T21:35:38Z (last step: 958 msec , total: 958 msec) 
+#=#=#=# Syncrun finished 2023-02-05T21:35:38Z (last step: 4 msec , total: 962 msec) 
+#=#=#=# Syncrun started 2023-02-05T23:35:42Z
+#=#=#=#=# Propagation starts 2023-02-05T23:35:43Z (last step: 843 msec , total: 843 msec) 
+#=#=#=# Syncrun finished 2023-02-05T23:35:43Z (last step: 6 msec , total: 849 msec) 
+#=#=#=# Syncrun started 2023-02-06T01:35:47Z
+#=#=#=#=# Propagation starts 2023-02-06T01:35:48Z (last step: 836 msec , total: 836 msec) 
+#=#=#=# Syncrun finished 2023-02-06T01:35:48Z (last step: 6 msec , total: 843 msec) 
+#=#=#=# Syncrun started 2023-02-06T03:35:52Z
+#=#=#=#=# Propagation starts 2023-02-06T03:35:53Z (last step: 805 msec , total: 805 msec) 
+#=#=#=# Syncrun finished 2023-02-06T03:35:53Z (last step: 5 msec , total: 810 msec) 
+#=#=#=# Syncrun started 2023-02-06T05:35:57Z
+#=#=#=#=# Propagation starts 2023-02-06T05:35:58Z (last step: 818 msec , total: 818 msec) 
+#=#=#=# Syncrun finished 2023-02-06T05:35:58Z (last step: 5 msec , total: 824 msec) 
+#=#=#=# Syncrun started 2023-02-06T07:36:02Z
+#=#=#=#=# Propagation starts 2023-02-06T07:36:03Z (last step: 801 msec , total: 801 msec) 
+#=#=#=# Syncrun finished 2023-02-06T07:36:03Z (last step: 7 msec , total: 808 msec) 
+#=#=#=# Syncrun started 2023-02-06T08:34:00Z
+#=#=#=#=# Propagation starts 2023-02-06T08:34:01Z (last step: 1069 msec , total: 1069 msec) 
+#=#=#=# Syncrun finished 2023-02-06T08:34:01Z (last step: 5 msec , total: 1075 msec) 
+#=#=#=# Syncrun started 2023-02-06T10:34:12Z
+#=#=#=#=# Propagation starts 2023-02-06T10:34:13Z (last step: 1024 msec , total: 1024 msec) 
+#=#=#=# Syncrun finished 2023-02-06T10:34:13Z (last step: 5 msec , total: 1029 msec) 
+#=#=#=# Syncrun started 2023-02-06T12:34:21Z
+#=#=#=#=# Propagation starts 2023-02-06T12:34:22Z (last step: 1242 msec , total: 1242 msec) 
+#=#=#=# Syncrun finished 2023-02-06T12:34:22Z (last step: 5 msec , total: 1247 msec) 
+#=#=#=# Syncrun started 2023-02-06T13:55:47Z
+#=#=#=#=# Propagation starts 2023-02-06T13:55:49Z (last step: 1388 msec , total: 1388 msec) 
+#=#=#=# Syncrun finished 2023-02-06T13:55:49Z (last step: 3 msec , total: 1392 msec) 
+#=#=#=# Syncrun started 2023-02-06T15:55:54Z
+#=#=#=#=# Propagation starts 2023-02-06T15:55:55Z (last step: 1186 msec , total: 1186 msec) 
+#=#=#=# Syncrun finished 2023-02-06T15:55:55Z (last step: 5 msec , total: 1192 msec) 
+#=#=#=# Syncrun started 2023-02-06T17:55:59Z
+#=#=#=#=# Propagation starts 2023-02-06T17:56:00Z (last step: 875 msec , total: 875 msec) 
+#=#=#=# Syncrun finished 2023-02-06T17:56:00Z (last step: 9 msec , total: 885 msec) 
+#=#=#=# Syncrun started 2023-02-06T18:50:45Z
+#=#=#=#=# Propagation starts 2023-02-06T18:50:45Z (last step: 800 msec , total: 800 msec) 
+#=#=#=# Syncrun finished 2023-02-06T18:50:45Z (last step: 5 msec , total: 806 msec) 
+#=#=#=# Syncrun started 2023-02-06T21:10:40Z
+#=#=#=#=# Propagation starts 2023-02-06T21:10:41Z (last step: 1091 msec , total: 1091 msec) 
+#=#=#=# Syncrun finished 2023-02-06T21:10:41Z (last step: 4 msec , total: 1095 msec) 
+#=#=#=# Syncrun started 2023-02-07T08:46:09Z
+#=#=#=#=# Propagation starts 2023-02-07T08:46:10Z (last step: 1087 msec , total: 1087 msec) 
+#=#=#=# Syncrun finished 2023-02-07T08:46:10Z (last step: 5 msec , total: 1093 msec) 
+#=#=#=# Syncrun started 2023-02-07T10:46:17Z
+#=#=#=#=# Propagation starts 2023-02-07T10:46:19Z (last step: 1456 msec , total: 1456 msec) 
+#=#=#=# Syncrun finished 2023-02-07T10:46:19Z (last step: 6 msec , total: 1463 msec) 
+#=#=#=# Syncrun started 2023-02-07T12:46:23Z
+#=#=#=#=# Propagation starts 2023-02-07T12:46:25Z (last step: 1271 msec , total: 1271 msec) 
+#=#=#=# Syncrun finished 2023-02-07T12:46:25Z (last step: 6 msec , total: 1277 msec) 
+#=#=#=# Syncrun started 2023-02-07T14:46:28Z
+#=#=#=#=# Propagation starts 2023-02-07T14:46:29Z (last step: 1182 msec , total: 1182 msec) 
+#=#=#=# Syncrun finished 2023-02-07T14:46:29Z (last step: 6 msec , total: 1189 msec) 
+#=#=#=# Syncrun started 2023-02-07T16:46:33Z
+#=#=#=#=# Propagation starts 2023-02-07T16:46:34Z (last step: 1079 msec , total: 1079 msec) 
+#=#=#=# Syncrun finished 2023-02-07T16:46:34Z (last step: 6 msec , total: 1085 msec) 
+#=#=#=# Syncrun started 2023-02-07T22:40:50Z
+#=#=#=#=# Propagation starts 2023-02-07T22:40:51Z (last step: 796 msec , total: 796 msec) 
+#=#=#=# Syncrun finished 2023-02-07T22:40:51Z (last step: 3 msec , total: 800 msec) 
+#=#=#=# Syncrun started 2023-02-08T08:53:49Z
+#=#=#=#=# Propagation starts 2023-02-08T08:53:50Z (last step: 1014 msec , total: 1014 msec) 
+#=#=#=# Syncrun finished 2023-02-08T08:53:50Z (last step: 3 msec , total: 1017 msec) 
+#=#=#=# Syncrun started 2023-02-08T10:54:01Z
+#=#=#=#=# Propagation starts 2023-02-08T10:54:03Z (last step: 1216 msec , total: 1216 msec) 
+#=#=#=# Syncrun finished 2023-02-08T10:54:03Z (last step: 5 msec , total: 1221 msec) 
+#=#=#=# Syncrun started 2023-02-08T12:54:09Z
+#=#=#=#=# Propagation starts 2023-02-08T12:54:10Z (last step: 1032 msec , total: 1032 msec) 
+#=#=#=# Syncrun finished 2023-02-08T12:54:10Z (last step: 5 msec , total: 1038 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:49:18Z
+#=#=#=#=# Propagation starts 2023-02-08T13:49:20Z (last step: 1140 msec , total: 1140 msec) 
+2023-02-08T13:49:20Z | _bibliography/papers.bib | SyncInstruction(CSYNC_INSTRUCTION_SYNC) | OCC::SyncFileItem::Up | | 1675864155 | 15f7eb1febc93b99d473e275116a4104 | 8526 | 2866001766ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 8167 | 1663580440 | 492f3ef2-a2d6-4f05-950f-bfb83a283791 | 
+#=#=#=# Syncrun finished 2023-02-08T13:49:21Z (last step: 1280 msec , total: 2420 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:49:36Z
+#=#=#=#=# Propagation starts 2023-02-08T13:49:39Z (last step: 2291 msec , total: 2291 msec) 
+#=#=#=# Syncrun finished 2023-02-08T13:49:39Z (last step: 7 msec , total: 2299 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:49:45Z
+#=#=#=#=# Propagation starts 2023-02-08T13:49:46Z (last step: 1340 msec , total: 1340 msec) 
+2023-02-08T13:49:46Z | _bibliography/papers.bib | SyncInstruction(CSYNC_INSTRUCTION_SYNC) | OCC::SyncFileItem::Up | | 1675864182 | b779654b9c69b009d57e5ba5be77090a | 8525 | 2866001766ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 8526 | 1675864155 | 6550e6a5-494e-4eb1-82af-e00a54b5a6e5 | 
+#=#=#=# Syncrun finished 2023-02-08T13:49:47Z (last step: 925 msec , total: 2265 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:50:47Z
+#=#=#=#=# Propagation starts 2023-02-08T13:50:49Z (last step: 1932 msec , total: 1932 msec) 
+2023-02-08T13:50:49Z | _bibliography/papers.bib | SyncInstruction(CSYNC_INSTRUCTION_SYNC) | OCC::SyncFileItem::Up | | 1675864246 | 2ee4ddd0d2640ccf0e74680461338a21 | 8878 | 2866001766ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 8525 | 1675864182 | 5cee5f5a-11f3-427d-a895-c68e98136532 | 
+#=#=#=# Syncrun finished 2023-02-08T13:50:50Z (last step: 940 msec , total: 2873 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:51:07Z
+#=#=#=#=# Propagation starts 2023-02-08T13:51:10Z (last step: 2159 msec , total: 2159 msec) 
+ | _bibliography/papers.bib | SyncInstruction(CSYNC_INSTRUCTION_SYNC) | OCC::SyncFileItem::Up | | 1675864269 | 2ee4ddd0d2640ccf0e74680461338a21 | 8886 | 2866001766ocfcb4e58640 | OCC::SyncFileItem::Message | Local file changed during sync. It will be resumed. | 0 | 8878 | 1675864246 |  | 
+#=#=#=# Syncrun finished 2023-02-08T13:51:10Z (last step: 8 msec , total: 2168 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:51:12Z
+#=#=#=#=# Propagation starts 2023-02-08T13:51:13Z (last step: 1195 msec , total: 1195 msec) 
+2023-02-08T13:51:13Z | _bibliography/papers.bib | SyncInstruction(CSYNC_INSTRUCTION_SYNC) | OCC::SyncFileItem::Up | | 1675864269 | 97a89333777d2469bd873c8e8f33efe2 | 8886 | 2866001766ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 8878 | 1675864246 | 143ad427-9d13-4fa0-abe6-9ea5f7032a09 | 
+#=#=#=# Syncrun finished 2023-02-08T13:51:14Z (last step: 937 msec , total: 2133 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:51:16Z
+#=#=#=#=# Propagation starts 2023-02-08T13:51:19Z (last step: 2361 msec , total: 2361 msec) 
+#=#=#=# Syncrun finished 2023-02-08T13:51:19Z (last step: 9 msec , total: 2370 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:52:01Z
+#=#=#=#=# Propagation starts 2023-02-08T13:52:02Z (last step: 1031 msec , total: 1031 msec) 
+2023-02-08T13:52:02Z | _bibliography/papers.bib | SyncInstruction(CSYNC_INSTRUCTION_SYNC) | OCC::SyncFileItem::Up | | 1675864318 | 8f1b8cbf120111630223dcf181844b3b | 8886 | 2866001766ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 8886 | 1675864269 | 7994fc9a-52ee-4381-8eda-7b2b67b4020c | 
+#=#=#=# Syncrun finished 2023-02-08T13:52:03Z (last step: 904 msec , total: 1935 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:52:33Z
+#=#=#=#=# Propagation starts 2023-02-08T13:52:35Z (last step: 2091 msec , total: 2091 msec) 
+2023-02-08T13:52:35Z | _news/aistats2023.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1675864349 | 642c8004f12bba963678e017288db5c2 | 407 | 2942644366ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 4a689657-2c8b-4eb9-b859-37b129daeab8 | 
+#=#=#=# Syncrun finished 2023-02-08T13:52:36Z (last step: 1515 msec , total: 3606 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:52:57Z
+#=#=#=#=# Propagation starts 2023-02-08T13:52:59Z (last step: 2404 msec , total: 2404 msec) 
+#=#=#=# Syncrun finished 2023-02-08T13:52:59Z (last step: 6 msec , total: 2411 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:54:43Z
+#=#=#=#=# Propagation starts 2023-02-08T13:54:45Z (last step: 1412 msec , total: 1412 msec) 
+2023-02-08T13:54:45Z | _news/aistats2023.md | SyncInstruction(CSYNC_INSTRUCTION_SYNC) | OCC::SyncFileItem::Up | | 1675864480 | f715451c64be0793f1ced97bd346ddb0 | 371 | 2942644366ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 407 | 1675864349 | 3a9ecae2-610b-4ba4-a0d5-b8011c69613c | 
+#=#=#=# Syncrun finished 2023-02-08T13:54:46Z (last step: 1239 msec , total: 2652 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:55:03Z
+#=#=#=#=# Propagation starts 2023-02-08T13:55:05Z (last step: 2152 msec , total: 2152 msec) 
+2023-02-08T13:55:05Z | _news/aistats2023.md | SyncInstruction(CSYNC_INSTRUCTION_SYNC) | OCC::SyncFileItem::Up | | 1675864503 | 2f726b827bc9f6fb6a412420ea27b294 | 371 | 2942644366ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 371 | 1675864480 | e06b5965-3fdf-4f7d-b63a-b559d11f2fc9 | 
+#=#=#=# Syncrun finished 2023-02-08T13:55:06Z (last step: 1003 msec , total: 3155 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:55:08Z
+#=#=#=#=# Propagation starts 2023-02-08T13:55:10Z (last step: 2189 msec , total: 2189 msec) 
+#=#=#=# Syncrun finished 2023-02-08T13:55:10Z (last step: 11 msec , total: 2200 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:55:25Z
+#=#=#=#=# Propagation starts 2023-02-08T13:55:27Z (last step: 1150 msec , total: 1150 msec) 
+2023-02-08T13:55:27Z | _news/arxiv_icml_2023.md | SyncInstruction(CSYNC_INSTRUCTION_NEW) | OCC::SyncFileItem::Up | | 1675864522 | db639e643aa6b390f0dc75781a200460 | 806 | 2942655554ocfcb4e58640 | OCC::SyncFileItem::Success |  | 201 | 0 | 0 | 66a77594-d9fa-4d12-bd7c-9070d3462a5a | 
+#=#=#=# Syncrun finished 2023-02-08T13:55:28Z (last step: 1914 msec , total: 3064 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:56:16Z
+#=#=#=#=# Propagation starts 2023-02-08T13:56:19Z (last step: 2543 msec , total: 2543 msec) 
+#=#=#=# Syncrun finished 2023-02-08T13:56:19Z (last step: 8 msec , total: 2552 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:57:05Z
+#=#=#=#=# Propagation starts 2023-02-08T13:57:07Z (last step: 1170 msec , total: 1170 msec) 
+2023-02-08T13:57:07Z | _news/arxiv_icml_2023.md | SyncInstruction(CSYNC_INSTRUCTION_SYNC) | OCC::SyncFileItem::Up | | 1675864623 | 7108b5be2d962c2ff7a447433bd077c0 | 308 | 2942655554ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 806 | 1675864522 | 6a1d665d-611b-4f7d-a93d-58e4395c4e5c | 
+#=#=#=# Syncrun finished 2023-02-08T13:57:08Z (last step: 1084 msec , total: 2254 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:57:41Z
+#=#=#=#=# Propagation starts 2023-02-08T13:57:43Z (last step: 2163 msec , total: 2163 msec) 
+2023-02-08T13:57:43Z | _news/arxiv_icml_2023.md | SyncInstruction(CSYNC_INSTRUCTION_SYNC) | OCC::SyncFileItem::Up | | 1675864658 | 6e807698d1c85696b39921fb8c08c71b | 308 | 2942655554ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 308 | 1675864623 | e3030e24-2e7c-4ca7-b5c5-1f30169016dc | 
+#=#=#=# Syncrun finished 2023-02-08T13:57:44Z (last step: 1152 msec , total: 3315 msec) 
+#=#=#=# Syncrun started 2023-02-08T13:57:57Z
+#=#=#=#=# Propagation starts 2023-02-08T13:58:00Z (last step: 3132 msec , total: 3132 msec) 
+#=#=#=# Syncrun finished 2023-02-08T13:58:00Z (last step: 7 msec , total: 3139 msec) 
+#=#=#=# Syncrun started 2023-02-08T14:03:28Z
+#=#=#=#=# Propagation starts 2023-02-08T14:03:29Z (last step: 1181 msec , total: 1181 msec) 
+2023-02-08T14:03:29Z | _news/arxiv_icml_2023.md | SyncInstruction(CSYNC_INSTRUCTION_SYNC) | OCC::SyncFileItem::Up | | 1675865005 | b48a1d666b02b200c23bf30ddbc29abb | 716 | 2942655554ocfcb4e58640 | OCC::SyncFileItem::Success |  | 204 | 308 | 1675864658 | dededde4-3a06-4d75-a304-05a0d2f4f4d9 | 
+#=#=#=# Syncrun finished 2023-02-08T14:03:30Z (last step: 1024 msec , total: 2206 msec) 
