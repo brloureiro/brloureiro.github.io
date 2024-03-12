@@ -13,7 +13,7 @@ Week's long advanced course on selected topics from Machine Learning theory and 
 
 ### Wonders of high-dimensions: the maths and physics of Machine Learning
 
-A 3h long tutorial I gave at [ACDL 2023](https://acdl2023.icas.cc/). You can find the slides I have prepared here: [Lecture 1](/assets/pdf/slides_acdl2023_L1.pdf), [Lecture 2](/assets/pdf/slides_acdl2023_L1.pdf), [Lecture 2](/assets/pdf/slides_acdl2023_L1.pdf).
+A 3h long tutorial I gave at [ACDL 2023](https://acdl2023.icas.cc/). You can find the slides I have prepared here: [Lecture 1](/assets/pdf/slides_acdl2023_L1.pdf), [Lecture 2](/assets/pdf/slides_acdl2023_L2.pdf), [Lecture 3](/assets/pdf/slides_acdl2023_L3.pdf).
 
 ### Statistical Physics view of theory of Machine Learning
 
