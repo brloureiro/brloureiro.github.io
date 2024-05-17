@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /group/
-title: Group
+title: group
 description:
 nav: true
 nav_order: 5
@@ -9,7 +9,7 @@ nav_order: 5
 
 ### Current
 
-- Leonardo Defilippis (PhD, 2023-), PhD student.
+- Leonardo Defilippis (PhD, 2023-).
 - Arie Wortsman (M2, 2023-).
 - Roman Soletskyi (M2, 2023-), co-supervised with Marylou Gabrié.
 
