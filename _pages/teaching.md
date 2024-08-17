@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+### Princeton Machine Learning Theory Summer School 2024
+
+Course that I have at the [Princeton ML theory summer school](https://mlschool.princeton.edu/) on "Statistical physics for machine learning". You might be interested in the [lecture notes](/assets/pdf/NotesPrinceton_BL.pdf).
+
 ### PSL Week "Statistical Physics and Machine Learning"
 
 Week's long advanced course on selected topics from Machine Learning theory and their relationship to Statistical Physics, co-organised with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Giulio Biroli](https://www.lpens.ens.psl.eu/giulio-biroli/). You might be interested in the [lecture notes](/assets/pdf/psl_week_notes_sgd.pdf) I have prepared for the SGD part of the week.
