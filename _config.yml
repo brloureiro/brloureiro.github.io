@@ -210,6 +210,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - "https://csd.ens.psl.eu/"
 keep_files:
   - CNAME
   - .nojekyll
