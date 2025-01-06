@@ -9,6 +9,10 @@ nav_order: 5
 
 # **Courses**
 
+### Winter 2025 - Mathematics of deep learning
+
+Master 2 course at the PSL University IASD master program. [Course webpage](/teaching/iasd2025).
+
 ### Fall 2024 - Statistical Learning II
 
 Third year undergraduate (L3) machine learning course for students of the Double Licence [Intelligence Artificielle et Sciences des organisations](https://dauphine.psl.eu/formations/licences/3e-annee-double-licence-intelligence-artificielle-et-sciences-des-organisations) (IASO) at the Université Paris-Dauphine. The course material can be found at the dedicated [course webpage](/teaching/iaso2024).
