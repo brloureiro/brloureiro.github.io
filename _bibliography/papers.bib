@@ -29,7 +29,6 @@
       url={https://arxiv.org/abs/2410.13300},
 }
 
-
 @InProceedings{arnaboldi2024online,
   abbr={ICML},
   bibtex_show={true},
@@ -49,6 +48,7 @@
 }
 
 @misc{defilippis2024dimensionfree,
+      abbr={NeurIPS},
       title={Dimension-free deterministic equivalents for random feature regression},
       author={Leonardo Defilippis and Bruno Loureiro and Theodor Misiakiewicz},
       year={2024},
@@ -132,16 +132,22 @@
   abstract = 	 {In this manuscript, we investigate the problem of how two-layer neural networks learn features from data, and improve over the kernel regime, after being trained with a single gradient descent step. Leveraging the insight from (Ba et al., 2022), we model the trained network by a spiked Random Features (sRF) model. Further building on recent progress on Gaussian universality (Dandi et al., 2023), we provide an exact asymptotic description of the generalization error of the sRF in the high-dimensional limit where the number of samples, the width, and the input dimension grow at a proportional rate. The resulting characterization for sRFs also captures closely the learning curves of the original network model. This enables us to understand how adapting to the data is crucial for the network to efficiently learn non-linear functions in the direction of the gradient - where at initialization it can only express linear functions in this regime.}
 }
 
-
 @article{adomaityte2024,
-      title = {High-dimensional robust regression under heavy-tailed data: Asymptotics and Universality},
-      author = {Urte Adomaityte and Leonardo Defilippis and Bruno Loureiro and Gabriele Sicuro},
-      year={2023},
-      eprint={2309.16476},
-      arxiv={2309.16476},
-      archivePrefix={arXiv},
-      primaryClass={math.ST}
+bibtex_show={true},
+doi = {10.1088/1742-5468/ad65e6},
+url = {https://dx.doi.org/10.1088/1742-5468/ad65e6},
+year = {2024},
+month = {nov},
+publisher = {IOP Publishing},
+volume = {2024},
+number = {11},
+pages = {114002},
+author = {Urte Adomaityte and Leonardo Defilippis and Bruno Loureiro and Gabriele Sicuro},
+title = {High-dimensional robust regression under heavy-tailed data: asymptotics and universality},
+journal = {Journal of Statistical Mechanics: Theory and Experiment},
+abstract = {We investigate the high-dimensional properties of robust regression estimators in the presence of heavy-tailed contamination of both the covariates and response functions. In particular, we provide a sharp asymptotic characterisation of M-estimators trained on a family of elliptical covariate and noise data distributions including cases where second and higher moments do not exist. We show that, despite being consistent, the Huber loss with optimally tuned location parameter δ is suboptimal in the high-dimensional regime in the presence of heavy-tailed noise, highlighting the necessity of further regularisation to achieve optimal performance. This result also uncovers the existence of a transition in δ as a function of the sample complexity and contamination. Moreover, we derive the decay rates for the excess risk of ridge regression. We show that, while it is both optimal and universal for covariate distributions with finite second moment, its decay rate can be considerably faster when the covariates’ second moment does not exist. Finally, we show that our formulas readily generalise to a richer family of models and data distributions, such as generalised linear estimation with arbitrary convex regularisation trained on mixture models.}
 }
+
 
 @article{arnaboldi2023escaping,
       title = {Escaping mediocrity: how two-layer networks learn hard single-index models with SGD},
@@ -154,13 +160,16 @@
 }
 
 @article{dandi2023learning,
-      title = {Learning Two-Layer Neural Networks, One (Giant) Step at a Time},
-      author = {Yatin Dandi and Florent Krzakala and Bruno Loureiro and Luca Pesce and Ludovic Stephan},
-      year={2023},
-      eprint={2305.18270},
-      arxiv={2305.18270},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML}
+  abbr={JMLR},
+  bibtex_show={true},
+  author  = {Yatin Dandi and Florent Krzakala and Bruno Loureiro and Luca Pesce and Ludovic Stephan},
+  title   = {How Two-Layer Neural Networks Learn, One (Giant) Step at a Time},
+  journal = {Journal of Machine Learning Research},
+  year    = {2024},
+  volume  = {25},
+  number  = {349},
+  pages   = {1--65},
+  url     = {http://jmlr.org/papers/v25/23-1543.html}
 }
 
 @InProceedings{clarte2023ec,
