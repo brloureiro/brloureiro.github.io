@@ -11,7 +11,7 @@ nav_order: 5
 
 ### Winter 2025 - Mathematics of deep learning
 
-Master 2 course at the PSL University IASD master program. [Course webpage](/teaching/iasd2025).
+Master 2 course at the PSL University IASD & MASH master programs. [Course webpage](/teaching/iasd2025).
 
 ### Fall 2024 - Statistical Learning II
 
