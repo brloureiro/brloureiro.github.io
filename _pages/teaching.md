@@ -41,7 +41,7 @@ Course that I have taught at the [Princeton ML theory summer school](https://mls
 
 ### Archimedes Workshop on the Foundations of Modern AI
 
-Three lectures tutorial I gave at the [Archimedes Workshop on the Foundations of Modern AI](https://www.corelab.ntua.gr/aifoundations2024/) in Athens from 03-04 July 2024. The slides can be found [here](/assets/archimedes_2024.pdf)
+Three lectures tutorial I gave at the [Archimedes Workshop on the Foundations of Modern AI](https://www.corelab.ntua.gr/aifoundations2024/) in Athens from 03-04 July 2024. The slides can be found [here](/assets/pdf/archimedes2024.pdf).
 
 ### 2023/2024 PSL Week "Statistical Physics and Machine Learning"
 
