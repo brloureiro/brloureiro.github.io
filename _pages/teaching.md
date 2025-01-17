@@ -23,6 +23,10 @@ Between 2020-2022 I was a teaching assistant (TA) for this advanced course on st
 
 # **Summer schools and tutorials**
 
+### Nordita 2025 Winter school "Physics of Machine Learning & Machine Learning for Physics"
+
+Advanced course on statistical physics of learning taught at the [Nordita 2025 Winter school](https://indico.fysik.su.se/event/8856/) "Physics of Machine Learning & Machine Learning for Physics" 13-24 January 2025.
+
 ### Bangalore School on Statistical Physics XV
 
 Advanced course on statistical physics of learning that I taught at the [Bangalore School on Statistical Physics](https://www.icts.res.in/program/bssp2024). The topics covered are a selection from my [lecture notes](/assets/pdf/NotesPrinceton_BL.pdf).
