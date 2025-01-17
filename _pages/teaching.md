@@ -21,11 +21,15 @@ Third year undergraduate (L3) machine learning course for students of the Double
 
 Between 2020-2022 I was a teaching assistant (TA) for this advanced course on statistical physics methods for learning, constraint satisfaction and inference problems taught by Florent Krzakala and Lenka Zdeborová at EPFL. Lecture notes, exercises and corrections can be found in the [course webpage](https://sphinxteam.github.io/EPFLDoctoralLecture2021/).
 
-# **Summer schools and tutorials**
+# **Schools and tutorials**
 
 ### Nordita 2025 Winter school
 
 Advanced course on statistical physics of learning taught at the [Nordita 2025 Winter school](https://indico.fysik.su.se/event/8856/) "Physics of Machine Learning & Machine Learning for Physics" 13-24 January 2025.
+
+### 2024/2025 PSL Week "Statistical Physics and Machine Learning"
+
+2024/2025 Edition of the Statistical Physics and Machine Learning PSL week co-organised with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Giulio Biroli](https://www.lpens.ens.psl.eu/giulio-biroli/). My [lecture notes](/assets/pdf/psl_week_notes_sgd.pdf).
 
 ### Bangalore School on Statistical Physics XV
 
@@ -39,7 +43,7 @@ Course that I have taught at the [Princeton ML theory summer school](https://mls
 
 Three lectures tutorial I gave at the [Archimedes Workshop on the Foundations of Modern AI](https://www.corelab.ntua.gr/aifoundations2024/) in Athens from 03-04 July 2024. The slides can be found [here](/assets/archimedes_2024.pdf)
 
-### PSL Week "Statistical Physics and Machine Learning"
+### 2023/2024 PSL Week "Statistical Physics and Machine Learning"
 
 Week's long advanced course on selected topics from Machine Learning theory and their relationship to Statistical Physics, co-organised with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Giulio Biroli](https://www.lpens.ens.psl.eu/giulio-biroli/). You might be interested in the [lecture notes](/assets/pdf/psl_week_notes_sgd.pdf) I have prepared for the SGD part of the week.
 
