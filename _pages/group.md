@@ -12,6 +12,7 @@ nav_order: 5
 - Leonardo Defilippis (PhD, 2023-).
 - Arie Wortsman (PhD, 2024-).
 - [Alexis Aymé](https://alexisayme.github.io/) (Postdoc, 2024-).
+- Clément Loup-Forest (MSc, 2025-).
 
 ### Past
 - [Roman Soletskyi](https://www.linkedin.com/in/romansoletskyi/?originalSubdomain=fr) (M2, 2024), co-supervised with Marylou Gabrié. Now at Mistral AI.
