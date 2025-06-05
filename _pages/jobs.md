@@ -7,14 +7,20 @@ nav: true
 nav_order: 5
 ---
 
-### PhD fellowship on "Theoretical Investigation of Variational Inference in High-Dimensions"
+### Prospective post-docs
 
-Together with my colleague [Marylou Gabrié](https://marylou-gabrie.github.io/) (LPENS), we are currently looking for **strong and motivated** students to work on a project on the theoretical investigation of mode collapse. This PhD thesis will take place in the context of the **PR[AI]RIE-PSAI cluster**, and a project proposal can be found [here](/assets/pdf/phdproject.pdf).
+If you want to join my group as a postdoc, there are different opportunities to keep an eye on:
 
-Interested candidates should contact Bruno Loureiro (bruno.loureiro@di.ens.fr) and Marylou Gabrié (marylou.gabrie@ens.fr) until **Thursday 15/05/2025** with the following information:
+- [Laplace Postdoctoral Chair in Data Science](https://data-ens.github.io/jobs/):  This is an independent postdoctoral position based at the Centre for Data Science (CSD) at ENS. Applications open annually around December/January. Candidates must be endorsed by a CSD member they'd like to work with. If you're considering applying with my group, please reach out with your CV and a motivation letter.
 
-- A CV.
-- A 1 page motivation letter describing your interest and fit for this project.
-- A copy of your transcripts (master and undergraduate).
+- [Marie-Curie postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships):  A prestigious European-funded independent postdoc position. Applicants propose a project in collaboration with a host lab. The call typically closes around September/October each year. If you'd like to apply with my group as your host, feel free to [contact me](mailto:bruno.loureiro@di.ens.fr) with your CV and a project outline. I’m happy to provide feedback and support throughout the application process.
 
-The selection process will take place in two steps: first the PIs will select a candidate, which will be then endorsed for a PR[AI]RIE-PSAI scholarship based on merit. The process will take place between the 30/05/2025 and mid-June. 
+- [PRAIRIE Fellow in Artificial Intelligence](https://prairie-institute.fr/fellow-in-artificial-intelligence-m-f/): This independent postdoctoral position is funded by [PRAIRIE](https://prairie-institute.fr/). Applicants must choose a host lab affiliated with PRAIRIE. If you're interested in joining the [DATA](https://www.di.ens.fr/data/) team and working with me, please [get in touch](mailto:bruno.loureiro@di.ens.fr) with your CV and a motivation letter.
+
+- **Other opportunities**: Even if no open positions are currently listed, I may occasionally have funding available for postdocs on specific projects. If you have a strong background in high-dimensional probability or statistical physics and are interested in working with my group, feel free to [contact me](mailto:bruno.loureiro@di.ens.fr) with your CV to inquire about potential openings.
+
+### Prospective PhD students
+
+Prospective PhD students are encouraged to [contact me](mailto:bruno.loureiro@di.ens.fr) with their CV and academic transcripts. I generally follow the French academic calendar (see below), which unfortunately differs from the timeline of graduate applications in many other countries. However, if you're an international student with a strong background in statistical physics and/or applied mathematics, feel free to reach out — I'm happy to discuss potential opportunities on a case-by-case basis.
+
+- **A note about the French system**: In France, graduate students typically complete a 3-month research internship ("stage de master") between April and June at the lab where they intend to pursue their PhD. This internship period also coincides with the application cycle for PhD scholarships, which usually takes place around May. These internships offer a valuable opportunity for students to become familiar with their prospective supervisor and research topic. I usually begin discussions with interested candidates between October and early December of the preceding year, and make final selections by late December.
