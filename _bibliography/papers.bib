@@ -1,6 +1,36 @@
 ---
 ---
 
+@misc{arnaboldi2025sequence,
+      bibtex_show={true},
+      title={Asymptotics of SGD in Sequence-Single Index Models and Single-Layer Attention Networks},
+      author={Luca Arnaboldi and Bruno Loureiro and Ludovic Stephan and Florent Krzakala and Lenka Zdeborova},
+      year={2025},
+      eprint={2506.02651},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+}
+
+@misc{fan2025replica,
+      bibtex_show={true},
+      title={Dynamical mean-field analysis of adaptive Langevin diffusions: Replica-symmetric fixed point and empirical Bayes},
+      author={Zhou Fan and Justin Ko and Bruno Loureiro and Yue M. Lu and Yandi Shen},
+      year={2025},
+      eprint={2504.15558},
+      archivePrefix={arXiv},
+      primaryClass={math.ST},
+}
+
+@misc{fan2025propagation,
+      bibtex_show={true},
+      title={Dynamical mean-field analysis of adaptive Langevin diffusions: Propagation-of-chaos and convergence of the linear response},
+      author={Zhou Fan and Justin Ko and Bruno Loureiro and Yue M. Lu and Yandi Shen},
+      year={2025},
+      eprint={2504.15556},
+      archivePrefix={arXiv},
+      primaryClass={math.ST},
+}
+
 @misc{defilippis2025optimal,
       bibtex_show={true},
       title={Optimal Spectral Transitions in High-Dimensional Multi-Index Models},
@@ -11,15 +41,24 @@
       primaryClass={cs.LG},
 }
 
-@misc{dandi2024random,
-      bibtex_show={true},
-      title={A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities},
-      author={Yatin Dandi and Luca Pesce and Hugo Cui and Florent Krzakala and Yue M. Lu and Bruno Loureiro},
-      year={2024},
-      eprint={2410.18938},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML},
+@InProceedings{dandi2024random,
+  abbr={AISTATS},
+  bibtex_show={true},
+  title = 	 {A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities},
+  author =       {Dandi, Yatin and Pesce, Luca and Cui, Hugo and Krzakala, Florent and Lu, Yue and Loureiro, Bruno},
+  booktitle = 	 {Proceedings of The 28th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {2224--2232},
+  year = 	 {2025},
+  editor = 	 {Li, Yingzhen and Mandt, Stephan and Agrawal, Shipra and Khan, Emtiyaz},
+  volume = 	 {258},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {03--05 May},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v258/main/assets/dandi25a/dandi25a.pdf},
+  url = 	 {https://proceedings.mlr.press/v258/dandi25a.html},
+  abstract = 	 {A key property of neural networks is their capacity of adapting to data during training. Yet, our current mathematical understanding of feature learning and its relationship to generalization remain limited. In this work, we provide a random matrix analysis of how fully-connected two-layer neural networks adapt to the target function after a single, but aggressive, gradient descent step. We rigorously establish the equivalence between the updated features and an isotropic spiked random feature model, in the limit of large batch size. For the latter model, we derive a deterministic equivalent description of the feature empirical covariance matrix in terms of certain low-dimensional operators. This allows us to sharply characterize the impact of training in the asymptotic feature spectrum, and in particular, provides a theoretical grounding for how the tails of the feature spectrum modify with training. The deterministic equivalent further yields the exact asymptotic generalization error, shedding light on the mechanisms behind its improvement in the presence of feature learning. Our result goes beyond standard random matrix ensembles, and therefore we believe it is of independent technical interest. Different from previous work, our result holds in the challenging maximal learning rate regime, is fully rigorous and allows for finitely supported second layer initialization, which turns out to be crucial for studying the functional expressivity of the learned features. This provides a sharp description of the impact of feature learning in the generalization of two-layer neural networks, beyond the random features and lazy training regimes.}
 }
+
 
 @misc{vilucchio2024geometry,
       bibtex_show={true},
@@ -31,14 +70,17 @@
       primaryClass={stat.ML},
 }
 
-@misc{soletskyi2024theoretical,
-      title={A theoretical perspective on mode collapse in variational inference},
-      author={Roman Soletskyi and Marylou Gabrié and Bruno Loureiro},
-      year={2024},
-      eprint={2410.13300},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML},
-      url={https://arxiv.org/abs/2410.13300},
+
+
+@article{soletskyi2024theoretical,
+  abbr={MLST},
+  bibtex_show={true},
+	author={Soletskyi, Roman and Gabrié, Marylou and Loureiro, Bruno},
+	title={A Theoretical Perspective on Mode Collapse in Variational Inference},
+	journal={Machine Learning: Science and Technology},
+	url={http://iopscience.iop.org/article/10.1088/2632-2153/adde2a},
+	year={2025},
+	abstract={While deep learning has expanded the possibilities for highly expressive variational families, the practical benefits of these tools for variational inference (VI) are often limited by the minimization of the traditional Kullback-Leibler objective, which can yield suboptimal solutions. A major challenge in this context is \emph{mode collapse}: the phenomenon where a model concentrates on a few modes of the target distribution during training, despite being statistically capable of expressing them all. In this work, we carry a theoretical investigation of mode collapse for the gradient flow on Gaussian mixture models. We identify the key low-dimensional statistics characterizing the flow, and derive a closed set of low-dimensional equations governing their evolution. Leveraging this compact description, we show that mode collapse is present even in statistically favorable scenarios, and identify two key mechanisms driving it: mean alignment and vanishing weight. Our theoretical findings are consistent with the implementation of VI using normalizing flows, a class of popular generative models, thereby offering practical insights.}
 }
 
 @InProceedings{arnaboldi2024online,
@@ -59,24 +101,40 @@
   abstract = 	 {We study the impact of the batch size $n_b$ on the iteration time $T$ of training two-layer neural networks with one-pass stochastic gradient descent (SGD) on multi-index target functions of isotropic covariates. We characterize the optimal batch size minimizing the iteration time as a function of the hardness of the target, as characterized by the information exponents. We show that performing gradient updates with large batches $n_b \lesssim d^{\frac{\ell}{2}}$ minimizes the training time without changing the total sample complexity, where $\ell$ is the information exponent of the target to be learned and $d$ is the input dimension. However, larger batch sizes than $n_b \gg d^{\frac{\ell}{2}}$ are detrimental for improving the time complexity of SGD. We provably overcome this fundamental limitation via a different training protocol, <em>Correlation loss SGD</em>, which suppresses the auto-correlation terms in the loss function. We show that one can track the training progress by a system of low-dimensional ordinary differential equations (ODEs). Finally, we validate our theoretical results with numerical experiments.}
 }
 
-@misc{defilippis2024dimensionfree,
-      abbr={NeurIPS},
-      title={Dimension-free deterministic equivalents for random feature regression},
-      author={Leonardo Defilippis and Bruno Loureiro and Theodor Misiakiewicz},
-      year={2024},
-      eprint={2405.15699},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML}
+
+@inproceedings{defilippis2024dimensionfree,
+   abbr={NeurIPS},
+   bibtex_show={true},
+   author = {Defilippis, Leonardo and Loureiro, Bruno and Misiakiewicz, Theodor},
+   booktitle = {Advances in Neural Information Processing Systems},
+   editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+   pages = {104630--104693},
+   publisher = {Curran Associates, Inc.},
+   title = {Dimension-free deterministic equivalents and scaling laws for random feature regression},
+   url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/bd18189308a4c45c7d71ca83acf3deaa-Paper-Conference.pdf},
+   volume = {37},
+   year = {2024}
 }
 
-@misc{troiani2024fundamental,
-      title={Fundamental limits of weak learnability in high-dimensional multi-index models},
-      author={Emanuele Troiani and Yatin Dandi and Leonardo Defilippis and Lenka Zdeborová and Bruno Loureiro and Florent Krzakala},
-      year={2024},
-      eprint={2405.15480},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML}
+
+@InProceedings{troiani2024fundamental,
+  abbr={AISTATS},
+  bibtex_show={true},
+  title = 	 {Fundamental computational limits of weak learnability in high-dimensional multi-index models},
+  author =       {Troiani, Emanuele and Dandi, Yatin and Defilippis, Leonardo and Zdeborova, Lenka and Loureiro, Bruno and Krzakala, Florent},
+  booktitle = 	 {Proceedings of The 28th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {2467--2475},
+  year = 	 {2025},
+  editor = 	 {Li, Yingzhen and Mandt, Stephan and Agrawal, Shipra and Khan, Emtiyaz},
+  volume = 	 {258},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {03--05 May},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v258/main/assets/troiani25a/troiani25a.pdf},
+  url = 	 {https://proceedings.mlr.press/v258/troiani25a.html},
+  abstract = 	 {Multi-index models - functions which only depend on the covariates through a non-linear transformation of their projection on a subspace - are a useful benchmark for investigating feature learning with neural networks. This paper examines the theoretical boundaries of efficient learnability in this hypothesis class, focusing particularly on the minimum sample complexity required for weakly recovering their low-dimensional structure with first-order iterative algorithms, in the high-dimensional regime where the number of samples is $n=\alpha d$ is proportional to the covariate dimension $d$. Our findings unfold in three parts: (i) first, we identify under which conditions a \textit{trivial subspace} can be learned with a single step of a first-order algorithm for any $\alpha&gt;0$; (ii) second, in the case where the trivial subspace is empty, we provide necessary and sufficient conditions for the existence of an {\it easy subspace} consisting of directions that can be learned only above a certain sample complexity $\alpha&gt;\alpha_c$. The critical threshold $\alpha_{c}$ marks the presence of a computational phase transition, in the sense that it is conjectured that no efficient iterative algorithm can succeed for $\alpha&lt;\alpha_c$. In a limited but interesting set of really hard directions -akin to the parity problem- $\alpha_c$ is found to diverge. Finally, (iii) we demonstrate that interactions between different directions can result in an intricate hierarchical learning phenomenon, where some directions can be learned sequentially when coupled to easier ones. Our analytical approach is built on the optimality of approximate message-passing algorithms among first-order iterative methods, delineating the fundamental learnability limit across a broad spectrum of algorithms, including neural networks trained with gradient descent.}
 }
+
 
 
 @InProceedings{clarté2024analysis,
@@ -116,15 +174,25 @@
   abstract = 	 {For a large class of feature maps we provide a tight asymptotic characterisation of the test error associated with learning the readout layer, in the high-dimensional limit where the input dimension, hidden layer widths, and number of training samples are proportionally large. This characterization is formulated in terms of the population covariance of the features. Our work is partially motivated by the problem of learning with Gaussian rainbow neural networks, namely deep non-linear fully-connected networks with random but structured weights, whose row-wise covariances are further allowed to depend on the weights of previous layers. For such networks we also derive a closed-form formula for the feature covariance in terms of the weight matrices. We further find that in some cases our results can capture feature maps learned by deep, finite-width neural networks trained under gradient descent.}
 }
 
-
-@misc{tanner2024high,
-      title={A High Dimensional Model for Adversarial Training: Geometry and Trade-Offs},
-      author={Kasimir Tanner and Matteo Vilucchio and Bruno Loureiro and Florent Krzakala},
-      year={2024},
-      eprint={2402.05674},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML}
+@InProceedings{tanner2024high,
+  abbr={AISTATS},
+  bibtex_show={true},
+  title = 	 {A High Dimensional Statistical Model for Adversarial Training: Geometry and Trade-Offs},
+  author =       {Tanner, Kasimir and Vilucchio, Matteo and Loureiro, Bruno and Krzakala, Florent},
+  booktitle = 	 {Proceedings of The 28th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {2530--2538},
+  year = 	 {2025},
+  editor = 	 {Li, Yingzhen and Mandt, Stephan and Agrawal, Shipra and Khan, Emtiyaz},
+  volume = 	 {258},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {03--05 May},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v258/main/assets/tanner25a/tanner25a.pdf},
+  url = 	 {https://proceedings.mlr.press/v258/tanner25a.html},
+  abstract = 	 {This work investigates adversarial training in the context of margin-based linear classifiers in the high-dimensional regime where the dimension  $d$ and the number of data points $n$ diverge with a fixed ratio $\alpha = n / d$.  We introduce a tractable mathematical model where the interplay between the data and adversarial attacker geometries can be studied, while capturing the core phenomenology observed in the adversarial robustness literature.  Our main theoretical contribution is an exact asymptotic description of the sufficient statistics for the adversarial empirical risk minimiser, under generic convex and non-increasing losses for a Block Feature Model.  Our result allow us to precisely characterise which directions in the data are associated with a higher generalisation/robustness trade-off, as defined by a robustness and a usefulness metric.  This goes beyond previous models in the literature, which fail to capture a difference in performance between adversarially trained models in the high sample complexity regime. In particular, we unveil the existence of directions which can be defended without penalising accuracy.  Finally, we show the advantage of defending non-robust features during training, identifying a uniform protection as an inherently effective defence mechanism.}
 }
+
+
 
 @InProceedings{cui2024asymptotics,
   abbr={ICML},
