@@ -9,10 +9,10 @@ nav_order: 5
 
 # **Courses**
 
-- Winter 2025 - *Mathematics of deep learning*. M2 IASD & MASH. [Course webpage](/teaching/iasd2025)
-- Fall 2024 - *Statistical Learning II*. L3 IASO, Université Paris-Dauphine. [Course webpage](/teaching/iaso2024)
-- 2021/2022 - *Statistical Physics For Optimization and Learning*. EPFL. *Teaching assistant*.
-- Winter 2021 - *Statistical Physics For Optimization and Learning*. EPFL. [Course webpage](https://sphinxteam.github.io/EPFLDoctoralLecture2021/). *Teaching assistant*.
+- Winter 2025 - [Mathematics of deep learning](/teaching/iasd2025). M2 IASD & MASH. 
+- Fall 2024 - [Statistical Learning II](/teaching/iaso2024). L3 IASO, Université Paris-Dauphine. [Statistical Learning II](/teaching/iaso2024)
+- 2021/2022 - Statistical Physics For Optimization and Learning. EPFL (*Teaching assistant*).
+- Winter 2021 - [Statistical Physics For Optimization and Learning](https://sphinxteam.github.io/EPFLDoctoralLecture2021/). *Teaching assistant*. EPFL (*Teaching assistant*). 
 
 # **Schools and tutorials**
 
