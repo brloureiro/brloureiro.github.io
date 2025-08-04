@@ -9,17 +9,10 @@ nav_order: 5
 
 # **Courses**
 
-### Winter 2025 - Mathematics of deep learning
-
-Master 2 course at the PSL University IASD & MASH master programs. [Course webpage](/teaching/iasd2025).
-
-### Fall 2024 - Statistical Learning II
-
-Third year undergraduate (L3) machine learning course for students of the Double Licence [Intelligence Artificielle et Sciences des organisations](https://dauphine.psl.eu/formations/licences/3e-annee-double-licence-intelligence-artificielle-et-sciences-des-organisations) (IASO) at the Université Paris-Dauphine. The course material can be found at the dedicated [course webpage](/teaching/iaso2024).
-
-### Statistical Physics For Optimization and Learning
-
-Between 2020-2022 I was a teaching assistant (TA) for this advanced course on statistical physics methods for learning, constraint satisfaction and inference problems taught by Florent Krzakala and Lenka Zdeborová at EPFL. Lecture notes, exercises and corrections can be found in the [course webpage](https://sphinxteam.github.io/EPFLDoctoralLecture2021/).
+- Winter 2025 - *Mathematics of deep learning*. M2 IASD & MASH. [Course webpage](/teaching/iasd2025)
+- Fall 2024 - *Statistical Learning II*. L3 IASO, Université Paris-Dauphine. [Course webpage](/teaching/iaso2024)
+- 2021/2022 - *Statistical Physics For Optimization and Learning*. EPFL. *Teaching assistant*.
+- Winter 2021 - *Statistical Physics For Optimization and Learning*. EPFL. [Course webpage](https://sphinxteam.github.io/EPFLDoctoralLecture2021/). *Teaching assistant*.
 
 # **Schools and tutorials**
 
