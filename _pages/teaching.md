@@ -23,34 +23,13 @@ Between 2020-2022 I was a teaching assistant (TA) for this advanced course on st
 
 # **Schools and tutorials**
 
-### Nordita 2025 Winter school
-
-Advanced course on statistical physics of learning taught at the [Nordita 2025 Winter school](https://indico.fysik.su.se/event/8856/) "Physics of Machine Learning & Machine Learning for Physics" 13-24 January 2025.
-
-### 2024/2025 PSL Week "Statistical Physics and Machine Learning"
-
-2024/2025 Edition of the Statistical Physics and Machine Learning PSL week co-organised with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Giulio Biroli](https://www.lpens.ens.psl.eu/giulio-biroli/). My [lecture notes](/assets/pdf/psl_week_notes_sgd.pdf).
-
-### Bangalore School on Statistical Physics XV
-
-Advanced course on statistical physics of learning that I taught at the [Bangalore School on Statistical Physics](https://www.icts.res.in/program/bssp2024). The topics covered are a selection from my [lecture notes](/assets/pdf/NotesPrinceton_BL.pdf).
-
-### Princeton Machine Learning Theory Summer School 2024
-
-Course that I have taught at the [Princeton ML theory summer school](https://mlschool.princeton.edu/) on "Statistical physics for machine learning". You might be interested in the [lecture notes](/assets/pdf/NotesPrinceton_BL.pdf).
-
-### Archimedes Workshop on the Foundations of Modern AI
-
-Three lectures tutorial I gave at the [Archimedes Workshop on the Foundations of Modern AI](https://www.corelab.ntua.gr/aifoundations2024/) in Athens from 03-04 July 2024. The slides can be found [here](/assets/pdf/archimedes2024.pdf).
-
-### 2023/2024 PSL Week "Statistical Physics and Machine Learning"
-
-Week's long advanced course on selected topics from Machine Learning theory and their relationship to Statistical Physics, co-organised with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Giulio Biroli](https://www.lpens.ens.psl.eu/giulio-biroli/). You might be interested in the [lecture notes](/assets/pdf/psl_week_notes_sgd.pdf) I have prepared for the SGD part of the week.
-
-### Wonders of high-dimensions: the maths and physics of Machine Learning
-
-A 3h long tutorial I gave at [ACDL 2023](https://acdl2023.icas.cc/). You can find the slides I have prepared here: [Lecture 1](/assets/pdf/slides_acdl2023_L1.pdf), [Lecture 2](/assets/pdf/slides_acdl2023_L2.pdf), [Lecture 3](/assets/pdf/slides_acdl2023_L3.pdf).
-
-### Statistical Physics view of theory of Machine Learning
-
-Short 1h30 tutorial I gave at [ACDL 2022](https://acdl2022.icas.cc/). I have prepared some high-level [slides](/assets/pdf/slides_acdl2022.pdf) and covered one detailed classic calculation in the field, namely the deterministic limit of one-pass SGD dynamics for two-layers neural networks, highlighting also some recent developments from [this work](https://arxiv.org/abs/2202.00293) that appeared NeurIPS 2022. You can this in the [lecture notes](/assets/pdf/notes_acdl2022.pdf)  
+- [XV Escola do CBPF](https://escola.cbpf.br/cursos/fisica-estatistica-machine-learning), 21/07 July to 01 August 2025.
+- [INFORMS APS 2025 Summer School](https://informs-aps.isye.gatech.edu/summer-school/speakers), 21-29 June 2025.
+- [Nordita 2025 Winter school](https://indico.fysik.su.se/event/8856/), 13-24 January 2025.
+- 2024/2025 PSL Week "*Statistical Physics and Machine Learning*". 25-29 November 2024. Joint with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Giulio Biroli](https://www.lpens.ens.psl.eu/giulio-biroli/). 
+- [XV Bangalore School on Statistical Physics](https://www.icts.res.in/program/bssp2024), 13-24 January 2025.
+- [2024 Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/previous), 6 - 15 August 2024. [Lecture notes](/assets/pdf/NotesPrinceton_BL.pdf).
+-  [Archimedes Workshop on the Foundations of Modern AI](https://www.corelab.ntua.gr/aifoundations2024/), 03-04 July 2024. [Slides](/assets/pdf/archimedes2024.pdf).
+- 2023/2024 PSL Week "*Statistical Physics and Machine Learning*". 04-08 March 2024. Joint with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Giulio Biroli](https://www.lpens.ens.psl.eu/giulio-biroli/). [Lecture notes](/assets/pdf/psl_week_notes_sgd.pdf).
+- [6th Advanced Course on Data Science & Machine Learning](https://acdl2023.icas.cc/), 10-14 June 2023. Slides for [Lecture 1](/assets/pdf/slides_acdl2023_L1.pdf), [Lecture 2](/assets/pdf/slides_acdl2023_L2.pdf) and [Lecture 3](/assets/pdf/slides_acdl2023_L3.pdf).
+- [5th Advanced Course on Data Science & Machine Learning](https://acdl2022.icas.cc/), 22-26 August 2022. [Lecture notes](/assets/pdf/notes_acdl2022.pdf). 
