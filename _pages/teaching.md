@@ -19,7 +19,7 @@ nav_order: 5
 
 - [Statistical Physics & Machine Learning: moving forward](https://cargese2025.github.io/), 5-15 August 2025. [Notes](/assets/pdf/cargese2025.pdf).
 - [XV Escola do CBPF](https://escola.cbpf.br/cursos/fisica-estatistica-machine-learning), 21 July to 01 August 2025.
-- [INFORMS APS 2025 Summer School](https://informs-aps.isye.gatech.edu/summer-school/speakers), 21-29 June 2025.
+- [INFORMS APS 2025 Summer School](https://informs-aps.isye.gatech.edu/summer-school/speakers), 21-29 June 2025. [Lecture videos](https://www.youtube.com/@AppliedProbabilitySociety).
 - [Nordita 2025 Winter school](https://indico.fysik.su.se/event/8856/), 13-24 January 2025.
 - 2024/2025 PSL Week "*Statistical Physics and Machine Learning*". 25-29 November 2024. Joint with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Giulio Biroli](https://www.lpens.ens.psl.eu/giulio-biroli/). 
 - [XV Bangalore School on Statistical Physics](https://www.icts.res.in/program/bssp2024), 13-24 January 2025.
