@@ -9,11 +9,12 @@ nav_order: 5
 
 ### Current
 
-- Leonardo Defilippis (PhD, 2023-).
+- [Leonardo Defilippis](https://scholar.google.com/citations?user=-df-QMIAAAAJ) (PhD, 2023-).
 - Arie Wortsman (PhD, 2024-).
 - [Alexis Aymé](https://alexisayme.github.io/) (Postdoc, 2024-).
-- Clément Loup-Forest (MSc, 2025-).
-- Luigi Fogliani (MSc, 2025-), co-supervised with Marylou Gabrié.
+- Clément Loup-Forest (PhD, 2025-).
+- Luigi Fogliani (PhD, 2025-), co-supervised with Marylou Gabrié.
+- Pierre Mergny (Postdoc, 2025-).
 
 ### Past
 - [Roman Soletskyi](https://www.linkedin.com/in/romansoletskyi/?originalSubdomain=fr) (M2, 2024), co-supervised with Marylou Gabrié. Now at Mistral AI.
