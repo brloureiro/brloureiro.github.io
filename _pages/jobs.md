@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-### Post-doc opening
+<!-- ### Post-doc opening
 
 I am currently looking for a strong and motivated postdoc to work on the theory of feature learning on the JCJC 2025 project MAPLE (*Mathematical Analysis of Pattern Learning and Extraction*). The desired profile is a student with background in either *theoretical computer science*, *applied mathematics* and/or *statistical physics*. Strongly motivated candidates in other areas of theoretical physics might also fit. Familiarity with notions from RMT, high-d probability, spin glasses, AMP, etc. is a plus. Some papers relevant to this project are: [1](https://arxiv.org/abs/2305.18270), [2](https://arxiv.org/abs/2405.15699), [3](https://arxiv.org/abs/2402.04980), [4](https://arxiv.org/abs/2410.18938).
 
@@ -16,7 +16,7 @@ Prospective candidates should [contact me](mailto:bruno.loureiro@di.ens.fr) with
 - A detailed up-to-date academic CV.
 - 2 contacts for recommendation letters, ideally from supervisors and/or academic collaborators. 
 
-The position is funded for 2 years, with earliest starting date September 2025.  
+The position is funded for 2 years, with earliest starting date September 2025.   -->
 
 ### Prospective post-docs
 

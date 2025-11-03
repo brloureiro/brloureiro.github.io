@@ -18,7 +18,7 @@ nav_order: 5
 
 ### Past
 - [Roman Soletskyi](https://www.linkedin.com/in/romansoletskyi/?originalSubdomain=fr) (M2, 2024), co-supervised with Marylou Gabrié. Now at Mistral AI.
-- [Simone Maria Giancola](https://simonegiancola09.github.io/) (MSc, 2023) - now M2 Probabilités et Statistiques.
+- [Simone Maria Giancola](https://simonegiancola09.github.io/) (MSc, 2023) - now PhD student at Orsay.
 - Noemi Cuppone (M2, 2022)
 - [Luca Arnaboldi](https://people.epfl.ch/luca.arnaboldi?lang=en) (MSc, 2022), co-supervised with Florent Krzakala. Now PhD student at EPFL.
 - [Alexandre de Skowronski](https://www.linkedin.com/in/alexdesko/?originalSubdomain=ch) (MSc, 2022), co-supervised with Florent Krzakala. Now data scientist at Quanthome.
