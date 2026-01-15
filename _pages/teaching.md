@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 # **Courses**
-
+- Winter 2026 - [Mathematics of deep learning](/teaching/iasd2026). M2 IASD. 
 - Fall 2025 - [Statistical Learning II](/teaching/iaso2025). L3 IASO, Université Paris-Dauphine.
 - Winter 2025 - [Mathematics of deep learning](/teaching/iasd2025). M2 IASD & MASH. 
 - Fall 2024 - [Statistical Learning II](/teaching/iaso2024). L3 IASO, Université Paris-Dauphine. 
