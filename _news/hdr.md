@@ -5,4 +5,4 @@ inline: true
 ---
 
 I have successfully defended my *Habilitation à diriger des recherches* (HDR) "*Statistical Physics of two-layer neural networks:
-from kernels to feature learning*" in Computer Science ! 
+from kernels to feature learning*" in Computer Science !  You can check the manuscript out [here](/assets/pdf/hdr.pdf).
