@@ -10,7 +10,7 @@ nav_order: 5
 ### Current
 
 - [Leonardo Defilippis](https://scholar.google.com/citations?user=-df-QMIAAAAJ) (PhD, 2023-).
-- Arie Wortsman (PhD, 2024-).
+- [Arie Wortsman](https://scholar.google.com/citations?user=O3qupqEAAAAJ&hl=en) (PhD, 2024-).
 - Clément Loup-Forest (PhD, 2025-).
 - Luigi Fogliani (PhD, 2025-), co-supervised with Marylou Gabrié.
 - [Alexis Aymé](https://alexisayme.github.io/) (Postdoc, 2024-).
