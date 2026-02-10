@@ -18,6 +18,8 @@ nav_order: 5
 
 ### Visitors
 We had the pleasure to host in the group:
+- [Hee Bin Yoo](https://bi.snu.ac.kr/members/heebin-yoo.html), Feb-Mar 2026, PhD at Seoul National University. 
+- Lorenzo Rizzi, Feb-Apr 2026, MSc at the Galileian School of University of Padova. 
 - [Nikolaos Tsilivis](https://cims.nyu.edu/~nt2231/page.html), Oct-Dec 2025, PhD at NYU. 
 - [Theodor Misiakiewicz](https://misiakie.github.io/), Jun-Jul 2025, Assistant Professor at Yale University.
 - [Gibbs Nwemadji](https://datascience.sissa.it/person/236/arsene-gibbs-nwemadji-tiako), Mar-May 2025, PhD at SISSA.
