@@ -16,7 +16,7 @@ nav_order: 5
 - Winter 2021 - [Statistical Physics For Optimization and Learning](https://sphinxteam.github.io/EPFLDoctoralLecture2021/). EPFL (*Teaching assistant*). 
 
 # **Schools and tutorials**
-
+- [Spring College in the Physics of Complex Systems](https://indico.ictp.it/event/11133), 16-27 February 2026. Joint with [Mauro Pastore](https://www.ictp.it/member/mauro-pastore). Video recording available [here](https://indico.ictp.it/event/11133/other-view?view=ictptimetable).
 - [Statistical Physics & Machine Learning: moving forward](https://cargese2025.github.io/), 5-15 August 2025. [Notes](/assets/pdf/cargese2025.pdf).
 - [XV Escola do CBPF](https://escola.cbpf.br/cursos/fisica-estatistica-machine-learning), 21 July to 01 August 2025.
 - [INFORMS APS 2025 Summer School](https://informs-aps.isye.gatech.edu/summer-school/speakers), 21-29 June 2025. [Lecture videos](https://www.youtube.com/@AppliedProbabilitySociety).
