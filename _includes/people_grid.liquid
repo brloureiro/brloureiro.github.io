@@ -1,0 +1,31 @@
+<div class="people-grid">
+  {% for person in include.people %}
+    <div class="person-card">
+      {% if person.url %}
+        <a href="{{ person.url | relative_url }}" class="person-photo-link">
+          <img
+            src="{{ person.image | relative_url }}"
+            alt="{{ person.name }}"
+            class="person-photo"
+          >
+        </a>
+      {% else %}
+        <img
+          src="{{ person.image | relative_url }}"
+          alt="{{ person.name }}"
+          class="person-photo"
+        >
+      {% endif %}
+
+      <div class="person-name">
+        {% if person.url %}
+          <a href="{{ person.url | relative_url }}">{{ person.name }}</a>
+        {% else %}
+          {{ person.name }}
+        {% endif %}
+      </div>
+
+      <div class="person-role">{{ person.role }}</div>
+    </div>
+  {% endfor %}
+</div>
