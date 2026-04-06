@@ -12,10 +12,12 @@ nav_order: 5
 - [Leonardo Defilippis](https://scholar.google.com/citations?user=-df-QMIAAAAJ) (PhD, 2023-).
 - [Arie Wortsman](https://scholar.google.com/citations?user=O3qupqEAAAAJ&hl=en) (PhD, 2024-).
 - Clément Loup-Forest (PhD, 2025-).
-- Luigi Fogliani (PhD, 2025-), co-supervised with Marylou Gabrié.
+- [Luigi Fogliani](https://scholar.google.com/citations?user=dKTyHqEAAAAJ&hl=fr) (PhD, 2025-), co-supervised with Marylou Gabrié.
 - [Alexis Aymé](https://alexisayme.github.io/) (Postdoc, 2024-).
 - Pierre Mergny (Postdoc, 2025-).
 - Lorenzo Rizzi (M2 intern, 2026). 
+- Janis Aiad (M2 intern, 2026). 
+- Théo Goix (M1 intern, 2026). 
 
 ### Visitors
 We had the pleasure to host in the group:
