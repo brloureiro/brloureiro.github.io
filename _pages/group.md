@@ -16,8 +16,10 @@ nav_order: 5
 - [Alexis Aymé](https://alexisayme.github.io/) (Postdoc, 2024-).
 - Pierre Mergny (Postdoc, 2025-).
 - Lorenzo Rizzi (M2 intern, 2026). 
-- Janis Aiad (M2 intern, 2026). 
+- [Janis Aiad](https://janisaiad.github.io/) (M2 intern, 2026). 
+- João Alcindo Ribeiro de Azevedo (M2 intern, 2026)
 - Théo Goix (M1 intern, 2026). 
+
 
 ### Visitors
 We had the pleasure to host in the group:
@@ -29,7 +31,7 @@ We had the pleasure to host in the group:
 ### Past
 - [Roman Soletskyi](https://www.linkedin.com/in/romansoletskyi/?originalSubdomain=fr) (M2, 2024), co-supervised with Marylou Gabrié. Now at Mistral AI.
 - [Simone Maria Giancola](https://simonegiancola09.github.io/) (MSc, 2023) - now PhD student at Orsay.
-- Noemi Cuppone (M2, 2022)
+- [Noemi Cuppone](https://kclpure.kcl.ac.uk/portal/en/persons/noemi-cuppone/) (M2, 2022) - now PhD student at King's College London.
 - [Luca Arnaboldi](https://people.epfl.ch/luca.arnaboldi?lang=en) (MSc, 2022), co-supervised with Florent Krzakala. Now PhD student at EPFL.
 - [Alexandre de Skowronski](https://www.linkedin.com/in/alexdesko/?originalSubdomain=ch) (MSc, 2022), co-supervised with Florent Krzakala. Now data scientist at Quanthome.
 - [Marie Sellier-Prono](https://www.lpens.ens.psl.eu/laboratoire/annuaire/?id=1294) (MSc, 2022), co-supervised with Florent Krzakala. Now PhD student at LPENS.
