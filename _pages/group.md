@@ -15,11 +15,11 @@ nav_order: 5
 - [Luigi Fogliani](https://scholar.google.com/citations?user=dKTyHqEAAAAJ&hl=fr) (PhD, 2025-), co-supervised with Marylou Gabrié.
 - [Alexis Aymé](https://alexisayme.github.io/) (Postdoc, 2024-).
 - Pierre Mergny (Postdoc, 2025-).
-- Lorenzo Rizzi (M2 intern, 2026). 
-- [Janis Aiad](https://janisaiad.github.io/) (M2 intern, 2026). 
-- João Alcindo Ribeiro de Azevedo (M2 intern, 2026)
-- Théo Goix (M1 intern, 2026). 
-
+- Lorenzo Rizzi (M2 intern, 2026), from Università di Padova.
+- [Janis Aiad](https://janisaiad.github.io/) (M2 intern, 2026), from MVA. 
+- João Alcindo Ribeiro de Azevedo (M2 intern, 2026), from EMAp FGV.
+- Théo Goix (M1 intern, 2026), from DIENS.
+- Akanksha Das (M2 intern, 2026), from ISI Kolkata.
 
 ### Visitors
 We had the pleasure to host in the group:
@@ -29,11 +29,12 @@ We had the pleasure to host in the group:
 - [Gibbs Nwemadji](https://datascience.sissa.it/person/236/arsene-gibbs-nwemadji-tiako), Mar-May 2025, PhD at SISSA.
 
 ### Past
+<!-- - Lorenzo Rizzi (M2, 2026) - now PhD student at SISSA. -->
 - [Roman Soletskyi](https://www.linkedin.com/in/romansoletskyi/?originalSubdomain=fr) (M2, 2024), co-supervised with Marylou Gabrié. Now at Mistral AI.
 - [Simone Maria Giancola](https://simonegiancola09.github.io/) (MSc, 2023) - now PhD student at Orsay.
 - [Noemi Cuppone](https://kclpure.kcl.ac.uk/portal/en/persons/noemi-cuppone/) (M2, 2022) - now PhD student at King's College London.
-- [Luca Arnaboldi](https://people.epfl.ch/luca.arnaboldi?lang=en) (MSc, 2022), co-supervised with Florent Krzakala. Now PhD student at EPFL.
+- [Luca Arnaboldi](https://www.arnaboldi.lu/) (MSc, 2022), co-supervised with Florent Krzakala. Now PhD student at EPFL.
 - [Alexandre de Skowronski](https://www.linkedin.com/in/alexdesko/?originalSubdomain=ch) (MSc, 2022), co-supervised with Florent Krzakala. Now data scientist at Quanthome.
 - [Marie Sellier-Prono](https://www.lpens.ens.psl.eu/laboratoire/annuaire/?id=1294) (MSc, 2022), co-supervised with Florent Krzakala. Now PhD student at LPENS.
-- [Luca Pesce](https://people.epfl.ch/luca.pesce?lang=en) (MSc, 2021), co-supervised with Florent Krzakala. Now PhD student at EPFL.
-- [Alessandro Pacco](https://scholar.google.com/citations?user=H5ozprkAAAAJ&hl=it) (MSc, 2021), co-supervised with Florent Krzakala. Now PhD student at LPTMS.
+- [Luca Pesce](https://lucpoisson.github.io/) (MSc, 2021), co-supervised with Florent Krzakala. Now postdoc at Harvard.
+- [Alessandro Pacco](https://scholar.google.com/citations?user=H5ozprkAAAAJ&hl=it) (MSc, 2021), co-supervised with Florent Krzakala. Now postdoc at Johns Hopkins.
