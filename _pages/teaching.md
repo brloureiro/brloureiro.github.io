@@ -16,6 +16,8 @@ nav_order: 5
 - Winter 2021 - [Statistical Physics For Optimization and Learning](https://sphinxteam.github.io/EPFLDoctoralLecture2021/). EPFL (*Teaching assistant*). 
 
 # **Schools and tutorials**
+- [InformedAI Summer School 2026](https://informed-ai.net/summer-school-june-2026-schedule/), 15-18 June 2026. [Notes](/assets/pdf/informed_school.pdf).
+- [Matrices et tenseurs aléatoires pour l'inférence et l'apprentissage](gdr-iasis.cnrs.fr/reunions/matrices-et-tenseurs-aleatoires-pour-linference-et-lapprentissage/), 8 June 2026. 
 - [5th Workshop on Statistical Physics](https://fisindico.uniandes.edu.co/event/23/), 13-17 April 2026.
 - [Spring College in the Physics of Complex Systems](https://indico.ictp.it/event/11133), 16-27 February 2026. Joint with [Mauro Pastore](https://www.ictp.it/member/mauro-pastore). Video recording available [here](https://indico.ictp.it/event/11133/other-view?view=ictptimetable).
 - [Statistical Physics & Machine Learning: moving forward](https://cargese2025.github.io/), 5-15 August 2025. [Notes](/assets/pdf/cargese2025.pdf).

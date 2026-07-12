@@ -6,7 +6,7 @@ title: Bruno Loureiro # the website title (if blank, full name will be used inst
 first_name: Bruno
 middle_name:
 last_name: Loureiro
-email: brloureiro@gmail.com
+email: bruno.loureiro@di.ens.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal webpage of Bruno Loureiro, researcher working on the crossroads between statistical physics and machine learning.
 footer_text: >

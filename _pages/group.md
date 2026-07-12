@@ -15,11 +15,10 @@ nav_order: 5
 - [Luigi Fogliani](https://scholar.google.com/citations?user=dKTyHqEAAAAJ&hl=fr) (PhD, 2025-), co-supervised with Marylou Gabrié.
 - [Alexis Aymé](https://alexisayme.github.io/) (Postdoc, 2024-).
 - Pierre Mergny (Postdoc, 2025-).
-- Lorenzo Rizzi (M2 intern, 2026), from Università di Padova.
 - [Janis Aiad](https://janisaiad.github.io/) (M2 intern, 2026), from MVA. 
-- João Alcindo Ribeiro de Azevedo (M2 intern, 2026), from EMAp FGV.
 - Théo Goix (M1 intern, 2026), from DIENS.
-- Akanksha Das (M2 intern, 2026), from ISI Kolkata.
+- Akanksha Das (Summer intern, 2026), from ISI Kolkata.
+- Francesco Insulla (Summer intern, 2026), from Stanford University.
 
 ### Visitors
 We had the pleasure to host in the group:
@@ -29,7 +28,8 @@ We had the pleasure to host in the group:
 - [Gibbs Nwemadji](https://datascience.sissa.it/person/236/arsene-gibbs-nwemadji-tiako), Mar-May 2025, PhD at SISSA.
 
 ### Past
-<!-- - Lorenzo Rizzi (M2, 2026) - now PhD student at SISSA. -->
+- João Alcindo Ribeiro de Azevedo (M2 intern, 2026).
+- Lorenzo Rizzi (M2, 2026) - now PhD student at SISSA.
 - [Roman Soletskyi](https://www.linkedin.com/in/romansoletskyi/?originalSubdomain=fr) (M2, 2024), co-supervised with Marylou Gabrié. Now at Mistral AI.
 - [Simone Maria Giancola](https://simonegiancola09.github.io/) (MSc, 2023) - now PhD student at Orsay.
 - [Noemi Cuppone](https://kclpure.kcl.ac.uk/portal/en/persons/noemi-cuppone/) (M2, 2022) - now PhD student at King's College London.
