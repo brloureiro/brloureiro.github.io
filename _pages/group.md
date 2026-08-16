@@ -15,9 +15,6 @@ nav_order: 5
 - [Luigi Fogliani](https://scholar.google.com/citations?user=dKTyHqEAAAAJ&hl=fr) (PhD, 2025-), co-supervised with Marylou Gabrié.
 - [Alexis Aymé](https://alexisayme.github.io/) (Postdoc, 2024-).
 - Pierre Mergny (Postdoc, 2025-).
-- [Janis Aiad](https://janisaiad.github.io/) (M2 intern, 2026), from MVA. 
-- Théo Goix (M1 intern, 2026), from DIENS.
-- Akanksha Das (Summer intern, 2026), from ISI Kolkata.
 - Francesco Insulla (Summer intern, 2026), from Stanford University.
 
 ### Visitors
@@ -28,6 +25,9 @@ We had the pleasure to host in the group:
 - [Gibbs Nwemadji](https://datascience.sissa.it/person/236/arsene-gibbs-nwemadji-tiako), Mar-May 2025, PhD at SISSA.
 
 ### Past
+- [Janis Aiad](https://janisaiad.github.io/) (M2 intern, 2026), from MVA. 
+- Théo Goix (M1 intern, 2026), from DIENS.
+- Akanksha Das (Summer intern, 2026), from ISI Kolkata.
 - João Alcindo Ribeiro de Azevedo (M2 intern, 2026).
 - Lorenzo Rizzi (M2, 2026) - now PhD student at SISSA.
 - [Roman Soletskyi](https://www.linkedin.com/in/romansoletskyi/?originalSubdomain=fr) (M2, 2024), co-supervised with Marylou Gabrié. Now at Mistral AI.
