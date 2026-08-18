@@ -15,7 +15,7 @@ nav_order: 5
 - [Luigi Fogliani](https://scholar.google.com/citations?user=dKTyHqEAAAAJ&hl=fr) (PhD, 2025-), co-supervised with Marylou Gabrié.
 - [Alexis Aymé](https://alexisayme.github.io/) (Postdoc, 2024-).
 - Pierre Mergny (Postdoc, 2025-).
-- Francesco Insulla (Summer intern, 2026), from Stanford University.
+- [Francesco Insulla](https://scholar.google.com/citations?user=YrgrSwoAAAAJ&hl=en) (Summer intern, 2026), from Stanford University.
 
 ### Visitors
 We had the pleasure to host in the group:
