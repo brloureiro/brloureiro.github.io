@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 # **Courses**
-- Fall 2026 - [Statistical Learning II](/teaching/iaso2026). L3 IASO, Université Paris-Dauphine.
+- Fall 2026 - [Statistical Learning II](/teaching/iaso). L3 IASO, Université Paris-Dauphine.
 - Winter 2026 - [Mathematics of deep learning](/teaching/iasd2026). M2 IASD. 
 - Fall 2025 - [Statistical Learning II](/teaching/iaso2025). L3 IASO, Université Paris-Dauphine.
 - Winter 2025 - [Mathematics of deep learning](/teaching/iasd2025). M2 IASD & MASH. 
@@ -17,6 +17,7 @@ nav_order: 5
 - Winter 2021 - [Statistical Physics For Optimization and Learning](https://sphinxteam.github.io/EPFLDoctoralLecture2021/). EPFL (*Teaching assistant*). 
 
 # **Schools and tutorials**
+- [School on Analytical Connectionism 2026](https://www.analytical-connectionism.net/school/2026/), 17-28 August 2026.
 - [InformedAI Summer School 2026](https://informed-ai.net/summer-school-june-2026-schedule/), 15-18 June 2026. [Notes](/assets/pdf/informed_school.pdf).
 - [Matrices et tenseurs aléatoires pour l'inférence et l'apprentissage](gdr-iasis.cnrs.fr/reunions/matrices-et-tenseurs-aleatoires-pour-linference-et-lapprentissage/), 8 June 2026. 
 - [5th Workshop on Statistical Physics](https://fisindico.uniandes.edu.co/event/23/), 13-17 April 2026.

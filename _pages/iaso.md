@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/iaso2026
+permalink: /teaching/iaso
 title: Statistical Learning II
 description:
 nav: false
