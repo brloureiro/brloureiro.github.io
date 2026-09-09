@@ -44,7 +44,7 @@ The material in this course takes inspiration from the following excellent resso
 
 | Date        | Lecture Topic                | Materials                            |
 |-------------|------------------------------|--------------------------------------|
-| Sept 09     | - Introduction <br> - Supervised Learning             |  |
+| Sept 09     | - Introduction <br> - Supervised Learning             | [Slides](/assets/iaso/lecture1.pdf) |
 | Sept 16    |  | |
 | Sept 23    |  | |
 | Sept 30    |  | |
