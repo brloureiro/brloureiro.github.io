@@ -45,13 +45,13 @@ The material in this course takes inspiration from the following excellent resso
 | Date        | Lecture Topic                | Materials                            |
 |-------------|------------------------------|--------------------------------------|
 | Sept 09     | - Introduction <br> - Math recap             | [Slides](/assets/iaso/lecture1.pdf) |
-| Sept 16    |- Math recap (continued) <br> - Supervised Learning | [Slides](/assets/iaso/lecture2.pdf) |
+| Sept 16    | - Math recap (continued) <br> - Supervised Learning | [Slides](/assets/iaso/lecture2.pdf) |
 | Sept 23    |  | |
 | Sept 30    |  | |
 | Oct 07     |  | |
 | Oct 14     |  | |
 | Oct 21     |  | |
-| Oct 28     | Reading week |  |
+| Oct 28     | No class |  |
 | Nov 04     | Midtern exam |  |
 | Nov 11     |  | |
 | Nov 18     |  | |
