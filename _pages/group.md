@@ -25,15 +25,15 @@ We had the pleasure to host in the group:
 - [Gibbs Nwemadji](https://datascience.sissa.it/person/236/arsene-gibbs-nwemadji-tiako), Mar-May 2025, PhD at SISSA.
 
 ### Past
-- [Francesco Insulla](https://scholar.google.com/citations?user=YrgrSwoAAAAJ&hl=en) (Summer intern, 2026), from Stanford University.
-- [Janis Aiad](https://janisaiad.github.io/) (M2 intern, 2026), from MVA. 
+- [Francesco Insulla](https://scholar.google.com/citations?user=YrgrSwoAAAAJ&hl=en) (Summer intern, 2026), from Stanford University. Now PhD at Stanford.
+- [Janis Aiad](https://janisaiad.github.io/) (M2 intern, 2026), from M2 MVA. now PhD at Caltech. 
 - Théo Goix (M1 intern, 2026), from DIENS.
 - Akanksha Das (Summer intern, 2026), from ISI Kolkata.
-- João Alcindo Ribeiro de Azevedo (M2 intern, 2026), from EMAp-FGV.
+- João Alcindo Ribeiro de Azevedo (M2 intern, 2026), from EMAp-FGV. Now M2 IASD.
 - Lorenzo Rizzi (M2, 2026) - now PhD student at SISSA.
 - [Roman Soletskyi](https://www.linkedin.com/in/romansoletskyi/?originalSubdomain=fr) (M2, 2024), co-supervised with Marylou Gabrié. Now at Mistral AI.
-- [Simone Maria Giancola](https://simonegiancola09.github.io/) (MSc, 2023) - now PhD student at Orsay.
-- [Noemi Cuppone](https://kclpure.kcl.ac.uk/portal/en/persons/noemi-cuppone/) (M2, 2022) - now PhD student at King's College London.
+- [Simone Maria Giancola](https://simonegiancola09.github.io/) (MSc, 2023), from Bocconi. now PhD student at Orsay.
+- [Noemi Cuppone](https://kclpure.kcl.ac.uk/portal/en/persons/noemi-cuppone/) (M2, 2022). Now PhD student at King's College London.
 - [Luca Arnaboldi](https://www.arnaboldi.lu/) (MSc, 2022), co-supervised with Florent Krzakala. Now PhD student at EPFL.
 - [Alexandre de Skowronski](https://www.linkedin.com/in/alexdesko/?originalSubdomain=ch) (MSc, 2022), co-supervised with Florent Krzakala. Now data scientist at Quanthome.
 - [Marie Sellier-Prono](https://www.lpens.ens.psl.eu/laboratoire/annuaire/?id=1294) (MSc, 2022), co-supervised with Florent Krzakala. Now PhD student at LPENS.
