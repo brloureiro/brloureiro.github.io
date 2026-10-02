@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ENS & CNRS, Departement d'Informatique.
+subtitle: CNRS and Département d'Informatique de l'École Normale Supérieure.
 
 profile:
   align: right
@@ -16,6 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a [CNRS](https://www.cnrs.fr/) researcher in the [DATA team](https://www.di.ens.fr/data/), part of the [Centre for Data Science](https://csd.ens.psl.eu/) at the [École Normale Supérieure](https://www.ens.psl.eu/) in Paris. My work lies at the intersection of machine learning and statistical mechanics. I also serve as a *Professeur Attaché* at Université Paris Sciences et Lettres (PSL), where I teach in both undergraduate and graduate programs across its affiliated institutions.
+I am a senior researcher (*directeur de recherche*) at the [Computer Science department](https://www.di.ens.fr/) of [École Normale Supérieure](https://www.ens.psl.eu/) in Paris, where I lead a [research group](./group/) working at the intersection of machine learning and statistical mechanics, with a particular interest in developing mathematical theory for modern learning systems.
 
-If you are interested in my research, you can find a complete list of my publications [here](./publications/).
+My group is based at the interdisciplinary [Centre for Data Science](https://csd.ens.psl.eu/), and is part of the [DATA team](https://www.di.ens.fr/data/). I and also a *Professeur Attaché* at Université Paris Sciences et Lettres (PSL), where I teach in undergraduate and graduate programmes.
+
+You can find more about my [group](./group/) and a complete list of my [publications](./publications/).
