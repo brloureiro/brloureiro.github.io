@@ -17,10 +17,12 @@ nav_order: 5
 - [Alexis Aymé](https://alexisayme.github.io/) (Postdoc, 2024-).
 - [Pierre Mergny](https://scholar.google.com/citations?user=emzl03AAAAAJ&hl=fr) (Postdoc, 2025-).
 - [Victor Issa](https://victorissa.fr/) (Postdoc, 2026-), co-supervised with Raphael Berthier.
+- [Sota Nishiyama](https://sotanishy.github.io/), visiting PhD student from the University of Tokyo. 
+
 
 ### Visitors
 We had the pleasure to host in the group:
-- [Sota Nishiyama](https://sotanishy.github.io/), Oct-Dec 2026, PhD at the University of Tokyo. 
+<!-- - [Sota Nishiyama](https://sotanishy.github.io/), Oct-Dec 2026, PhD at the University of Tokyo.  -->
 - [Hee Bin Yoo](https://bi.snu.ac.kr/members/heebin-yoo.html), Feb-Mar 2026, PhD at Seoul National University. 
 - [Nikolaos Tsilivis](https://cims.nyu.edu/~nt2231/page.html), Oct-Dec 2025, PhD at NYU. 
 - [Theodor Misiakiewicz](https://misiakie.github.io/), Jun-Jul 2025, Assistant Professor at Yale University.
