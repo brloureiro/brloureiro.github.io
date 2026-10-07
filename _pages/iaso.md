@@ -48,7 +48,7 @@ The material in this course takes inspiration from the following excellent resso
 | Sept 16    | - Math recap (continued) <br> - Supervised Learning | [Slides](/assets/iaso/lecture2.pdf) <br> [TD](/assets/iaso/td1.pdf) |
 | Sept 23    | Supervised Learning (continued) | [Slides](/assets/iaso/lecture3.pdf) <br> [TD](/assets/iaso/td2.pdf) |
 | Sept 30    | Least Squares  | [Slides](/assets/iaso/lecture4.pdf) <br> [TD](/assets/iaso/td3.pdf) & [TP](/assets/iaso/td3.ipynb) |
-| Oct 07     |  | |
+| Oct 07     | Least Squares (continued) | [Slides](/assets/iaso/lecture5.pdf) <br> [TD](/assets/iaso/td4.pdf) & [TP](/assets/iaso/td4.ipynb) |
 | Oct 14     |  | |
 | Oct 21     |  | |
 | Oct 28     | No class |  |
