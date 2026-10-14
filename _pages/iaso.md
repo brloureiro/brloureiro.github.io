@@ -49,7 +49,7 @@ The material in this course takes inspiration from the following excellent resso
 | Sept 23    | Supervised Learning (continued) | [Slides](/assets/iaso/lecture3.pdf) <br> [TD](/assets/iaso/td2.pdf) |
 | Sept 30    | Least Squares  | [Slides](/assets/iaso/lecture4.pdf) <br> [TD](/assets/iaso/td3.pdf) & [TP](/assets/iaso/td3.ipynb) |
 | Oct 07     | Least Squares (continued) | [Slides](/assets/iaso/lecture5.pdf) <br> [TD](/assets/iaso/td4.pdf) & [TP](/assets/iaso/td4.ipynb) |
-| Oct 14     | Bias-Variance decomposition | [Slides](/assets/iaso/lecture6.pdf) |
+| Oct 14     | Bias-Variance decomposition | [Slides](/assets/iaso/lecture6.pdf)  <br> [Notes](/assets/iaso/notes_lec6.pdf) |
 | Oct 21     |  | |
 | Oct 28     | No class |  |
 | Nov 04     | Midtern exam |  |
