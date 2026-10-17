@@ -174,7 +174,7 @@ function render(){
   }else if(view.n==='play'){
     var x=cur();
     h='<header><button class="lk" data-a="back">‹ Levadas</button><h2>'+esc(x.name)+'</h2><button class="lk r" data-a="edit">Editar</button></header>'+
-      '<div class="top"><span>'+x.m+'</span><button class="tg" data-a="score" aria-pressed="'+!!x.sc+'">Partitura</button></div>'+board(x.steps,x.m,false,x.sc)+
+      '<div class="top"><span>'+x.m+'</span><button class="tg" data-a="score" aria-pressed="'+!!x.sc+'">Partitura</button></div>'+board(x.steps,x.m,true,x.sc)+
       '<div class="ctl"><button class="play" id="pl" data-a="toggle">'+(playing?'Parar':'Tocar')+'</button>'+
       '<div class="row"><label for="bpm">Andamento</label><input id="bpm" type="range" min="40" max="200" value="'+x.bpm+'"><output id="bv">'+x.bpm+' BPM</output></div>'+
       '<div class="row"><label for="vol">Volume</label><input id="vol" type="range" min="0" max="100" value="'+Math.round(vol*100)+'"><output id="vv">'+Math.round(vol*100)+'%</output></div></div>';
