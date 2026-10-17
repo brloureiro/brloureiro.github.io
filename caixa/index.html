@@ -108,7 +108,7 @@ var METERS=['2/4','3/4','4/4','5/4','6/8','7/8','9/8','12/8'];
 function geo(m){var p=m.split('/').map(Number),a=p[0],b=p[1];return{n:b===4?a*4:a*2,g:(b===8&&a%3===0)?6:4}}
 function tpl(m,old){var n=geo(m).n,o=[];for(var i=0;i<n;i++)o.push(old&&old[i]?old[i]:{h:i%2?'e':'d',t:'n',r:1});return o}
 function fromText(s){return s.replace(/\s/g,'').split('').map(function(c){return{h:c.toLowerCase(),t:c===c.toLowerCase()?'n':'a',r:1}})}
-function seed(){return[{id:1,name:'Levada 1',m:'4/4',bpm:80,steps:fromText('DedE Dede dEdE Dede')}]}
+function seed(){return[{id:1,name:'Afoxé do Walter',m:'4/4',bpm:80,steps:fromText('DedE Dede dEdE Dede')}]}
 function load(){try{var x=JSON.parse(localStorage.getItem(KEY));if(Array.isArray(x)&&x.length)return x}catch(e){}return seed()}
 function save(){try{localStorage.setItem(KEY,JSON.stringify(L))}catch(e){}}
 var L=load(),vol=0.8;
