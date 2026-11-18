@@ -51,10 +51,10 @@ The material in this course takes inspiration from the following excellent resso
 | Oct 07     | Least Squares (continued) | [Slides](/assets/iaso/lecture5.pdf) <br> [TD](/assets/iaso/td4.pdf) & [TP](/assets/iaso/td4.ipynb) |
 | Oct 14     | Bias-Variance decomposition | [Slides](/assets/iaso/lecture6.pdf)  <br> [Notes](/assets/iaso/notes_lec6.pdf) |
 | Oct 21     | Bias-Variance decomposition (continued) | [Slides](/assets/iaso/lecture7.pdf)  <br> [TD](/assets/iaso/td5.pdf) |
-| Oct 28     | No class |  |
-| Nov 04     | Midtern exam |  |
-| Nov 11     |  | |
-| Nov 18     |  | |
+| Oct 28     | Midtern exam |  |
+| Nov 04     | No class |  |
+| Nov 11     | Holiday (Armistice) | |
+| Nov 18     | Bias-Variance decomposition (continued) | [Slides](/assets/iaso/lecture8.pdf) |
 | Nov 25     |  | |
 | Dec 02     |  | |
 | Dec 09     |  | |
